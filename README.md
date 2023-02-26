@@ -1,4 +1,5 @@
 # GlassBeam_Assignment
+
 Steps to compile and run the program:
 
 Save the above code as a Python file (e.g. log_processor.py).
