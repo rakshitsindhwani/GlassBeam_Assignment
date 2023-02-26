@@ -1,0 +1,8 @@
+ip igmp proxy-mobility-group  
+
+
+MIP Group Table
+---------------
+Group  Members
+-----  -------
+

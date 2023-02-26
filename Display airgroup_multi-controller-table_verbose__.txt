@@ -1,0 +1,9 @@
+airgroup multi-controller-table verbose  
+
+
+AirGroup Multi-Controller-Table verbose
+---------------------------------------
+IP-Address  Type  Request with Tag Tx  Unicast Response with tag Tx  Raw Response Tx  Request with Tag Rx  Unicast Response with tag Rx  Raw Response Rx
+----------  ----  -------------------  ----------------------------  ---------------  -------------------  ----------------------------  ---------------
+Num IP-Address:0
+

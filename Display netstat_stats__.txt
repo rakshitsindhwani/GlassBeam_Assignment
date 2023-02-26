@@ -1,0 +1,62 @@
+netstat stats  
+
+
+Ip:
+    6295394 total packets received
+    4508 forwarded
+    25767 with unknown protocol
+    0 incoming packets discarded
+    4136457 incoming packets delivered
+    1239391 requests sent out
+    6181 reassemblies required
+    1035 packets reassembled ok
+    1024 fragments received ok
+    6171 fragments created
+Icmp:
+    19370 ICMP messages received
+    9 input ICMP message failed.
+    ICMP input histogram:
+        destination unreachable: 11
+        redirects: 4508
+        echo requests: 14851
+    46476 ICMP messages sent
+    0 ICMP messages failed
+    ICMP output histogram:
+        destination unreachable: 27125
+        redirect: 4508
+        echo replies: 14843
+IcmpMsg:
+        InType3: 11
+        InType5: 4508
+        InType8: 14851
+        OutType0: 14843
+        OutType3: 27125
+
+
+        OutType5: 4508
+Tcp:
+    1022 active connections openings
+    9 passive connection openings
+    5 failed connection attempts
+    2 connection resets received
+    1 connections established
+    196840 segments received
+    380546 segments send out
+    8 segments retransmited
+    0 bad segments received.
+    747 resets sent
+Udp:
+    1925690 packets received
+    1662 packets to unknown port received.
+    0 packet receive errors
+    793276 packets sent
+    RcvbufErrors: 0
+    SndbufErrors: 0
+UdpLite:
+    InDatagrams: 0
+    NoPorts: 0
+    InErrors: 0
+    OutDatagrams: 0
+    RcvbufErrors: 0
+    SndbufErrors: 0
+

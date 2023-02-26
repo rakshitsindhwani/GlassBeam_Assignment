@@ -1,0 +1,8 @@
+ucc call-info cdrs detail  
+
+
+CDR-Detail:
+-----------
+CDR ID  UCC Call ID  AP Name  Re-Assoc  UCC Score  UCC-Band  WLAN Delay(ms)/Jitter(ms)/PktLoss(%)  SNR  Avg Tx Rate(Mbps)  Tx Drop(%)  Tx Retry(%)  Avg Rx Rate(Mbps)  Rx Retry(%)  MOS  MOS-Band  End-to-End Delay(ms)/Jitter(ms)/PktLoss(%)
+------  -----------  -------  --------  ---------  --------  ------------------------------------  ---  -----------------  ----------  -----------  -----------------  -----------  ---  --------  ------------------------------------------
+

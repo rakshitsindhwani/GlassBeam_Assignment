@@ -1,0 +1,33 @@
+datapath vlan table  
+
+
+Datapath VLAN Table Entries
+---------------------------
+
+Flags: N - Nat Inside, M - Route Multicast, R - Routing
+       S - Snoop MLD, G - Snoop IGMP, P - Proxy IGMP
+       B - BCMC Optimization, A - Proxy ARP, U - Suppress ARP
+       O - Nat Outside
+       1(cert-id) - 8021X Term-PEAP, 2(cert-id) - 8021X Term-TLS
+
+VLAN  Flags         Ingress RACL  Ports
+----  ------------  ------------  -----
+1     RU            0             0/0/0, 0/0/1, 0/0/2, 0/0/3, 0/0/4, 0/0/5
+84    RU            0             0/0/2, 0/0/3
+104   RU            0             0/0/2, 0/0/3
+220   RU            0             0/0/2, 0/0/3
+3228  RU            0             0/0/2, 0/0/3
+4004  RU            0             0/0/2, 0/0/3
+4008  RU            0             0/0/2, 0/0/3
+4012  RU            0             0/0/2, 0/0/3
+4016  RU            0             0/0/2, 0/0/3
+4020  RU            0             0/0/2, 0/0/3
+4024  RU            0             0/0/2, 0/0/3
+4028  RU            0             0/0/2, 0/0/3
+4032  RU            0             0/0/2, 0/0/3
+4036  RU            0             0/0/2, 0/0/3
+4040  RU            0             0/0/2, 0/0/3
+4044  RU            0             0/0/2, 0/0/3
+4048  RU            0             0/0/2, 0/0/3
+4095  RU            0             0/0/2, 0/0/3, 1/0/0, 1/0/1
+

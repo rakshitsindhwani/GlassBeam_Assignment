@@ -1,0 +1,134 @@
+ucc configuration  
+
+
+Voice firewall policies
+-----------------------
+Policy                      Action
+------                      ------
+Stateful SIP Processing     Enabled
+WMM content enforcement     Disabled
+Session VOIP Timeout        Disabled
+Stateful H.323 Processing   Enabled
+Stateful SIPS Processing    Enabled
+Stateful SCCP Processing    Enabled
+Stateful VOCERA Processing  Enabled
+Stateful UA Processing      Enabled
+
+
+SSID Profiles
+-------------
+Profile Name                  WMM       WMM-UAPSD  TSPEC Min Inactivity(msec)  DSCP-vo  DSCP-vi  DSCP-be  DSCP-bk  Battery Boost  EDCA STA prof  EDCA AP prof  Strict SVP
+------------                  ---       ---------  --------------------------  -------  -------  -------  -------  -------------  -------------  ------------  ----------
+AP-CorralA                    Disabled  Enabled    0                           56       40       24       8        Disabled       N/A            N/A           Disabled
+App-Inventor                  Disabled  Enabled    0                                                               Disabled       N/A            N/A           Disabled
+AppInventor                   Disabled  Enabled    0                                                               Disabled       N/A            N/A           Disabled
+BUCKSconstruction             Disabled  Enabled    0                                                               Disabled       N/A            N/A           Disabled
+BUCKSemployee-SSID            Disabled  Enabled    0                                                               Disabled       N/A            N/A           Disabled
+BUCKSguest-SSID               Disabled  Enabled    0                                                               Disabled       N/A            N/A           Disabled
+BucksNet-Device-SSID-Profile  Disabled  Enabled    0                           56       40       24       8        Disabled       N/A            N/A           Disabled
+BucksNet-Voice                Disabled  Enabled    0                           56       40       24       8        Disabled       N/A            N/A           Disabled
+BucksNet-Voice-SSID-Profile   Enabled   Enabled    0                           46       26       0        8        Enabled        N/A            N/A           Disabled
+BUCKSstudent-SSID             Disabled  Enabled    0                                                               Disabled       N/A            N/A           Disabled
+BUCKSVideo-SSID               Disabled  Enabled    0                                                               Disabled       N/A            N/A           Disabled
+default                       Disabled  Enabled    0                           56       40       24       8        Disabled       N/A            N/A           Disabled
+LearningStudio                Disabled  Enabled    0                           56       40       24       8        Disabled       N/A            N/A           Disabled
+Meet-secure                   Disabled  Enabled    0                                                               Disabled       N/A            N/A           Disabled
+Portable4                     Disabled  Enabled    0                           56       40       24       8        Disabled       N/A            N/A           Disabled
+TylerTasting                  Disabled  Enabled    0                                                               Disabled       N/A            N/A           Disabled
+Zpac                          Disabled  Enabled    0                                                               Disabled       N/A            N/A           Disabled
+
+
+AP Group Profiles
+-----------------
+Profile Name                VoIP CAC Profile
+------------                ----------------
+3Darts                      default
+AlliedHealth                default
+Barn                        default
+Bristol                     default
+Bristol-FireTraining        default
+Bristol-Outdoor             default
+Cottages                    default
+default                     default
+ELC                         default
+FacultyCenter               default
+Farmhouse                   default
+Founders                    default
+Founders-Mesh               default
+Founders-Outdoor            default
+Gateway                     default
+Gym-Wellness                default
+HicksArtCenter              default
+JL-Pavilion                 default
+Library                     default
+Library-LearningStudio      default
+Library-Outdoor             default
+Mailroom                    default
+MusicMultimedia             default
+NoAuthApGroup               default
+Orangery                    default
+Pemberton                   default
+Pemberton-Outdoor           default
+Penn                        default
+Penn-Mesh                   default
+Penn-outdoor                default
+Perkasie                    default
+Perkasie-LearningStudio     default
+RAP-ATC                     default
+RAP-DoylestownFireTraining  default
+RAPs                        default
+Rollins                     default
+ScienceCenter               default
+SpectrumMode                default
+Test                        default
+Tyler                       default
+
+
+Virtual AP Group Profiles
+-------------------------
+Profile Name           802.11K Profile  HA Discovery on-assoc.  Drop Broadcast/Multicast  Broadcast ARP to Unicast
+------------           ---------------  ----------------------  ------------------------  ------------------------
+AppInventor-VAP        default          Enabled                 Enabled                   Enabled
+BUCKSconstruction-VAP  add-k            Enabled                 Enabled                   Enabled
+BUCKSemployee-VAP      add-k            Enabled                 Enabled                   Enabled
+BUCKSguest-VAP         add-k            Enabled                 Enabled                   Enabled
+Bucksnet-Device-VAP    add-k            Enabled                 Enabled                   Enabled
+Bucksnet-Voice-VAP     default          Enabled                 Enabled                   Enabled
+BUCKSstudent-VAP       add-k            Enabled                 Enabled                   Enabled
+BUCKSVideo-VAP         default          Enabled                 Disabled                  Disabled
+default                default          Enabled                 Disabled                  Enabled
+ELC-mesh               default          Enabled                 Disabled                  Enabled
+LearningStudio         default          Enabled                 Enabled                   Enabled
+Meet-secure            default          Enabled                 Enabled                   Enabled
+Portable4              default          Enabled                 Disabled                  Enabled
+TylerTasting-VAP       default          Enabled                 Enabled                   Enabled
+Zpac-VAP               add-k            Enabled                 Enabled                   Enabled
+
+
+VoIP Call Admission Control Profiles
+------------------------------------
+Profile Name  VoIP CAC
+------------  --------
+default       Disabled
+
+
+802.11K Profiles
+----------------
+Profile Name  Advertise 802.11K Capability
+------------  ----------------------------
+add-k         Enabled
+default       Disabled
+
+
+SIP settings
+------------
+Parameter         Value
+---------         -----
+Session Timer     Disabled
+Session Expiry    300 sec
+Dialplan Profile  N/A
+
+
+Voice rtcp-inactivity:disable
+Voice sip-midcall-req-timeout:disable
+

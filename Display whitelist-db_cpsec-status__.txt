@@ -1,0 +1,19 @@
+whitelist-db cpsec-status  
+
+
+My Mac-Address                77:6f:6b:79:99:67
+My IP-Address                 172.186.123.57
+Master IP-Address             172.186.123.62
+Switch-Role                   Local
+
+Entries in Whitelist database
+
+Total entries:                0
+Approved entries:             0
+Unapproved entries:           0
+Certified entries:            0
+Certified hold entries:       0
+Revoked entries:              0
+Marked for deletion entries:  0
+Current Sequence Number:    0
+

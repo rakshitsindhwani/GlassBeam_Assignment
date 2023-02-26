@@ -1,0 +1,10 @@
+whitelist-db rap-status  
+
+
+
+Entries in Whitelist database
+
+Total entries:                37
+Revoked entries:              0
+Marked for deletion entries:  0
+

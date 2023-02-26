@@ -1,0 +1,9 @@
+threshold-limits no-of-locals  
+
+
+Threshold Values For No Of Locals 
+----------------------------------
+Default(%)  Current(%)  Max Locals   No of Locals connected
+----------  ----------  -----------  ----------------------
+80          80          256          1
+

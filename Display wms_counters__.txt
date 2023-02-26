@@ -1,0 +1,37 @@
+wms counters  
+
+
+Counters
+--------
+Name                       Value
+----                       -----
+Probe-table                0
+Probe-list                 0
+Gateway Macs               0
+Registered OUIs            0
+Propagated Eth Macs        0
+Potential Router Macs      0
+Valid Exempt Station Macs  0
+AP G-table                 0
+AP A-table                 0
+Total AP Count             0
+AP Add Count               0
+AP Delete Count            0
+STA G-table                0
+STA A-table                0
+Total STA Count            0
+STA Add Count              0
+STA Delete Count           0
+STA Update Count           0
+Sta-Probe table: STA       0
+Sta-Probe table: Probe     0
+AP state RB-tree           0
+STA state RB-tree          0
+AP stats RB-tree           0
+STA stats RB-tree          0
+Channel stats RB-tree      0
+Total Tree Count           0
+MAX RB-tree Count          600000
+Max Count Exceeded - APs   0
+Max Count Exceeded - STAs  0
+

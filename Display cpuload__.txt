@@ -1,0 +1,5 @@
+cpuload  
+
+
+user 2.2%, system 3.5%, idle 94.3%
+

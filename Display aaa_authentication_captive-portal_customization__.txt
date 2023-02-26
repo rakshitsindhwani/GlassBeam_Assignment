@@ -1,0 +1,13 @@
+aaa authentication captive-portal customization  
+
+
+Captive-Portal Customization
+----------------------------
+Profile             Customized
+-------             ----------
+BUCKSguest-cp_prof  No
+cp-guest-portal     Yes
+default             No
+OnGuard-Redirect    Yes
+test_guest-cp_prof  No
+

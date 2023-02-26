@@ -1,0 +1,9 @@
+license profile  
+
+
+License provisioning profile
+----------------------------
+Parameter              Value
+---------              -----
+Centralized Licensing  Enabled
+

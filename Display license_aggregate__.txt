@@ -1,0 +1,8 @@
+license aggregate  
+
+
+This command is applicable only on the license server.
+
+
+
+

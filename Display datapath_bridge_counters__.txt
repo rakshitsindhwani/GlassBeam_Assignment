@@ -1,0 +1,18 @@
+datapath bridge counters  
+
+
++----+------+-----------------------------------------------------+
+|SUM/|      |                                   |                 |
+|CPU | Addr | Description                                   Value |
++----+------+-----------------------------------------------------+
+|    |      |                                                     |
+| G  | [00] | Current Entries                                 325 |
+| G  | [02] | High Water Mark                                1596 |
+| G  | [03] | Maximum Entries                               65536 |
+| G  | [04] | Total Entries                                248509 |
+| G  | [06] | Max link length                                   3 |
+| G  | [07] | Age Index                                       968 |
+| G  | [08] | Age Entries                                       2 |
+| G  | [10] | Age Period                                        1 |
++----+------+-----------------------------------------------------+
+

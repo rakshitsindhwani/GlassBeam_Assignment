@@ -1,0 +1,19 @@
+ip igmp proxy-mobility-stats  
+
+
+IGMP Mobility Multicast Statistics
+----------------------------------
+Name              Sent  Received
+----              ----  --------
+Joins             -     0
+Leaves            -     0
+Intra-move        -     0
+Inter-move        -     0
+Client-away       -     0
+Back-home         -     0
+Query-db          -     0
+Query-foreign-db  -     0
+Query-home-db     -     0
+Add-visitor       -     0
+Replies           0     -
+

@@ -1,0 +1,19 @@
+ap arm client-match summary advanced  
+
+
+SM: Sticky Moves, BM: Bandsteer Moves, LM: Load Balance Moves, MU: MUsteer Moves, VoM: Voice Roam Moves
+T: Total, S: Success
+A: Acceptable, L: Too Long, W: Wrong Radio, UF: Uncontrolled Radio(Full VBR), UI: Uncontrolled Radio(Incomplete VBR), M: Multiple SSIDs, N: No Move
+Client Match Summary 
+---------------------
+MAC  SM (T/S/A/L/W/UF/UI/M/N)  LM (T/S/A/L/W/UF/UI/M/N)  BM (T/S/A/L/W/UF/UI/M/N)  MU (T/S/A/L/W/UF/UI/M/N)  VoM (T/S/A/L/W/UF/UI/M/N)  Moves (T/S/A/L/W/UF/UI/M/N)  Last Move (Time/Rsn/Dur))  Device Type  SAP miss/Stale/11v/Other/SSID check/Unst
+---  ------------------------  ------------------------  ------------------------  ------------------------  -------------------------  ---------------------------  -------------------------  -----------  ----------------------------------------
+
+Total clients:0
+Sticky (T/S/A/L/W/UF/UI/M/N):0/0/0/0/0/0/0/0/0
+Load-balance (T/S/A/L/W/UF/UI/M/N):0/0/0/0/0/0/0/0/0
+Band-steer (T/S/A/L/W/UF/UI/M/N):0/0/0/0/0/0/0/0/0
+VHT-steer (T/S/A/L/W/UF/UI/M/N):0/0/0/0/0/0/0/0/0
+Voice-roam (T/S/A/L/W/UF/UI/M/N):0/0/0/0/0/0/0/0/0
+MU-steer (T/S/A/L/W/UF/UI/M/N):0/0/0/0/0/0/0/0/0
+

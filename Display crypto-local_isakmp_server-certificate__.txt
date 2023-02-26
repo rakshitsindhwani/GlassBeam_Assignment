@@ -1,0 +1,10 @@
+crypto-local isakmp server-certificate  
+
+
+
+ISAKMP Server Certificates
+---------------------------
+Server certificate name          Client-VPN  # of Site-Site-Maps
+-----------------------          ----------  -------------------
+Hiwi-Factory-Server-Cert-Chain  RAP-only    0
+

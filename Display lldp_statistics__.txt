@@ -1,0 +1,8 @@
+lldp statistics  
+
+
+LLDP Statistics
+---------------
+Interface  Received  Unknown TLVs  Malformed  Transmitted
+---------  --------  ------------  ---------  -----------
+

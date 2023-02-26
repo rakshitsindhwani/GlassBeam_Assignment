@@ -1,0 +1,20 @@
+version  
+
+Hiwi Operating System Software.
+HiwiOS (MODEL: Hiwi7210-EU), Version 8.33.3.12
+Website: http://www.Hiwinetworks.com
+Copyright (c) 2002-2016, Hiwi Networks, an HP company.
+Compiled on 2016-10-03 at 10:41:35 PDT (build 56727) by p4build
+
+ROM: System Bootstrap, Version CPBoot 1.22.3.2 (build 444498)
+Built: 2016-05-05 07:46:55
+Built by: p4build@re_client_494431
+
+
+Switch uptime is 21 days 46 minutes 55 seconds
+Reboot Cause: User reboot (Intent:cause:register 78:86:50:2)
+Supervisor Card
+Processor (XLP416 Rev B2 (Secure Boot) , 800 MHz) with 7370M bytes of memory.
+32K bytes of non-volatile configuration memory.
+7744M bytes of Supervisor Card system flash.
+

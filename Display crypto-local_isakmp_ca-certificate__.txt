@@ -1,0 +1,10 @@
+crypto-local isakmp ca-certificate  
+
+
+
+ISAKMP CA Certificates
+-----------------------
+CA certificate name  Client-VPN  # of Site-Site-Maps
+-------------------  ----------  -------------------
+Hiwi-Factory-CA     Y           0
+

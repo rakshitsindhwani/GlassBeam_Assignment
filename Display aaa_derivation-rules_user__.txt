@@ -1,0 +1,9 @@
+aaa derivation-rules user  
+
+
+user rule groups
+----------------
+Name                   References  Rules  Hits
+----                   ----------  -----  ----
+dhcp-fingerprint-rule  0           2      0
+

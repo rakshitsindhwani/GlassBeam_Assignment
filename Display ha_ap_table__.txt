@@ -1,0 +1,14 @@
+ha ap table  
+
+
+HA AP Table
+-----------
+AP  IP-Address  MAC-Address  AP-flags  HA-flags
+--  ----------  -----------  --------  --------
+
+Total Num APs::0
+Active APs::0
+Standby APs::0
+AP Flags: R=RAP; S=Standby; s=Bridge Split VAP L=Licensed; M=Mesh, U=Up
+HA Flags: S=Standby, C=Standby connected, L=LMS, F=Sent Failover Request to AP, H=AP flaged for Inter Controller Heartbeat
+

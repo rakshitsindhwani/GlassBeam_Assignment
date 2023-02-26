@@ -1,0 +1,9 @@
+whitelist-db cpsec-seq  
+
+
+NOTE: This command has been deprecated. 
+Please use "show whitelist-db seq" command.
+
+
+
+

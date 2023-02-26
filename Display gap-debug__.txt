@@ -1,0 +1,21 @@
+gap-debug  
+
+
+GAP LMS Info
+------------
+Item                  Value
+----                  -----
+LMS Cookie            172.186.123.57,584b796b
+LMS Seq               30209
+Master IP             172.186.123.62
+Master Cookie         172.186.123.62,584b794f
+Master Seq            0
+Last Reset Reason     init
+Periodic Sync State   Done
+Last Sync Time        --
+
+AP Update List
+--------------
+Name  Group  IP  Status  In Message
+----  -----  --  ------  ----------
+

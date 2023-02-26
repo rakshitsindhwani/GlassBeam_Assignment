@@ -1,0 +1,12 @@
+ipv6 mld config  
+
+
+MLD Config
+----------
+Name                     Value
+----                     -----
+robustness-variable      2
+query-interval           125
+query-response-interval  100
+ssm-range                FF3X::4000:1 - FF3X::FFFF:FFFF
+

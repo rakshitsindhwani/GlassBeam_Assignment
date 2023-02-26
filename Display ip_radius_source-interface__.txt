@@ -1,0 +1,7 @@
+ip radius source-interface  
+
+
+Global radius client source IP address = 2.2.2.2, vlan 0
+Global radius client source IPv6 address = ::, vlan 0
+Per-server client source IPv4/6 addresses:
+

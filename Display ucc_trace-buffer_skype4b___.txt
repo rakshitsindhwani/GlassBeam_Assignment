@@ -1,0 +1,9 @@
+ucc trace-buffer skype4b   
+
+
+Skype4B Voice Client(s) Message Trace
+-------------------------------------
+Client IP  Client MAC  Client Name  Direction  Event Time  BSSID  Called To  CAC-Status  Media Type  AP Name  Src Port  Dest Port  Call Status
+---------  ----------  -----------  ---------  ----------  -----  ---------  ----------  ----------  -------  --------  ---------  -----------
+Num of Rows:0
+

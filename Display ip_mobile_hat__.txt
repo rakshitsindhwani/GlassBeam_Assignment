@@ -1,0 +1,10 @@
+ip mobile hat  
+
+
+
+*** WARNING ***: Mobility service is disabled (router mobile)
+
+Active Home Agent Table (HAT)
+-----------------------------
+   Home Agent Table
+

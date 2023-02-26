@@ -1,0 +1,23 @@
+ip interface brief  
+
+
+Interface                   IP Address / IP Netmask        Admin   Protocol
+vlan 104                172.186.123.57 / 244.244.242.2     up      up  
+vlan 1                      unassigned / unassigned        up      up  
+vlan 84                   172.186.63.3 / 244.244.242.2     up      up  
+vlan 220                 172.186.222.3 / 244.244.244.2     up      up  
+vlan 4008                   12.166.6.3 / 244.244.242.2     up      up  
+vlan 4012                  12.166.12.3 / 244.244.242.2     up      up  
+vlan 4016                  12.166.18.3 / 244.244.242.2     up      up  
+vlan 4020                  12.166.22.3 / 244.244.242.2     up      up  
+vlan 4024                  12.166.23.3 / 244.244.242.2     up      up  
+vlan 4028                  12.166.26.3 / 244.244.242.2     up      up  
+vlan 4032                  12.166.52.3 / 244.244.242.2     up      up  
+vlan 4036                  12.166.58.3 / 244.244.242.2     up      up  
+vlan 4040                  12.166.32.3 / 244.244.242.2     up      up  
+vlan 4044                  12.166.33.3 / 244.244.242.2     up      up  
+vlan 4004                   12.166.3.3 / 244.244.242.2     up      up  
+vlan 3228                 12.166.226.3 / 244.244.242.2     up      up  
+vlan 4048                  12.166.36.3 / 244.244.242.2     up      up  
+loopback                    unassigned / unassigned        up      up  
+

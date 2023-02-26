@@ -1,0 +1,88 @@
+airgroup internal-state statistics  
+
+
+Time: Fri Dec 30 23:23:38 2016
+
+Sibyte MDNS Messages
+--------------------
+Opcode  Name                         Sent Since Last Read  Sent Total  Recv Since Last Read  Recv Total
+------  ----                         --------------------  ----------  --------------------  ----------
+7       app                          0                     2           0                     0
+193     N/A                          0                     119         0                     0
+Rx      Request                      N/A                   N/A         0                     0
+Rx      Response                     N/A                   N/A         0                     0
+Tx      Request-Refresh              0                     0           N/A                   N/A
+Tx      Request-discovery            0                     119         N/A                   N/A
+Tx      Request-wildcard             0                     0           N/A                   N/A
+Tx      Response-Solicited           0                     0           N/A                   N/A
+Tx      Response-Solicited-Fragment  0                     0           N/A                   N/A
+Tx      Response-Unsolicited         0                     0           N/A                   N/A
+Tx/Rx   Total                        0                     0           N/A                   N/A
+ 
+Sibyte DLNA Messages
+--------------------
+Opcode  Name             Sent Since Last Read  Sent Total  Recv Since Last Read  Recv Total
+------  ----             --------------------  ----------  --------------------  ----------
+193     N/A              0                     221         0                     0
+Rx      Query            N/A                   N/A         0                     0
+Rx      Notify Announce  N/A                   N/A         0                     0
+Rx      Notify Bye       N/A                   N/A         0                     0
+Tx      Response         0                     0           N/A                   N/A
+ 
+Internal MDNS Statistics
+------------------------
+Functionality                     Hit Count Since Last Read  Hit Count Total
+-------------                     -------------------------  ---------------
+Response - Cache Update           0                          0
+Response                          0                          0
+Query - prepare records + Policy  0                          0
+Query - Policy                    0                          0
+Query - resp pkt gen & send       0                          0
+Query - Response packet send      0                          0
+Query                             0                          0
+Multicast Response propagate      0                          0
+Wired User Query Drop             0                          0
+ 
+Internal DLNA Statistics
+------------------------
+Functionality                     Hit Count Since Last Read  Hit Count Total
+-------------                     -------------------------  ---------------
+Response - Cache Update           0                          0
+Response                          0                          0
+Query - prepare records + Policy  0                          0
+Query - Policy                    0                          0
+Query - resp pkt gen & send       0                          0
+Query - Response packet send      0                          0
+Query                             0                          0
+Wired User Query Drop             0                          0
+ 
+MDNS Multi-controller Cluster Messages
+--------------------------------------
+Type                              Sent Since Last Read  Sent Total  Recv Since Last Read  Recv Total
+----                              --------------------  ----------  --------------------  ----------
+Unicast Response with tag         0                     0           0                     0
+Request with tag                  0                     0           0                     0
+Raw Response                      0                     0           0                     0
+Multicast Propagate Raw Response  0                     0           0                     0
+ 
+DLNA Multi-controller Cluster Messages
+--------------------------------------
+Type              Sent Since Last Read  Sent Total  Recv Since Last Read  Recv Total
+----              --------------------  ----------  --------------------  ----------
+Request with tag  0                     0           0                     0
+Raw Response      0                     0           0                     0
+ 
+Packet Arrival Statistics (per minute)
+--------------------------------------
+Peak Packet Arrival Rate  Peak Arrival Time  No. Servers  No. Clients
+------------------------  -----------------  -----------  -----------
+0                         Dec 09 22:38:47    0            0
+ 
+Cache Bucket Size
+-----------------
+Service  AP Name Bucket  AP FQLN Bucket  User Name Bucket  Default Bucket
+-------  --------------  --------------  ----------------  --------------
+MDNS     0               0               0                 0
+SSDP     0               0               0                 0
+ 
+

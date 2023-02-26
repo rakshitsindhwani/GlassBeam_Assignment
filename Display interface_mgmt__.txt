@@ -1,0 +1,8 @@
+interface mgmt  
+
+
+There is no management interface on this card
+
+
+
+

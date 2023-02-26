@@ -1,0 +1,20 @@
+ipc statistics app-name ucm  
+
+Local Statistics
+To application      Tx Msg   Tx Blk   Tx Ret  Tx Fail   Rx Ack   Rx Msg  Rx Drop   Rx Err   Tx Ack    Tx Sign    Rx Sign    Rx Denied
+Layer2/3                 2        0        0        0        0        1        0        0        0        0        0        0
+Publisher                2        0        0        0        2        4        0        0        0        0        0        0
+AMAPI CLI Client         2        0        0        0        2       21        0        0       18        0        0        0
+Syslog Manager           2        2        0        0        2        0        0        0        0        0        0        0
+Configuration Man       59       58        0        0       59        1        0        0        0        0        0        0
+STM                      5        5       20        4        1        2        0        0        0        0        0        0
+Global Shared Mem        5        5       20        4        1        0        0        0        0        0        0        0
+
+Kernel PAPI Statistics
+RxSockbufSize RxSockbufHimark CurRxQLen MaxRxQLen Drops
+2097152                   0        0        0         0 
+
+Allocated Buffers   0
+Static Buffers      1
+Static Buffer Size  1476
+

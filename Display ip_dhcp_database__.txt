@@ -1,0 +1,6 @@
+ip dhcp database  
+
+
+DHCP disabled
+
+

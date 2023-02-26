@@ -1,0 +1,7 @@
+ap mesh topology long  
+
+
+
+Total APs :0
+(R): Recovery AP. (N): 11N Enabled. (AC): 11AC Enabled. For Portals 'Uplink Age' equals uptime.
+

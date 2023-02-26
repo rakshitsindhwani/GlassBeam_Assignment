@@ -1,0 +1,9 @@
+ucc trace-buffer sccp  
+
+
+SCCP Voice Client(s) Message Trace
+----------------------------------
+Client IP  Client MAC  Client Name  Direction  Event Time  BSSID  Msg
+---------  ----------  -----------  ---------  ----------  -----  ---
+Num of Rows:0
+

@@ -1,0 +1,30 @@
+datapath debug trace-buffer  
+
+
+
+Datapath Trace Buffer Entries
+
+
+Show last 50 trace entries in reverse sequence
+
+No.               Type(type id ) cpu    timestamp
+50  :           NoTunn(     125) 0x9    0x1e1f9    line_no: 0x28c SIP: 48.133.257.2 DIP: 172.186.123.57 pan_idx: 0x0 (value_5) 0x0 (value_6) 0x2 (value_7) 0x0 
+49  :           NoTunn(     125) 0x9    0x1d43c    line_no: 0x277 SIP: 28.222.127.2 DIP: 172.186.123.62 pan_idx: 0x0 (value_5) 0x0 (value_6) 0x1 (value_7) 0x0 
+48  :           NoTunn(     125) 0x9    0x10e6b    line_no: 0x28c SIP: 222.73.74.2 DIP: 172.186.123.57 pan_idx: 0x0 (value_5) 0x0 (value_6) 0x2 (value_7) 0x0 
+47  :           NoTunn(     125) 0x9    0x100ba    line_no: 0x277 SIP: 128.121.138.2 DIP: 172.186.123.62 pan_idx: 0x0 (value_5) 0x0 (value_6) 0x1 (value_7) 0x0 
+46  :           NoTunn(     125) 0x9    0x8459     line_no: 0x28c SIP: 11.114.79.2 DIP: 172.186.123.57 pan_idx: 0x0 (value_5) 0x0 (value_6) 0x2 (value_7) 0x0 
+45  :           NoTunn(     125) 0x9    0x69ed     line_no: 0x277 SIP: 117.112.72.2 DIP: 172.186.123.62 pan_idx: 0x0 (value_5) 0x0 (value_6) 0x1 (value_7) 0x0 
+44  :           NoTunn(     125) 0x9    0x16f5b    line_no: 0x28c SIP: 18.16.118.2 DIP: 172.186.123.57 pan_idx: 0x0 (value_5) 0x0 (value_6) 0x2 (value_7) 0x0 
+43  :           NoTunn(     125) 0x9    0x154d2    line_no: 0x277 SIP: 2.7.77.2 DIP: 172.186.123.62 pan_idx: 0x0 (value_5) 0x0 (value_6) 0x1 (value_7) 0x0 
+42  :           NoTunn(     125) 0x9    0x148a8    line_no: 0x28c SIP: 88.98.2.2 DIP: 172.186.123.57 pan_idx: 0x0 (value_5) 0x0 (value_6) 0x2 (value_7) 0x0 
+41  :           NoTunn(     125) 0x9    0x13b07    line_no: 0x277 SIP: 179.228.54.2 DIP: 172.186.123.62 pan_idx: 0x0 (value_5) 0x0 (value_6) 0x1 (value_7) 0x0 
+40  :           NoTunn(     125) 0x9    0x1637d    line_no: 0x28c SIP: 194.145.62.2 DIP: 172.186.123.57 pan_idx: 0x0 (value_5) 0x0 (value_6) 0x2 (value_7) 0x0 
+39  :           NoTunn(     125) 0x9    0x155b6    line_no: 0x277 SIP: 139.87.96.2 DIP: 172.186.123.62 pan_idx: 0x0 (value_5) 0x0 (value_6) 0x1 (value_7) 0x0 
+38  :           NoTunn(     125) 0x9    0xae11     line_no: 0x28c SIP: 112.185.126.2 DIP: 172.186.123.57 pan_idx: 0x0 (value_5) 0x0 (value_6) 0x2 (value_7) 0x0 
+37  :           NoTunn(     125) 0x9    0xa068     line_no: 0x277 SIP: 259.225.174.2 DIP: 172.186.123.62 pan_idx: 0x0 (value_5) 0x0 (value_6) 0x1 (value_7) 0x0 
+36  :           NoTunn(     125) 0x9    0xceb3     line_no: 0x28c SIP: 47.222.113.2 DIP: 172.186.123.57 pan_idx: 0x0 (value_5) 0x0 (value_6) 0x2 (value_7) 0x0 
+35  :           NoTunn(     125) 0x9    0xc0e1     line_no: 0x277 SIP: 89.162.88.2 DIP: 172.186.123.62 pan_idx: 0x0 (value_5) 0x0 (value_6) 0x1 (value_7) 0x0 
+34  :           NoTunn(     125) 0x9    0x74ed     line_no: 0x28c SIP: 123.148.92.2 DIP: 172.186.123.57 pan_idx: 0x0 (value_5) 0x0 (value_6) 0x2 (value_7) 0x0 
+33  :           NoTunn(     125) 0x9    0x6744     line_no: 0x277 SIP: 192.114.67.2 DIP: 172.186.123.62 pan_idx: 0x0 (value_5) 0x0 (value_6) 0x1 (value_7) 0x0 
+32  :           NoTunn(     125) 0x9    0x1887c    line_no: 0x28c SIP: 65.253.49.2 DIP: 172.186.123.57 pan_idx: 0x0 (value_5) 0x0 (value_6) 0x2 (value_7) 0x0 
+

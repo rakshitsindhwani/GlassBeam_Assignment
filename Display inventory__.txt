@@ -1,0 +1,88 @@
+inventory  
+
+
+Supervisor Card slot      	: 0
+System Serial#            	: CV0004818 (Date:10/14/15)
+CPU Card Serial#          	: AF41021878 (Date:10/10/15)
+CPU Card Assembly#        	: 2010151H
+CPU Card Revision         	: (Rev:07.00)
+Interface Card Serial#    	: AF41000386 (Date:10/10/15)
+Interface Card Assembly#  	: 2010085E
+Interface Card Revision   	: (Rev:04.00)
+SC Model#                 	: Hiwi7210-US
+HW MAC Addr               	: 77:6f:6b:79:99:67 to 77:6f:6b:79:99:69
+CPLD Version                    : (Rev: 3.0)
+Power Supply 0            	: Present             	: Yes
+				: 12V OK              	: Yes
+				: Fan OK              	: Yes
+				: Hiwi Model No      	: 2510057
+				: Vendor & Model No   	: QCS DCJ3501-01P
+				: Serial No           	: QCS1517205A
+				: MFG Date            	: 4/25/15
+				: Output 1 Config     	: 12V 350W
+				: Input Min           	: 90V AC
+				: Input Max           	: 264V AC
+Power Supply 1            	: Present             	: Yes
+				: 12V OK              	: Yes
+				: Fan OK              	: Yes
+				: Hiwi Model No      	: 2510057
+				: Vendor & Model No   	: QCS DCJ3501-01P
+				: Serial No           	: QCS1534205H
+				: MFG Date            	: 8/20/15
+				: Output 1 Config     	: 12V 350W
+				: Input Min           	: 90V AC
+				: Input Max           	: 264V AC
+Main Board Temperatures   	:
+				: U24 - Local Temp    	30 C (shadow of XLP heatsink)
+				: Q1  - Remote 1 Temp 	33 C (shadow of VRM, VDD_CPU)
+				: Q2  - Remote 2 Temp 	32 C (shadow of VRM, VDD_SOC)
+				: U44 - Local Temp    	24 C (shadow of DPI connector)
+				: U29  - Remote 1 Temp	30 C (XLP die temperature)
+				: Q36  - Remote 2 Temp	27 C (shadow of 98X1422)
+				: J2  - DDR A Temp    	23 C (DDR3 A temp)
+				: J4  - DDR B Temp    	24 C (DDR3 B temp)
+				: J1  - DDR C Temp    	23 C (DDR3 C temp)
+				: J3  - DDR D Temp    	25 C (DDR3 D temp)
+				: Port 0 Temp         	148 C (1G PHY temp)
+				: Port 1 Temp         	148 C (1G PHY temp)
+				: Port 2 Temp         	31 C (10G PHY temp)
+				: Port 3 Temp         	31 C (10G PHY temp)
+Interface Board Temperatures	:
+				: U21 - Local Temp    	27 C (shadow of port 1 RJ45)
+				: Q4 - Remote 1 Temp  	25 C (shadow of 88E1543)
+				: Q3 - Remote 2 Temp  	33 C (shadow of 88X2140)
+Fan  0                         	: 8916 rpm (5.383 V),Speed Low
+Fan  1                         	: 8967 rpm (5.473 V),Speed Low
+Fan  2                         	: 8967 rpm (5.495 V),Speed Low
+Fan  3                         	: 8886 rpm (5.428 V),Speed Low
+Main Board Voltages       	:
+ispPAC_POWR1014A_A        	:
+				: 1V2                  1.20V sense 1.208 V
+				: VDD SOC              1.05V sense 0.916 V
+				: VCC IOBD 1V5         1.50V sense 1.534 V
+				: DDR3BD_VTT           0.75V sense 0.756 V
+				: VCC 1A               1.00V sense 1.020 V
+				: IV8_DIGITAL          1.80V sense 1.854 V
+				: 3V3_MAIN             3.30V sense 3.360 V
+				: VCC1                 1.00V sense 1.026 V
+				: VCC25                2.50V sense 2.526 V
+				: 3V3 SB               3.30V sense 3.354 V
+ispPAC_POWR1014A_B        	:
+				: VDD                  1.04V sense 0.786 V
+				: VCC IOAC 1V5         1.50V sense 1.536 V
+				: DDR3AC_VTT           0.75V sense 0.756 V
+				: VDD_SRAM             1.00V sense 1.046 V
+				: VCC1B                1.00V sense 1.028 V
+				: 1V8_ANALOG           1.80V sense 1.836 V
+				: 1V8                  1.80V sense 1.848 V
+				: VDDIO12_XAUI         1.20V sense 1.218 V
+				: 5V                   5.00V sense 5.010 V
+Interface Board Voltages  	:
+ispPAC_POWR6AT6           	:
+				: VCC33                3.30V sense 3.336 V
+				: VCC 18               1.80V sense 1.856 V
+				: VCC1                 1.00V sense 1.022 V
+				: VCC12                1.20V sense 1.222 V
+				: VCC12-DVDD           1.20V sense 1.204 V
+				: VCC9                 0.90V sense 0.928 V
+

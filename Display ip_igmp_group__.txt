@@ -1,0 +1,11 @@
+ip igmp group  
+
+
+IGMP Group Table
+----------------
+(Source,Group)  Members
+--------------  -------
+
+Total Groups: 0
+
+

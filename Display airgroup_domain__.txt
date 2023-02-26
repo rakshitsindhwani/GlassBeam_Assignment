@@ -1,0 +1,9 @@
+airgroup domain  
+
+
+AirGroup Domains
+----------------
+Name  Description  IP-Address
+----  -----------  ----------
+Num domains:0
+

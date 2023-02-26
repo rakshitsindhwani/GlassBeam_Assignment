@@ -1,0 +1,8 @@
+datapath ip-mcast group  
+
+
+Datapath IP Multicast Entries
+-----------------------------
+    Source            Group     
+---------------  ---------------
+

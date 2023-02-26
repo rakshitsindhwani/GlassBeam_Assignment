@@ -1,0 +1,14 @@
+datapath debug eap counters  
+
+
+Datapath EAP termination Statistics
+-----------------------------------
+Memory used (bytes)                      = 6272
+Memory allocs                            = 4623
+Memory frees                             = 4585
+Datapath EAP termination Errors
+-----------------------------------
+
+
+
+

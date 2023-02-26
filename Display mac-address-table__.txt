@@ -1,0 +1,49 @@
+mac-address-table  
+
+
+Dynamic Address Count: 		 0
+Static Address (User-defined) Count: 		 0
+System Self Address Count: 		 0
+Total MAC  Addresses : 		 36
+Maximum MAC addresses : 		 36
+MAC Address Table 
+------------------
+Destination Address  Address Type  VLAN  Destination Port
+-------------------  ------------  ----  ----------------
+77:6f:6b:77:77:77    Mgmt          1     vlan 1
+77:6f:6b:79:99:67    Mgmt          1     vlan 1
+77:6f:6b:77:77:77    Mgmt          84    vlan 84
+77:6f:6b:79:99:67    Mgmt          84    vlan 84
+77:6f:6b:77:77:77    Mgmt          104   vlan 104
+77:6f:6b:79:99:67    Mgmt          104   vlan 104
+77:6f:6b:77:77:77    Mgmt          220   vlan 220
+77:6f:6b:79:99:67    Mgmt          220   vlan 220
+77:6f:6b:77:77:77    Mgmt          3228  vlan 3228
+77:6f:6b:79:99:67    Mgmt          3228  vlan 3228
+77:6f:6b:77:77:77    Mgmt          4004  vlan 4004
+77:6f:6b:79:99:67    Mgmt          4004  vlan 4004
+77:6f:6b:77:77:77    Mgmt          4008  vlan 4008
+77:6f:6b:79:99:67    Mgmt          4008  vlan 4008
+77:6f:6b:77:77:77    Mgmt          4012  vlan 4012
+77:6f:6b:79:99:67    Mgmt          4012  vlan 4012
+77:6f:6b:77:77:77    Mgmt          4016  vlan 4016
+77:6f:6b:79:99:67    Mgmt          4016  vlan 4016
+77:6f:6b:77:77:77    Mgmt          4020  vlan 4020
+77:6f:6b:79:99:67    Mgmt          4020  vlan 4020
+77:6f:6b:77:77:77    Mgmt          4024  vlan 4024
+77:6f:6b:79:99:67    Mgmt          4024  vlan 4024
+77:6f:6b:77:77:77    Mgmt          4028  vlan 4028
+77:6f:6b:79:99:67    Mgmt          4028  vlan 4028
+77:6f:6b:77:77:77    Mgmt          4032  vlan 4032
+77:6f:6b:79:99:67    Mgmt          4032  vlan 4032
+77:6f:6b:77:77:77    Mgmt          4036  vlan 4036
+77:6f:6b:79:99:67    Mgmt          4036  vlan 4036
+77:6f:6b:77:77:77    Mgmt          4040  vlan 4040
+77:6f:6b:79:99:67    Mgmt          4040  vlan 4040
+77:6f:6b:77:77:77    Mgmt          4044  vlan 4044
+77:6f:6b:79:99:67    Mgmt          4044  vlan 4044
+77:6f:6b:77:77:77    Mgmt          4048  vlan 4048
+77:6f:6b:79:99:67    Mgmt          4048  vlan 4048
+77:6f:6b:77:77:77    Mgmt          4095  vlan 4095
+77:6f:6b:79:99:67    Mgmt          4095  vlan 4095
+

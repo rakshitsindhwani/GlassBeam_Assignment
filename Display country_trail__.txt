@@ -1,0 +1,8 @@
+country trail  
+
+
+Wed Oct 14 20:18:47 2015: Initializing hardware to empty domain
+Thu Oct 15 11:21:36 2015: Initializing hardware to empty domain
+Thu Oct 15 11:22:00 2015: Setting hardware to restricted domain: US
+Mon Mar 14 09:28:45 2016: Activating regulatory file: 1.0_52991
+

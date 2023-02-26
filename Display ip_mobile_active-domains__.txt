@@ -1,0 +1,9 @@
+ip mobile active-domains  
+
+
+
+*** WARNING ***: Mobility service is disabled (router mobile)
+
+Active Mobility Domain(s) Total: 0
+Active Mobility Domain is not configured , "default" domain is used
+

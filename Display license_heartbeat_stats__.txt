@@ -1,0 +1,9 @@
+license heartbeat stats  
+
+
+License Heartbeat Table
+-----------------------
+Server IP Address  HB Req      HB Resp     Total Missed  Last Update (secs. ago)
+-----------------  ------      -------     ------------  -----------------------
+172.186.123.62     60480       60477       3             17        
+

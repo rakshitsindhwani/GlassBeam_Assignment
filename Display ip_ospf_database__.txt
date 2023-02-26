@@ -1,0 +1,8 @@
+ip ospf database  
+
+
+OSPF is disabled
+
+
+
+

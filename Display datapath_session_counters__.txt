@@ -1,0 +1,18 @@
+datapath session counters  
+
+
++----+------+-----------------------------------------------------+
+|SUM/|      |                                   |                 |
+|CPU | Addr | Description                                   Value |
++----+------+-----------------------------------------------------+
+|    |      |                                                     |
+| G  | [00] | Current Entries                                  68 |
+| G  | [01] | High Water Mark                                2225 |
+| G  | [02] | Maximum Entries                             2097152 |
+| G  | [03] | Total Entries                               2752019 |
+| G  | [07] | Current Max link length                           1 |
+| G  | [08] | Max link length                                   2 |
+| G  | [09] | Stale Entries                                    41 |
+| G  | [10] | Aged Entries                                2751910 |
++----+------+-----------------------------------------------------+
+

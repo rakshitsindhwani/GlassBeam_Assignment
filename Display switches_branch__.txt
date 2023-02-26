@@ -1,0 +1,11 @@
+switches branch  
+
+
+All Branch controllers
+----------------------
+IP Address      MAC                Hostname              Model      Version         Status  Branch Group  Configuration State  Branch Config ID  Uptime
+----------      ---                --------              -----      -------         ------  ------------  -------------------  ----------------  ------
+172.186.123.57  77:6f:6b:79:99:67  Hiwi7210-BCCC-local  Hiwi7210  8.3.3.12_56727  up      N/A           UPDATE SUCCESSFUL    0                 21d 0h 47m
+
+Total Branch Switches:1
+

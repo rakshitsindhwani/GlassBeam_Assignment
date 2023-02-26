@@ -1,0 +1,12 @@
+license debug  
+
+
+Summary of licensing state
+
+Centralized Licensing: Enabled
+Switch Role: Local
+License Role: License Client
+Master IP: 172.186.123.62
+Switch IP: 172.186.123.57
+License Server IP: 172.186.123.62
+

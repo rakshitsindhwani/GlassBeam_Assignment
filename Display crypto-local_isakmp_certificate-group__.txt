@@ -1,0 +1,9 @@
+crypto-local isakmp certificate-group  
+
+
+
+ISAKMP Certificate Groups
+--------------------------
+Server certificate name  CA certificate name
+-----------------------  -------------------
+

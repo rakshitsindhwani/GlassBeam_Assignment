@@ -1,0 +1,19 @@
+ntp servers  
+
+
+NTP Server Table Entries
+------------------------
+
+Flags:     * Selected for synchronization
+           + Included in the final selection set
+           # Selected for synchronization but distance exceeds maximum
+           - Discarded by the clustering algorithmn
+           = mode is client
+
+  remote                                  local                                    st   poll   reach    delay     offset      disp
+
+=========================================================================================================================================
+
+*172.186.1.37                             172.186.123.57                            3 1024     377    0.00053    -0.000893    0.12305
+
+

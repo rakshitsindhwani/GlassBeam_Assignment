@@ -1,0 +1,20 @@
+ap image-preload status all  
+
+
+AP Image Preload Parameters
+---------------------------
+Item    Value
+----    -----
+Status  Inactive
+
+AP Image Preload AP Status Summary
+----------------------------------
+AP Image Preload State  Count
+----------------------  -----
+
+AP Image Preload AP Status
+--------------------------
+AP Name  AP Group  AP IP  AP Type  Preload State  Start Time  End Time  Failure Count  Failure Reason
+-------  --------  -----  -------  -------------  ----------  --------  -------------  --------------
+
+

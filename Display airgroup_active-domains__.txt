@@ -1,0 +1,9 @@
+airgroup active-domains  
+
+
+AirGroup Active-Domains
+-----------------------
+Domain Name  Status
+-----------  ------
+Num active-domains:0
+

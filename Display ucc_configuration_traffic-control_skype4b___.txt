@@ -1,0 +1,11 @@
+ucc configuration traffic-control skype4b   
+
+
+Traffic Control Prioritization Profile List
+-------------------------------------------
+Name     References  Profile Status
+----     ----------  --------------
+default  0           
+
+Total:1
+

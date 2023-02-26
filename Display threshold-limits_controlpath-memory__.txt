@@ -1,0 +1,9 @@
+threshold-limits controlpath-memory  
+
+
+Threshold Values For Controlpath Memory 
+----------------------------------------
+Default(%)  Current(%)  Total Memory (MB)  Available Memory (MB)
+----------  ----------  -----------------  ---------------------
+85          85          5050               3298
+

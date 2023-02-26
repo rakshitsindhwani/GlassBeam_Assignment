@@ -1,0 +1,8 @@
+loginsessions  
+
+
+Session Table
+-------------
+ID  User Name  User Role  Connection From  Idle Time  Session Time
+--  ---------  ---------  ---------------  ---------  ------------
+

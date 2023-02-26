@@ -1,0 +1,29 @@
+ip mobile global  
+
+
+IP Mobility information:
+
+*** WARNING ***: Mobility service is disabled (router mobile)
+
+Switch IP: 172.186.123.57 
+
+Proxy Mobile IP:
+   Trigger mobility on station association is enabled
+   Logging of mobility trail is enabled
+   Station Trail: Maximum 10 entries, Timeout 600 seconds
+   Maximum 10 mobility events/sec
+   Roaming for authenticated stations only is enabled
+   Refresh Station Stale IP is disabled
+   Hold host entry after connectivity loss for 60 seconds
+   Sessions with no mobility possible kept for 180 seconds
+Home Agent:
+   Timestamps allowed difference 7 seconds
+   5000 maximum bindings allowed
+Foreign Agent:
+   Requested lifetime 40 seconds
+   Registration requests retransmits 3 max, interval 1000 msec
+   5000 maximum visitors allowed
+Revocation:
+   Registration Revocation retransmits 3 max, interval 1000 msec 
+Encapsulation supported: L2-GRE
+

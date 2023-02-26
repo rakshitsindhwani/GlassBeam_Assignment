@@ -1,0 +1,8 @@
+aaa authentication all  
+
+
+Auth Method Statistics
+----------------------
+Method  Success  Failures
+------  -------  --------
+

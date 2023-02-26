@@ -1,0 +1,21 @@
+datapath crypto counters  
+
+
++----+------+-----------------------------------------------------+
+|SUM/|      |                                   |                 |
+|CPU | Addr | Description                                   Value |
++----+------+-----------------------------------------------------+
+|    | [00] | Crypto Requests Total                        810643 |
+|    | [02] | Crypto Response received                     810643 |
+|    | [34] | IPSec drops UDP encap NATT port mis             859 |
+|    | [152] | RSA Requests                                      9 |
+|    | [154] | RSA Response received                             9 |
++----+------+-----------------------------------------------------+
+|    |      |                                                     |
+| G  | [01] | Crypto Cores In Use                               4 |
+| G  | [14] | DOT1X Term Buffers                             4096 |
+| G  | [15] | DOT1X Term Buffers Free                        4096 |
++----+------+-----------------------------------------------------+
+| G  | [00] | Crypto Accelerator Present                     TRUE |
++----+------+-----------------------------------------------------+
+

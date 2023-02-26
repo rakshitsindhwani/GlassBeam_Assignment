@@ -1,0 +1,57 @@
+ipv6 interface          
+
+
+VLAN104 is up line protocol is up
+IPv6 Router Advertisements are disabled
+IPv6 is disabled
+VLAN1 is up line protocol is up
+IPv6 Router Advertisements are disabled
+IPv6 is disabled
+VLAN84 is up line protocol is up
+IPv6 Router Advertisements are disabled
+IPv6 is disabled
+VLAN220 is up line protocol is up
+IPv6 Router Advertisements are disabled
+IPv6 is disabled
+VLAN4008 is up line protocol is up
+IPv6 Router Advertisements are disabled
+IPv6 is disabled
+VLAN4012 is up line protocol is up
+IPv6 Router Advertisements are disabled
+IPv6 is disabled
+VLAN4016 is up line protocol is up
+IPv6 Router Advertisements are disabled
+IPv6 is disabled
+VLAN4020 is up line protocol is up
+IPv6 Router Advertisements are disabled
+IPv6 is disabled
+VLAN4024 is up line protocol is up
+IPv6 Router Advertisements are disabled
+IPv6 is disabled
+VLAN4028 is up line protocol is up
+IPv6 Router Advertisements are disabled
+IPv6 is disabled
+VLAN4032 is up line protocol is up
+IPv6 Router Advertisements are disabled
+IPv6 is disabled
+VLAN4036 is up line protocol is up
+IPv6 Router Advertisements are disabled
+IPv6 is disabled
+VLAN4040 is up line protocol is up
+IPv6 Router Advertisements are disabled
+IPv6 is disabled
+VLAN4044 is up line protocol is up
+IPv6 Router Advertisements are disabled
+IPv6 is disabled
+VLAN4004 is up line protocol is up
+IPv6 Router Advertisements are disabled
+IPv6 is disabled
+VLAN3228 is up line protocol is up
+IPv6 Router Advertisements are disabled
+IPv6 is disabled
+VLAN4048 is up line protocol is up
+IPv6 Router Advertisements are disabled
+IPv6 is disabled
+loopback is up line protocol is up
+IPv6 is enabled, link-local address is fe80::1a:1e0f:ff02:7710 
+

@@ -1,0 +1,22 @@
+dot1x counters  
+
+
+       802.1x Counters
+Throttling Counters
+Dot1x high watermark..................550
+Dot1x low watermark...................522
+Dot1x stm throttling percent..........50
+Dot1x auth pass count.................0
+Dot1x auth fail count.................0
+Double dot1x context init counts......0/0
+Active dot1x station count............0
+Max collisions in active table........0
+Pending station count.................0
+Max collisions in pending table.......0
+AP
+ Acl............................31
+Station
+ Unknown........................10
+EAP
+ RX Pkts........................10
+

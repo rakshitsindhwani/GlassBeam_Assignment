@@ -1,0 +1,11 @@
+ucc configuration dialplan-profile  
+
+
+Dialplan Profile List
+---------------------
+Name     References  Profile Status
+----     ----------  --------------
+default  0           
+
+Total:1
+

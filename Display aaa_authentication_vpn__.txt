@@ -1,0 +1,14 @@
+aaa authentication vpn  
+
+
+VPN Authentication Profile List
+-------------------------------
+Name         References  Profile Status
+----         ----------  --------------
+default      0           
+default-cap  0           Predefined (editable)
+default-iap  0           Predefined (editable)
+default-rap  0           Predefined (changed)
+
+Total:4
+

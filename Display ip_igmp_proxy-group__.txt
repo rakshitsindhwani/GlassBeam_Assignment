@@ -1,0 +1,11 @@
+ip igmp proxy-group  
+
+
+IGMP Proxy Group Table
+----------------------
+VLAN  Addr  Group  Num Members
+----  ----  -----  -----------
+
+Total displayed proxy groups: 0
+
+

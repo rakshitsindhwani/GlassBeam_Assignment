@@ -1,0 +1,17 @@
+datapath utilization  
+
+
+Datapath Network Processor Utilization
+------+---------+---------+----------+
+      | Cpu utilization during past  |
+  Cpu |  1 Sec     4 Secs    64 Secs |
+------+---------+---------+----------+
+    8 |      0% |      0% |       0% |
+    9 |      1% |      0% |       1% |
+   10 |      0% |      0% |       0% |
+   11 |      0% |      0% |       0% |
+   12 |      0% |      0% |       0% |
+   13 |      0% |      0% |       0% |
+   14 |      0% |      0% |       0% |
+   15 |      0% |      0% |       0% |
+

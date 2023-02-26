@@ -1,0 +1,149 @@
+crypto isakmp stats  
+
+
+Switch IP                                           = 172.186.123.57
+Main Mode Initiator exchanges started/completed     = 0/0
+Main Mode Responder exchanges started/completed     = 0/0
+Aggr Mode Initiator exchanges started/completed     = 75/71
+Aggr Mode Responder exchanges started/completed     = 0/0
+Quick Mode Initiator exchanges started/completed    = 281/281
+Quick Mode Responder exchanges started/completed    = 0/0
+XAuth Type1 Responder exchanges started/completed   = 0/0
+XAuth Type2 Responder exchanges started/completed   = 0/0
+XAuth Authentication Pass/Fail                      = 0/0
+Mode-Config Responder exchanges started/completed   = 0/0
+Mode-Config Authentication Pass/Fail                = 0/0
+XAuth Protocol Errors Bad-Packets/Quick-mode-fail   = 0/0
+IP Pool        Alloc/Free/Free-NoSa    Alloc-Error/Free-Error = 0/0/0/0/0
+IP External Pool  Alloc/Alloc-Error                 = 0/0
+Authentication State Errors  No-SA/No-Msg/No-Exch   = 0/0/0
+Auth Msgs  Reqs/Rcvd/AP-Down/Idle-timeout/IP-down   = 0/0/0/0/0
+Auth Msg Errors Not-Ready/Reqs-Throttled/IP-UP-err/Recv-err/Rcv-NoState  = 188/0/0/0/0
+IKE->Auth Msgs  IP-up/IP-down                       = 0/0
+Cert-Revocation Msgs  Reqs/Rcvd/Pass/Revoked        = 0/0/0/0
+Cert-Revocation Msg Errors Reqs-Throttled/Send-err/Recv-err/Rcv-NoState = 0/0/0/0
+UDB Msgs Reqs-Throttled/Req-sent/Req-send-errors/Resp-rcvd/Rcv-NoState = 0/0/0/0/0
+ACR License Msgs Request/Delete/Req-errors/Resp-rcvd/Resp-error  = 0/0/0/0/0 Allow/Fail 0/0 Limit:0
+SA delete Requests                                  = 0
+Phase1 SAs Current/Max/Total                        = 1/56/263
+Phase1 Completed SAs Current/Max/Total              = 1/2/71
+Phase2 SAs Current/Max/Total                        = 1/2/281
+Phase2 Completed SAs Current/Max/Total              = 1/2/281
+Phase2 vol SAs Rekeys/Fails                         = 0/0
+Modp DH regeneration due to key length mismatch     = 1
+Modp DH regenerate aborts on 5 key length mismatch  = 0
+Modp DH pad shared key                              = 0
+Action Function for exchange step is invalid        = 0
+IKEv1 SA Rate-Limit Cfg-Rate/Permit/Drop/Current-Rate  =  8/188/173/2
+Rate Limiting  Configured-SAs-per-sec/Permit/Drop   = 8/187/173
+VPN Sessions Total/RAPs/CAPs/Master-Local/Redun/Cluster/L2TP   = 1/0/0/1/0/0/0
+VPN License Limits Total/Platform/Current/Violation = 16384/16384/1/0
+CPSEC :                                               OFF  on_msgs:0 off_msgs:1 notready:0 denied_drop:0
+Cluster :   Role/Num-Cfgd-Members                     NONE/0
+Cluster Pubsub:           Init->None/None->Root/Root->None  0/0/0
+Cluster Pubsub:   None->Member/Member-IPChange/Member->None 0/0/0
+Cluster Pubsub Replies:   None/Member/Root/NotReady 0/0/0/1
+CFGM triggers: Master/Local/Redund/Failed/Total     = 0/1/0/1/2
+Redundancy changes: Standby/Master/Ignored/Config = 0/0/0/0 tunnel:n config:n
+VLAN changes:   Requests/Inserts/Modifies/Deletes   = 1/16/0/0
+VLAN errors:   Insert/Bind/Delete/No-change   = 0/0/1/0
+VRIP changes:   Adds/Modifies/Deletes               = 1/0/0
+LOOPBACK IP changes:   Adds/Modifies/Deletes        = 0/0/0
+Masterip Requests/Replies                           = 1/4
+SwitchIP Requests/Replies                           = 0/1
+FPAPPS TX messages: Tunnel-Up/Tunnel-Down           = 2/0
+FPAPPS TX messages: cfg-map-add/cfg-map-del         = 1/0
+FPAPPS TX messages: Peer-map-add/Peer-map-del       = 2/0
+FPAPPS TX messages: SwitchIP-mapadd/SwitchIP-mapdel = 0/0
+FPAPPS TX messages: New-SwitchIP-map-adds           = 0
+Datapath To Control DPD Triggers Received           = 1380
+DPD Initiate Reqs-Sent/Re-Sent/Replies-Rcvd/Dropped = 73/0/73/0
+DPD Responder Reqs-Rcvd/Reqs-Dropped/Replies-Sent   = 71/0/71
+DPD peers detected as Dead/P1_SA/P2_SA              = 0/0/0
+Datapath To Control IPSec Volume Rekey triggers     = 0
+L2TP tunnel events received:  Add/Delete            = 0/0
+L2TP Delete tunnel events sent:  Success/Fail       = 0/0
+L2TP IPSEC-list sent:            Success/Fail       = 1/0
+RAP PSK stats IKE SA: Bad = 0
+Route Trigger events sent:  Add/Delete              = 1/0
+Route Table w/Gateway events sent:  Add/Delete      = 0/0
+Route Cache events sent:  Add-Success/Fail = 0/0  Delete-Success/Fail = 0/0
+CP ARP events sent:  Delete/Fail                    = 0/0
+CP Route events sent:  Add-Success/Fail =0/0  Delete-Success/Fail = 0/0
+Garbage SA deletions: ISAKMP-SA/IPSec-SA            = 70/280
+Rcvd Cert-chain: Verified/Failed                    = 0/0
+Rcvd Cert-chain error: Invalid ID and pubkey        = 0
+Rcvd Cert-chain error: no username(mode-cfg only)   = 0
+Cert-chain error in encryption/decryption           = 0/0
+Cert-chain error in sig-len/hash-len/hash           = 0/0/0
+Hash Encode  Attempts/Errors                        = 71/0
+Hash Decode  Attempts/Errors                        = 71/0
+Cert-manager registration: Started/Completed        = 0/0
+Cert-manager errors: Cert-Not-found/No-reply        = 0/0
+IKE To CPFW DST-NAT messages sent/retries/failed    = 0/0/0
+Control To Datapath SA Adds/Failed Adds             = 281/0
+Control To Datapath SA Deletions/Failed Deletions   = 280/0
+IKE - Datapath DH1 request/errors response/errors   = 0/0 0/0
+IKE - Datapath DH2 request/errors response/errors   = 0/0 0/0
+IKE - Datapath RSA/DH Generic Response success/errors  = 0/0
+IKE - Datapath RSA sign1 request/errors response/errors   = 0/0 0/0
+IKE - Datapath RSA sign2 request/errors response/errors   = 0/0 0/0
+IKE - Datapath RSA 2048 sign request/errors response/errors   = 0/0 0/0
+Datapath To Control IKE Triggers Received/Ignored   = 11/9
+Timers Current/Max/Total                            = 9/63/18840894
+SA Soft timers Current/Max/Total                    = 2/2/352
+SA Hard timers Current/Max/Total                    = 2/4/352
+SA Volume timers Current/Max/Total                  = 0/0/0
+NAT-T Timers Current/Max/Total                      = 0/0/0
+IKE Fragment Reassembly   Success/Timeout           = 0/0
+IKE Rcvd Fragments Current/Max/Total                = 0/0/0
+IKE Rcvd Fragments Duplicates/Errors                = 0/0
+IKE Sent Fragments Current/Max/Total                = 0/0/0
+IKE Packets Fragmented/Retransmitted                = 0/0
+IKE Messages Current/Max/Total                      = 0/5/1711
+Message Payloads Current/Max/Total                  = 0/35/15050
+Message Timers Current/Max/Total                    = 0/1/364
+IKE Msg-Errors Duplicate/Invalid/Decrypt-Error/PSK  = 0/361/0/0
+IKE Msg-Errors Dec-NoSa/NoKS/InvExch                = 0/0/0
+IKE Exchanges Current/Max/Total                     = 0/56/832
+Exchange Timers Current/Max/Total                   = 0/56/832
+SOS IKE packets  TX/RX/TX-Ack/TX-Nack               = 0/0/1143/0
+UDP ESP pkts:0 NATT-Keepalives:0
+MAC Entries IKEv1(recv 0: err 0) IKEv2 (recv 0 : err 0) Total = 0
+Virtual Transports Current/Max/Total                = 19/74/882  Reinits:0 Drops:0
+UDP Transports Current/Max/Total                    = 38/148/1764
+Cloned Transports Virt/Enc/UDP/SOS-enc/SOS/s2s/Fail   = 864/859/0/0/0/5/0
+IKE - IPSecSPI Collisions/Fails/Adds/Dels/AddFails/DelFails = 0/0/281/280/0/0
+PAN - IPSecSPI Collisions/Adds/Dels/AddFails/DelFails = 0/0/0/0/0
+IKEv2 - IKE_SA Initiator exchanges started/completed              = 0/0
+IKEv2 - IKE_SA Responder exchanges started/completed              = 0/0
+IKEv2 - IPSEC_SA Initiator exchanges started/completed            = 0/0
+IKEv2 - IPSEC_SA Responder exchanges started/completed            = 0/0
+IKEv2 - Informational Received/Transmitted/ICV_Mismatch           = 0/0/0
+IKEv2 - Delete Received/Completed                                 = 0/0
+IKEv2 - EAP exchanges started/completed                           = 0/0
+IKEv2 - IPSec Rekey exchanges started/completed/retransmit        = 0/0/0
+IKEv2 - EAP Authentication Pass/Fail                              = 0/0
+IKEv2 - EAP Unsupported Authentication Requests                   = 0
+IKEv2 - IKE SAs In-Use/Free/Total                                 = 0/0/0
+IKEv2 - IKE Completed SAs Current/Max/Total                       = 0/0/0
+IKEv2 - IPSEC SAs In-Use/Free/Total                               = 0/0/0
+IKEv2 - IPSEC Completed SAs Current/Max/Total                     = 0/0/0
+IKEv2 - VPN Sessions Total/RAPs/CAPs/Master-Local/Redun/Cluster   = 0/0/0/0/0/0
+IKEv2 - DPD Initiate Reqs-Sent/Re-Sent/Replies-Rcvd/Dropped       = 0/0/0/0
+IKEv2 - DPD Responder Reqs-Rcvd/Reqs-Dropped/Replies-Sent         = 0/0/0
+IKEv2 - DPD peers detected as Dead                                = 0
+IKEv2 - Timers Current/Max/Total                     = 0/0/0
+IKEv2 - Hash-table        Add:0   Free(attempt:0  good:0  nobuck:0 HashIndexSize 511)
+IKEv2 - IKE_SA hash-table Alloc/Free                      =   0/0
+IKEv2 - IPSEC_SA hash-table Alloc/Free                      =   0/0
+IKEv2 - IKE_SA deletions   Alloc-Fail=Delete/Idle/Duplicate =   0=0/0/0
+IKEv2 - IKE_SA deletions   UnAuthenticated In/Out/InitFail = 0/0/0
+IKEv2 - IKE_SA deletions   Expired/Child/NoExch/Rekey = 0/0/0/0
+IKEv2 - IKE_SA deletions   Our-Deletion/Peer-Deletion = 0/0
+IKEv2 - IKE_SA deletions   Pending Auth/UDB/CertMgr = 0/0/0
+IKEv2 - IKE_SA deletions   Fail Rekey/NewSa/OldSa/IncompleteSA = 0/0/0/0
+IKEv2 - IKE_SA deletions   UnAuth/Update/Event/Init/Contact = 0/0/0/0/0
+IKEv2 - IPSec_Vol Rekeys/Fail                               = 0/0
+IKEv2 - IPSec_SA deletions lifetime Expiry/Rekey/Fail Rekey = 0/0/0
+

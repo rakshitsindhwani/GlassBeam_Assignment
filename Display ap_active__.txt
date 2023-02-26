@@ -1,0 +1,24 @@
+ap active  
+
+
+Active AP Table
+---------------
+Name  Group  IP Address  11g Clients  11g Ch/EIRP/MaxEIRP  11a Clients  11a Ch/EIRP/MaxEIRP  AP Type  Flags  Uptime  Outer IP
+----  -----  ----------  -----------  -------------------  -----------  -------------------  -------  -----  ------  --------
+
+Flags: 1 = 802.1x authenticated AP; 2 = Using IKE version 2;
+       A = Enet1 in active/standby mode;  B = Battery Boost On; C = Cellular;
+       D = Disconn. Extra Calls On; E = Wired AP enabled; F = AP failed 802.1x authentication;
+       H = Hotspot Enabled; K = 802.11K Enabled; L = Client Balancing Enabled; M = Mesh;
+       N = 802.11b protection disabled; P = PPPOE; R = Remote AP;
+       S = AP connected as standby; X = Maintenance Mode; 
+       a = Reduce ARP packets in the air; d = Drop Mcast/Bcast On; u = Custom-Cert RAP; 
+       i = Provisioned as Indoor; o = Provisioned as Outdoor; 
+       r = 802.11r Enabled
+       Q = DFS CAC timer running
+
+Channel followed by "*" indicates channel selected due to unsupported configured channel.
+"Spectrum" followed by "^" indicates Local Spectrum Override in effect.
+
+Num APs:0
+

@@ -1,0 +1,9 @@
+ip mobile binding  
+
+
+
+*** WARNING ***: Mobility service is disabled (router mobile)
+
+Home Agent Binding list, 0 host(s)
+----------------------------------
+

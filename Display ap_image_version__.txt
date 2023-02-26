@@ -1,0 +1,16 @@
+ap image version  
+
+
+AP Image Versions On Controller 
+------------------------------- 
+8.3.3.12(p4build@lemnos)#56727 SMP Mon Oct 3 09:01:04 PDT 2016
+8.3.3.12(p4build@lemnos)#56727 Mon Oct 3 08:51:24 PDT 2016
+8.3.3.12(p4build@lemnos)#56727 Mon Oct 3 09:09:37 PDT 2016
+8.3.3.12(p4build@lemnos)#56727 Mon Oct 3 08:43:47 PDT 2016
+
+Access Points Image Version
+---------------------------
+AP  Running Image Version String  Flash (Production) Image Version String  Flash (Provisioning/Backup) Image Version String  Matches  Num Matches  Num Mismatches  Bad Checksums  Bad Provisioning Checksums  Image Load Status
+--  ----------------------------  ---------------------------------------  ------------------------------------------------  -------  -----------  --------------  -------------  --------------------------  -----------------
+Total APs:0
+

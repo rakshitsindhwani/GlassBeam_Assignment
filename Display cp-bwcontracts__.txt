@@ -1,0 +1,34 @@
+cp-bwcontracts  
+
+
+CP bw contracts
+---------------
+Contract                  Id     Rate (packets/second)
+--------                  --     ---------------------
+cpbwc-ipv4-syslog         15785  2016
+cpbwc-ipv6-ike            15799  2016
+cpbwc-ipv6-file-transfer  15797  8000
+cpbwc-ipv4-radius-ldap    15788  1024
+cpbwc-ipv6-dns            15802  128
+cpbwc-ipv6-dhcp           15803  1024
+cpbwc-ipv6-syslog         15798  2016
+cpbwc-ipv6-http           15800  8000
+cpbwc-ipv6-mobility       15806  1024
+cpbwc-ipv4-telnet         15783  320
+cpbwc-ipv4-icmp           15794  2016
+cpbwc-ipv4-mobility       15793  1024
+cpbwc-ipv6-icmpv6         15807  2016
+cpbwc-ipv6-snmp           15805  512
+cpbwc-ipv4-http           15787  8000
+cpbwc-ipv6-ntp            15804  512
+cpbwc-ipv6-radius-ldap    15801  1024
+cpbwc-ipv4-file-transfer  15784  8000
+cpbwc-ipv4-snmp           15792  512
+cpbwc-ipv4-others         15795  320
+cpbwc-ipv4-ike            15786  2016
+cpbwc-ipv4-dhcp           15790  1024
+cpbwc-ipv6-others         15808  320
+cpbwc-ipv4-dns            15789  128
+cpbwc-ipv6-telnet         15796  320
+cpbwc-ipv4-ntp            15791  512
+

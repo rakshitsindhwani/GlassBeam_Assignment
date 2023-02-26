@@ -1,0 +1,9 @@
+vpdn tunnel l2tp  
+
+
+% No active L2TP Tunnel
+L2TP Statistics: 
+     IPSEC Deletes:  0
+     IPSEC Sync-Deletes:  0
+     Hello Timeouts: 0
+

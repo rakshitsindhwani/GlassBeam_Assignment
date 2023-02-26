@@ -1,0 +1,19 @@
+tpm cert-info  
+
+=====================================
+TPM manufacturing factory certificate
+=====================================
+subject= /CN=CV0004818::77:6f:6b:79:99:67
+issuer= /DC=com/DC=Hiwinetworks/DC=dc-device-ca5/CN=device-ca5
+serial=22B275CE0000004D2761
+notBefore=Oct 15 03:12:41 2015 GMT
+notAfter=Sep 14 03:21:14 2032 GMT
+=====================================
+Generated Factory certificate
+=====================================
+subject= /CN=CV0004818::77:6f:6b:79:99:67/L=SW
+issuer= /CN=CV0004818::77:6f:6b:79:99:67
+serial=22B275CE0000004D2761
+notBefore=Oct 15 03:12:41 2015 GMT
+notAfter=Sep 14 03:21:14 2032 GMT
+

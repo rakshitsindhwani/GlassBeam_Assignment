@@ -1,0 +1,66 @@
+cpuload current  
+
+Collecting System Statistics. This may take around 5 seconds.
+
+top2 - 23:23:24 up 21 days, 47 min,  0 users,  load average: 0.16, 0.11, 0.09
+Tasks: 176 total,   2 running, 174 sleeping,   0 stopped,   0 zombie
+Cpu(s):  0.2%us,  1.1%sy,  0.0%ni, 98.6%id,  0.0%wa,  0.0%hi,  0.1%si,  0.0%st
+Mem:   5172096k total,  1794752k used,  3377344k free,    40896k buffers
+Swap:        0k total,        0k used,        0k free,   727744k cached
+
+  PID USER      PR  NI  VIRT  RES  SHR S %CPU %MEM    TIME+  COMMAND            
+ 4029 root      20   0 73280 9.9m 5440 R    6  0.2   2610:52 hwMon              
+10523 root      20   0  4544 3136 1856 R    2  0.1   0:00.10 top2               
+ 3817 root      20   0  439m 140m  11m S    1  2.8 338:23.37 fpapps             
+ 3976 root      20   0  149m  26m  10m S    0  0.5 129:36.48 auth               
+    1 root      20   0  5440 2432 1856 S    0  0.0   0:13.24 init               
+    2 root      20   0     0    0    0 S    0  0.0   0:00.11 kthreadd           
+    3 root      RT   0     0    0    0 S    0  0.0   0:02.77 migration/0        
+    4 root      20   0     0    0    0 S    0  0.0   0:02.88 ksoftirqd/0        
+    5 root      RT   0     0    0    0 S    0  0.0   0:00.00 watchdog/0         
+    6 root      RT   0     0    0    0 S    0  0.0   0:09.22 migration/1        
+    7 root      20   0     0    0    0 S    0  0.0   0:01.50 ksoftirqd/1        
+    8 root      RT   0     0    0    0 S    0  0.0   0:00.01 watchdog/1         
+    9 root      RT   0     0    0    0 S    0  0.0   0:19.58 migration/2        
+   10 root      20   0     0    0    0 S    0  0.0   0:00.50 ksoftirqd/2        
+   11 root      RT   0     0    0    0 S    0  0.0   0:00.01 watchdog/2         
+   12 root      RT   0     0    0    0 S    0  0.0   0:30.73 migration/3        
+   13 root      20   0     0    0    0 S    0  0.0   0:00.14 ksoftirqd/3        
+   14 root      RT   0     0    0    0 S    0  0.0   0:00.01 watchdog/3         
+   15 root      RT   0     0    0    0 S    0  0.0   0:13.24 migration/4        
+   16 root      20   0     0    0    0 S    0  0.0   0:00.04 ksoftirqd/4        
+   17 root      RT   0     0    0    0 S    0  0.0   0:00.00 watchdog/4         
+   18 root      RT   0     0    0    0 S    0  0.0   0:04.06 migration/5        
+   19 root      20   0     0    0    0 S    0  0.0   0:00.01 ksoftirqd/5        
+   20 root      RT   0     0    0    0 S    0  0.0   0:00.00 watchdog/5         
+   21 root      RT   0     0    0    0 S    0  0.0   0:02.56 migration/6        
+   22 root      20   0     0    0    0 S    0  0.0   0:00.00 ksoftirqd/6        
+   23 root      RT   0     0    0    0 S    0  0.0   0:00.00 watchdog/6         
+   24 root      RT   0     0    0    0 S    0  0.0   0:01.68 migration/7        
+   25 root      20   0     0    0    0 S    0  0.0   0:00.00 ksoftirqd/7        
+   26 root      RT   0     0    0    0 S    0  0.0   0:00.00 watchdog/7         
+   27 root      20   0     0    0    0 S    0  0.0   0:02.00 events/0           
+   28 root      20   0     0    0    0 S    0  0.0   1:38.27 events/1           
+   29 root      20   0     0    0    0 S    0  0.0   0:01.55 events/2           
+   30 root      20   0     0    0    0 S    0  0.0   0:02.19 events/3           
+   31 root      20   0     0    0    0 S    0  0.0   0:00.00 events/4           
+   32 root      20   0     0    0    0 S    0  0.0   0:00.01 events/5           
+   33 root      20   0     0    0    0 S    0  0.0   0:00.01 events/6           
+   34 root      20   0     0    0    0 S    0  0.0   0:00.00 events/7           
+   35 root      20   0     0    0    0 S    0  0.0   0:00.06 khelper            
+   38 root      20   0     0    0    0 S    0  0.0   0:00.00 async/mgr          
+  118 root      20   0     0    0    0 S    0  0.0   0:00.17 sync_supers                 
+ 4257 root      20   0 53824 7744 4800 S    0  0.1   5:10.75 hcm                
+ 4272 root      20   0  9856 5440 3456 S    0  0.1   1:39.57 cert_dwnld         
+ 4281 root      20   0 21568 8192 5184 S    0  0.2   2:00.42 ble_relay          
+ 5053 root      20   0 33408  14m 9664 S    0  0.3   0:05.24 httpd              
+ 5230 nobody    20   0 33408 9216 4288 S    0  0.2   0:00.01 httpd              
+ 5231 nobody    20   0  191m  20m 7936 S    0  0.4   0:01.11 httpd              
+ 5445 root      20   0  6656 4736 3456 S    0  0.1   1:38.64 ntpd               
+10327 root      20   0  5248 1792 1280 S    0  0.0   0:00.00 busybox            
+10519 root      20   0  5248 1792 1280 S    0  0.0   0:00.00 busybox            
+10521 root      20   0     0    0    0 S    0  0.0   0:00.00 flush-8:0          
+10522 root      20   0  5440 2368 1728 S    0  0.0   0:00.00 sh                 
+10527 root      20   0  5248 1856 1280 S    0  0.0   0:00.00 busybox            
+
+

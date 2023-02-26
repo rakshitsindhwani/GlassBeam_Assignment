@@ -1,0 +1,12 @@
+vrrp  
+
+
+
+Virtual Router 104:
+    Description 
+    Admin State UP, VR State BACKUP
+    IP Address 172.186.123.53, MAC Address 77:77:7b:77:76:80, vlan 104
+    Priority 100, Advertisement 1 sec, Preemption Enable Delay 0
+    Auth type PASSWORD, Auth data: ********
+    tracking is not enabled
+

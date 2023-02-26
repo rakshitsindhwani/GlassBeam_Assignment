@@ -1,0 +1,11 @@
+aaa authentication-server tacacs statistics  
+
+
+TACACS Server Statistics
+------------------------
+Server  Acct Rq  Authen Rq  Author Rq  Authen Rsp(Pass)  Authen Rsp(Fail)  Author Rsp(Pass)  Author Rsp(Fail)  Acct Rsp(Pass)  Acct Rsp(Fail)  Login Succ  Login Fail  Timeouts  AvgRespTime (ms)  Outstanding Auths  Outstanding Requests  ExpAuthTime  Uptime (d:h:m)
+------  -------  ---------  ---------  ----------------  ----------------  ----------------  ----------------  --------------  --------------  ----------  ----------  --------  ----------------  -----------------  --------------------  -----------  --------------
+
+ExpAuthTime is in msec and is different from AvgRespTime. ExpAuthTime is a moving average of auth server response time and is used in load balancing if enabled in server group in which this auth server is a part of
+
+

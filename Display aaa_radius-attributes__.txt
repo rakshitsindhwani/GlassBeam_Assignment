@@ -1,0 +1,113 @@
+aaa radius-attributes  
+
+
+Dictionary
+----------
+Attribute                         Value  Type         Vendor     Id
+---------                         -----  ----         ------     --
+WISPr-Session-Term-End-Of-Day     10     Integer      WISPr      14122
+MS-CHAP-NT-Enc-PW                 6      String       Microsoft  311
+essid                             304    String                  
+ARAP-Security                     73     Integer                 
+Tunnel-Client-Endpoint            66     String                  
+Hiwi-Auth-SurvMethod             39     Integer      Hiwi      14823
+Hiwi-Mdps-Max-Devices            18     Integer      Hiwi      14823
+MS-CHAP-Challenge                 11     String       Microsoft  311
+User-Category                     1029   String                  
+Callback-Number                   19     String                  
+MS-Link-Drop-Time-Limit           15     String       Microsoft  311
+Exec-Program-Wait                 1039   String                  
+DB-Entry-State                    318    String                  
+NAS-IPv6-Address                  95     IPv6 Addr               
+Acct-Authentic                    45     Integer                 
+MS-MPPE-Encryption-Types          8      String       Microsoft  311
+Acct-Delay-Time                   41     Integer                 
+CHAP-Password                     3      String                  
+Hiwi-AirGroup-Shared-Group       35     String       Hiwi      14823
+Hiwi-AirGroup-User-Name          24     String       Hiwi      14823
+Expiration                        21     Date                    
+Framed-IPv6-Route                 99     String                  
+WISPr-Bandwidth-Max-Down          8      Integer      WISPr      14122
+Hiwi-Network-SSO-Token           37     String       Hiwi      14823
+MS-CHAP-LM-Enc-PW                 5      String       Microsoft  311
+Hint                              1040   String                  
+Domain-Name                       302    String                  
+Requested-Location-Info           132    Integer                 
+Acct-Output-Octets                43     Integer                 
+NAS-IP-Address                    4      IP Addr                 
+User-Name                         1      String                  
+Hiwi-AirGroup-Shared-Role        26     String       Hiwi      14823
+Server-Group                      313    String                  
+EAP-Message                       79     String                  
+Session-Timeout                   27     Integer                 
+Location-Information              127    String                  
+Tunnel-Assignment-Id              82     String                  
+Framed-AppleTalk-Network          38     Integer                 
+Framed-IPX-Network                23     IP Addr                 
+Group-Name                        1030   String                  
+Authentication-Sub-Type           323    String                  
+Tunnel-Client-Auth-Id             90     String                  
+Framed-Routing                    10     Integer                 
+Hiwi-Mdps-Device-Iccid           17     String       Hiwi      14823
+Hiwi-Port-Id                     7      String       Hiwi      14823
+Login-LAT-Service                 34     String                  
+Callback-Id                       20     String                  
+MS-MPPE-Recv-Key                  17     String       Microsoft  311
+Group                             1005   String                  
+ARAP-Zone-Access                  72     Integer                 
+Acct-Terminate-Cause              49     Integer                 
+State                             24     String                  
+Hiwi-Port-Bounce-Host            40     Integer      Hiwi      14823
+Rad-Code                          300    String                  
+Acct-Multi-Session-Id             50     String                  
+Framed-AppleTalk-Zone             39     String                  
+Hiwi-No-DHCP-Fingerprint         14     Integer      Hiwi      14823
+MS-MPPE-Send-Key                  16     String       Microsoft  311
+Connect-Rate                      1007   Integer                 
+Location-Capable                  131    Integer                 
+dhcp-option-77                    312    String                  
+bssid                             305    String                  
+Tunnel-Medium-Type                65     Integer                 
+Hiwi-Mdps-Provisioning-Settings  32     String       Hiwi      14823
+Hiwi-Mdps-Device-Product         20     String       Hiwi      14823
+Hiwi-User-Vlan                   2      Integer      Hiwi      14823
+MS-RAS-Vendor                     9      String       Microsoft  311
+Huntgroup-Name                    221    String                  
+Framed-AppleTalk-Link             37     Integer                 
+Login-LAT-Node                    35     String                  
+MS-CHAP-Domain                    10     String       Microsoft  311
+location                          307    String                  
+Termination-Action                29     Integer                 
+Framed-Protocol                   7      Integer                 
+ARAP-Security-Data                74     String                  
+Login-TCP-Port                    16     Integer                 
+WISPr-Bandwidth-Max-Up            7      Integer      WISPr      14122
+MS-CHAP-MPPE-Keys                 12     String       Microsoft  311
+Tunnel-Server-Endpoint            67     String                  
+Acct-Session-Id                   44     String                  
+Framed-IP-Netmask                 9      IP Addr                 
+Hiwi-AirGroup-Device-Type        27     Integer      Hiwi      14823
+Hiwi-User-Group                  36     String       Hiwi      14823
+MS-CHAP-Response                  1      String       Microsoft  311
+Service-Type                      6      Integer                 
+MS-CHAP2-Response                 25     String       Microsoft  311
+Strip-User-Name                   1035   Integer                 
+ARAP-Password                     70     String                  
+WISPr-Location-ID                 1      String       WISPr      14122
+MS-Link-Utilization-Threshold     14     String       Microsoft  311
+Add-Port-To-IP-Address            1037   Integer                 
+Login-IP-Host                     14     IP Addr                 
+Hiwi-AP-IP-Address               34     IP Addr      Hiwi      14823
+Hiwi-Mdps-Device-Udid            15     String       Hiwi      14823
+Hiwi-Admin-Role                  4      String       Hiwi      14823
+encryption-type                   308    String                  
+Tunnel-Password                   69     String                  
+WISPr-Bandwidth-Min-Down          6      Integer      WISPr      14122
+Hiwi-User-Role                   1      String       Hiwi      14823
+Fall-Through                      1036   Integer                 
+Framed-IPv6-Pool                  100    String                  
+Hiwi-Essid-Name                  5      String       Hiwi      14823
+MS-CHAP2-CPW                      27     String       Microsoft  311
+Server-Name                       301    String                  
+Acct-Input-Octets                 42     Integer                 
+

@@ -1,0 +1,67 @@
+process monitor statistics  
+
+
+Process Monitoring Action:Log Message
+
+
+Process Monitor Statistics
+--------------------------
+Name                          State            Restarts Allowed  Restarts  Timeout Value  Timeout Chances  Time Started
+----                          -----            ----------------  --------  -------------  ---------------  ------------
+/mswitch/bin/dbstart          PROCESS_RUNNING  8                 0         240            3                Fri Dec  9 22:38:36 2016
+/mswitch/bin/packet_filter    PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:37 2016
+/mswitch/bin/certmgr          PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:37 2016
+/mswitch/bin/cryptoPOST       PROCESS_RUNNING  8                 0         240            3                Fri Dec  9 22:38:37 2016
+/mswitch/bin/sbConsoled       PROCESS_RUNNING  8                 0         240            3                Fri Dec  9 22:38:37 2016
+/mswitch/bin/gsmmgr           PROCESS_RUNNING  8                 0         240            3                Fri Dec  9 22:38:37 2016
+/mswitch/bin/pubsub           PROCESS_RUNNING  8                 0         240            3                Fri Dec  9 22:38:38 2016
+/mswitch/bin/cfgm             PROCESS_RUNNING  8                 0         240            3                Fri Dec  9 22:38:38 2016
+/mswitch/bin/syslogdwrap      PROCESS_RUNNING  8                 0         240            3                Fri Dec  9 22:38:38 2016
+/mswitch/bin/aaa              PROCESS_RUNNING  8                 0         240            3                Fri Dec  9 22:38:38 2016
+/mswitch/bin/fpapps           PROCESS_RUNNING  0                 0         240            3                Fri Dec  9 22:38:38 2016
+/mswitch/bin/pim              PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:39 2016
+/mswitch/bin/licensemgr       PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:39 2016
+/mswitch/bin/isakmpd          PROCESS_RUNNING  8                 0         240            3                Fri Dec  9 22:38:39 2016
+/mswitch/bin/wms              PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:39 2016
+/mswitch/bin/profmgr          PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:39 2016
+/mswitch/bin/msghh            PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:40 2016
+/mswitch/bin/auth             PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:40 2016
+/mswitch/bin/stm              PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:40 2016
+/mswitch/bin/udbserver        PROCESS_RUNNING  8                 0         240            3                Fri Dec  9 22:38:40 2016
+/mswitch/bin/dhcpdwrap        PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:41 2016
+/mswitch/bin/rsyncwrap        PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:41 2016
+/mswitch/bin/radvdwrap        PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:41 2016
+/mswitch/bin/mobileip         PROCESS_RUNNING  8                 0         240            3                Fri Dec  9 22:38:41 2016
+/mswitch/bin/phonehome        PROCESS_RUNNING  8                 0         240            3                Fri Dec  9 22:38:41 2016
+/mswitch/bin/hwMon            PROCESS_RUNNING  8                 0         240            3                Fri Dec  9 22:38:42 2016
+/mswitch/bin/snmpd            PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:42 2016
+/mswitch/bin/trapd            PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:42 2016
+/mswitch/bin/ntpwrap          PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:42 2016
+/mswitch/bin/dbsync           PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:43 2016
+/mswitch/bin/slb              PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:43 2016
+/mswitch/bin/resolvwrap       PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:43 2016
+/mswitch/bin/resolv_hostname  PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:44 2016
+/mswitch/bin/cts              PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:44 2016
+/mswitch/bin/httpd_wrap       PROCESS_RUNNING  8                 0         240            3                Fri Dec  9 22:38:45 2016
+/mswitch/bin/fw_visibility    PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:45 2016
+/mswitch/bin/ospf             PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:45 2016
+/mswitch/bin/lldpd            PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:46 2016
+/mswitch/bin/util_proc        PROCESS_RUNNING  8                 0         240            3                Fri Dec  9 22:38:46 2016
+/mswitch/bin/cpsec            PROCESS_RUNNING  8                 0         240            3                Fri Dec  9 22:38:46 2016
+/mswitch/bin/spectrum         PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:47 2016
+/mswitch/bin/iapmgr           PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:47 2016
+/mswitch/bin/mdns             PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:47 2016
+/mswitch/bin/arm              PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:48 2016
+/mswitch/bin/dds              PROCESS_RUNNING  8                 0         240            3                Fri Dec  9 22:38:48 2016
+/mswitch/bin/ipstm            PROCESS_RUNNING  8                 0         240            3                Fri Dec  9 22:38:48 2016
+/mswitch/bin/ha_mgr           PROCESS_RUNNING  8                 0         240            3                Fri Dec  9 22:38:49 2016
+/mswitch/bin/dogma            PROCESS_RUNNING  8                 0         240            3                Fri Dec  9 22:38:49 2016
+/mswitch/bin/ucm              PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:49 2016
+/mswitch/bin/bocmgr           PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:49 2016
+/mswitch/bin/ofa              PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:49 2016
+/mswitch/bin/web_cc           PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:50 2016
+/mswitch/bin/survival         PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:50 2016
+/mswitch/bin/hcm              PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:50 2016
+/mswitch/bin/cert_dwnld       PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:50 2016
+/mswitch/bin/ble_relay        PROCESS_RUNNING  -                 0         240            3                Fri Dec  9 22:38:50 2016
+

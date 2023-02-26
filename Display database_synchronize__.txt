@@ -1,0 +1,8 @@
+database synchronize  
+
+
+Last synchronization time: Not synchronized since last reboot
+
+Periodic synchronization is enabled and runs every 10 minutes
+Synchronization doesn't include Captive Portal Custom data
+

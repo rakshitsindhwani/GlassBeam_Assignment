@@ -1,0 +1,12 @@
+ucc statistics counter cac  
+
+
+CAC counters and statistics
+---------------------------
+Name                 Value
+----                 -----
+Dropped SIP INVITE   0
+Sent SIP status 480  0
+Sent SIP status 486  0
+Sent SIP status 503  0
+

@@ -1,0 +1,25 @@
+ipc statistics app-name sapm  
+
+Local Statistics
+To application      Tx Msg   Tx Blk   Tx Ret  Tx Fail   Rx Ack   Rx Msg  Rx Drop   Rx Err   Tx Ack    Tx Sign    Rx Sign    Rx Denied
+Layer2/3                 4        0        0        0        0        2        0        0        0        0        0        0
+AMAPI SNMP Client        0        0        0        0        0  5861145        0        0  5861145        0        0        0
+Authentication           0        0        0        0        0        1        0        0        0        0        0        0
+AMAPI CLI Client         2        0        0        0        2       34        0        0       31        0        0        0
+Multicast DNS Lis        0        0        0        0        0        3        0        0        0        0        0        0
+Syslog Manager           4        4        0        0        4        0        0        0        0        0        0        0
+Configuration Man        2        0        0        0        1        8        0        0        5        0        0        0
+License Manager          2        2        0        0        2        0        0        0        0        0        0        0
+
+Kernel PAPI Statistics
+RxSockbufSize RxSockbufHimark CurRxQLen MaxRxQLen Drops
+16777216                4736        0        2         0 
+
+Remote Device 172.186.123.62 Statistics
+To application      Tx Msg   Tx Blk   Tx Ret  Tx Fail   Rx Ack   Rx Msg  Rx Drop   Rx Err   Tx Ack    Tx Sign    Rx Sign    Rx Denied
+SAPM                 30209        0        0        0        0    30209        0        0        0        1        0        0
+
+Allocated Buffers   3
+Static Buffers      0
+Static Buffer Size  1476
+

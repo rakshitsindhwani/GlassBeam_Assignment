@@ -1,0 +1,9 @@
+slots  
+
+
+Slots 
+------
+Slot  Status   Card Type
+----  ------   ---------
+0     Present  A7210
+

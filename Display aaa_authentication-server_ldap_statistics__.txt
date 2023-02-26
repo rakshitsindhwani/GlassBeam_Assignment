@@ -1,0 +1,11 @@
+aaa authentication-server ldap statistics  
+
+
+LDAP Server Statistics
+----------------------
+Server  Login Requests  Login Success  Login Failure  Login Timeout  Total Unbind Requests    - Reason: Timeout  AvgRespTime (ms)  Outstanding Auths  Outstanding Requests  ExpAuthTime  Uptime (d:h:m)
+------  --------------  -------------  -------------  -------------  ---------------------  -------------------  ----------------  -----------------  --------------------  -----------  --------------
+
+*ExpAuthTime is in msec and is different from AvgRespTime. ExpAuthTime is a moving average of auth server response time and is used in load balancing if enabled in server group in which this auth server is a part of
+
+

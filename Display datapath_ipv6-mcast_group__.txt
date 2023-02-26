@@ -1,0 +1,8 @@
+datapath ipv6-mcast group  
+
+
+Datapath IPv6 Multicast Entries
+-----------------------------
+               Source                                    Group     
+---------------------------------------  ---------------------------------------
+

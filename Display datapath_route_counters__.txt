@@ -1,0 +1,21 @@
+datapath route counters  
+
+
+Datapath Route Table Statistics
+-------------------------------
+Current Entries(v4/v6)  19/1
+High Water Mark      20
+Maximum Entries      8192
+Total Entries        20
+Allocation Failures  0
+Max link length      0
+Patricia  Current    37
+Patricia Lookup Depth   9
+Patricia  Alloc Fail 0
+Patricia  Dup        0
+Patricia  Ignore     0
+Null route Current   3
+Null route Alloc Fail 0
+Route ECMP Full      0
+
+

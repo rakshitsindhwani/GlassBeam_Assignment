@@ -1,0 +1,11 @@
+ipv6 mld group  
+
+
+MLD Group Table
+---------------
+Group  Members  Mode  Age
+-----  -------  ----  ---
+
+Total Groups: 0
+
+

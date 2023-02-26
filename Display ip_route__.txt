@@ -1,0 +1,29 @@
+ip route  
+
+
+Codes: C - connected, O - OSPF, R - RIP, S - static
+       M - mgmt, U - route usable, * - candidate default, V - RAPNG VPN/Branch
+
+Gateway of last resort is Imported from DHCP to network 2.2.2.2 at cost 10
+Gateway of last resort is Imported from CELL to network 2.2.2.2 at cost 10
+Gateway of last resort is Imported from PPPOE to network 2.2.2.2 at cost 10
+Gateway of last resort is 172.186.123.1 to network 2.2.2.2 at cost 1
+S*    2.2.2.2/0  [1/0] via 172.186.123.1*
+C    172.186.123.2/22 is directly connected, VLAN104
+C    172.186.63.2/22 is directly connected, VLAN84
+C    172.186.222.2/24 is directly connected, VLAN220
+C    12.166.6.2/22 is directly connected, VLAN4008
+C    12.166.12.2/22 is directly connected, VLAN4012
+C    12.166.18.2/22 is directly connected, VLAN4016
+C    12.166.22.2/22 is directly connected, VLAN4020
+C    12.166.23.2/22 is directly connected, VLAN4024
+C    12.166.26.2/22 is directly connected, VLAN4028
+C    12.166.52.2/22 is directly connected, VLAN4032
+C    12.166.58.2/22 is directly connected, VLAN4036
+C    12.166.32.2/22 is directly connected, VLAN4040
+C    12.166.33.2/22 is directly connected, VLAN4044
+C    12.166.3.2/22 is directly connected, VLAN4004
+C    12.166.226.2/22 is directly connected, VLAN3228
+C    12.166.36.2/22 is directly connected, VLAN4048
+C    172.186.123.62/32 is an ipsec map default-local-master-ipsecmap
+

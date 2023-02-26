@@ -1,0 +1,25 @@
+ipv6 mld interface  
+
+
+MLD Interface Table
+-------------------
+VLAN  Link local address  Snooping  Proxy     Querier  Querier-dest  Upstream querier  Upstream port
+----  ------------------  --------  -----     -------  ------------  ----------------  -------------
+1     ::                  disabled  disabled  ::       unknown       ::                -
+84    ::                  disabled  disabled  ::       unknown       ::                -
+104   ::                  disabled  disabled  ::       unknown       ::                -
+3228  ::                  disabled  disabled  ::       unknown       ::                -
+220   ::                  disabled  disabled  ::       unknown       ::                -
+4012  ::                  disabled  disabled  ::       unknown       ::                -
+4008  ::                  disabled  disabled  ::       unknown       ::                -
+4004  ::                  disabled  disabled  ::       unknown       ::                -
+4028  ::                  disabled  disabled  ::       unknown       ::                -
+4024  ::                  disabled  disabled  ::       unknown       ::                -
+4020  ::                  disabled  disabled  ::       unknown       ::                -
+4016  ::                  disabled  disabled  ::       unknown       ::                -
+4044  ::                  disabled  disabled  ::       unknown       ::                -
+4040  ::                  disabled  disabled  ::       unknown       ::                -
+4036  ::                  disabled  disabled  ::       unknown       ::                -
+4032  ::                  disabled  disabled  ::       unknown       ::                -
+4048  ::                  disabled  disabled  ::       unknown       ::                -
+

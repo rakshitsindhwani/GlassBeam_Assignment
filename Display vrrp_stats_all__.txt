@@ -1,0 +1,24 @@
+vrrp stats all  
+
+
+Virtual Router 104:
+
+   Admin State UP, VR State BACKUP
+
+   Advertisements:
+   Sent:                               82   Received:                   1867919
+   Zero priority sent:                  0   Zero priority received:           0
+   Lower IP address received            0   Lower Priority received           0
+   Tracking priority overflow:          0
+   Advertisements received errors:
+      Interval mismatch                 0   Invalid TTL                       0
+      Invalid packet type               0   Authentication failure            0
+      Invalid auth type                 0   Mismatch auth type                0
+      Invalid VRRP IP address           0   Invalid packet length             0
+   VRRP Up timestamp:                       Fri Dec  9 22:39:08 2016
+   Master Up timestamp:                     N/A, not MASTER
+   Last advertisement sent timestamp:       Fri Dec  9 22:40:41 2016
+   Last advertisement received timestamp:   Fri Dec 30 23:23:27 2016
+   Current time:                            Fri Dec 30 23:23:28 2016
+   Number times became VRRP Master:         1
+

@@ -1,0 +1,25 @@
+ip igmp interface  
+
+
+IGMP Interface Table
+--------------------
+VLAN  Addr            Netmask        MAC Address        Snooping  Querier  Querier-dest  IGMP Proxy
+----  ----            -------        -----------        --------  -------  ------------  ----------
+1     unassigned      unassigned     unassigned         disabled  unknown  unknown       disabled
+84    172.186.63.3    244.244.242.2  77:6f:6b:79:99:67  disabled  unknown  unknown       disabled
+104   172.186.123.57  244.244.242.2  77:6f:6b:79:99:67  disabled  unknown  unknown       disabled
+3228  12.166.226.3    244.244.242.2  77:6f:6b:79:99:67  disabled  unknown  unknown       disabled
+220   172.186.222.3   244.244.244.2  77:6f:6b:79:99:67  disabled  unknown  unknown       disabled
+4012  12.166.12.3     244.244.242.2  77:6f:6b:79:99:67  disabled  unknown  unknown       disabled
+4008  12.166.6.3      244.244.242.2  77:6f:6b:79:99:67  disabled  unknown  unknown       disabled
+4004  12.166.3.3      244.244.242.2  77:6f:6b:79:99:67  disabled  unknown  unknown       disabled
+4028  12.166.26.3     244.244.242.2  77:6f:6b:79:99:67  disabled  unknown  unknown       disabled
+4024  12.166.23.3     244.244.242.2  77:6f:6b:79:99:67  disabled  unknown  unknown       disabled
+4020  12.166.22.3     244.244.242.2  77:6f:6b:79:99:67  disabled  unknown  unknown       disabled
+4016  12.166.18.3     244.244.242.2  77:6f:6b:79:99:67  disabled  unknown  unknown       disabled
+4044  12.166.33.3     244.244.242.2  77:6f:6b:79:99:67  disabled  unknown  unknown       disabled
+4040  12.166.32.3     244.244.242.2  77:6f:6b:79:99:67  disabled  unknown  unknown       disabled
+4036  12.166.58.3     244.244.242.2  77:6f:6b:79:99:67  disabled  unknown  unknown       disabled
+4032  12.166.52.3     244.244.242.2  77:6f:6b:79:99:67  disabled  unknown  unknown       disabled
+4048  12.166.36.3     244.244.242.2  77:6f:6b:79:99:67  disabled  unknown  unknown       disabled
+

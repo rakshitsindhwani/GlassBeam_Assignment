@@ -1,0 +1,9 @@
+airgroup cache entries  
+
+
+Cache Entries
+-------------
+Name  Type  Class  TTL  Origin  Expiry  Last Update
+----  ----  -----  ---  ------  ------  -----------
+Num Cache Entries:0
+

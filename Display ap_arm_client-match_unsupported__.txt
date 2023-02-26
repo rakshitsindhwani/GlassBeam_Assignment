@@ -1,0 +1,11 @@
+ap arm client-match unsupported  
+
+
+Client Match Unsteerable Clients 
+---------------------------------
+MAC  Unsteerable Flags  Last Steer Time  Expiry Time  Total steers/successful
+---  -----------------  ---------------  -----------  -----------------------
+S: Sticky L: Load Balance V: VHT steer B: Bandsteer I: IOS T: Temporary D(I): dot11v IOS M: MU steer
+
+Total Unsteerable Clients:0
+

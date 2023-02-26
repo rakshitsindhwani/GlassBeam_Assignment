@@ -1,0 +1,23 @@
+aaa authentication-server internal statistics  
+
+
+Internal Database Server Statistics
+-----------------------------------
+PAP Requests            0
+PAP Accepts             0
+PAP Rejects             0
+MSCHAPv2 Requests       0
+MSCHAPv2 Accepts        0
+MSCHAPv2 Rejects        0
+Mismatch Response       0
+Query Requests          0
+Query Responses         0
+Update Requests          0
+Update Responses         0
+Users Expired           0
+Unknown Response        0
+Timeouts                0
+AvgRespTime (ms)        0
+Uptime (d:h:m)          21:0:42
+SEQ first/last/free     1,255,255
+

@@ -1,0 +1,7 @@
+datapath exthdr  
+
+
+Datapath IPv6 Default/Global EH types denied
+--------------------------------------------
+
+

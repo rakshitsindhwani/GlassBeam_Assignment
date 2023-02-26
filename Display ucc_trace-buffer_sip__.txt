@@ -1,0 +1,9 @@
+ucc trace-buffer sip  
+
+
+SIP Voice Client(s) Message Trace
+---------------------------------
+Client IP  Client MAC  Client Name  Direction  Event Time  BSSID  Msg
+---------  ----------  -----------  ---------  ----------  -----  ---
+Num of Rows:0
+

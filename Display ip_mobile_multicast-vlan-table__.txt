@@ -1,0 +1,8 @@
+ip mobile multicast-vlan-table  
+
+
+Mobility Multicast Vlan Table
+-----------------------------
+Client MAC  Home vlan  Current vlan
+----------  ---------  ------------
+

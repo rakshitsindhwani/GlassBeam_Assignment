@@ -1,0 +1,5 @@
+ucc configuration midcall-timeout  
+
+
+Voice sip-midcall-req-timeout:disable
+

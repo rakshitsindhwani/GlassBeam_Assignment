@@ -1,0 +1,47 @@
+ip access-list brief  
+
+
+Access list table (4 - IPv4, 6 - IPv6)
+--------------------------------------
+Name                                   Type                       Use Count  Roles
+----                                   ----                       ---------  -----
+OnGuard-Redirect_list_operations       session (not editable)(4)  1          onguard-redirect 
+Student-allow-external-aclnew          session(4)                 1          Student 
+allow-CPPM                             session(4)                 1          onguard-redirect 
+allow-diskservices                     session(4)                            
+allow-guest-internal-acl               session(4)                 4          cp-auth-guest2 cp-guest-logon rap-auth-guest cp-auth-guest 
+allow-printservices                    session(4)                            
+allowall                               session(46)                38         BCCC-Device-TutoringCenter BCCC-Device-PSTC BCCC-RegNB default-via-role BCCC-Device-UBC BCCC-Device-ITS BCCC-Device-UBCTS BCCC-Device-Learning BCCC-Device-Android BCCC-Device-AMTC OutdoorSignage BCCC-Device-LearnLBC BCCC-Device-LibraryLBC BCCC-Device-LBPS
+ap-acl                                 session(4)                 1          ap-role 
+
+sip-acl                                session(4)                 2          BCCC-Voice voice 
+skinny-acl                             session(4)                 2          BCCC-Voice voice 
+skype4b-acl                            session(4)                            
+srcnat                                 session(4)                            
+stateful-dot1x                         session(4)                            
+student-allow-internal-acl             session(4)                 1          Student 
+svp-acl                                session(4)                 2          BCCC-Voice voice 
+sys-ap-acl                             session (not editable)(4)  1          sys-ap-role 
+sys-control                            session (not editable)(4)  1          sys-ap-role 
+tftp-acl                               session(4)                 2          BCCC-Voice voice 
+
+
+Access list table (4 - IPv4, 6 - IPv6)
+--------------------------------------
+Name              Type         Use Count  Roles
+----              ----         ---------  -----
+v6-allowall       session(6)   2          default-vpn-role authenticated 
+v6-ap-acl         session(6)   1          ap-role 
+v6-control        session(6)   1          ap-role 
+v6-dhcp-acl       session(6)   1          guest 
+v6-dns-acl        session(6)   1          guest 
+v6-http-acl       session(6)   1          guest 
+v6-https-acl      session(6)   1          guest 
+v6-icmp-acl       session(6)   1          guest 
+v6-logon-control  session(6)   2          guest-logon logon 
+validuser         session(46)             
+validuserethacl   eth                     
+vmware-acl        session(4)              
+vocera-acl        session(4)   2          BCCC-Voice voice 
+vpnlogon          session(4)   1          logon 
+

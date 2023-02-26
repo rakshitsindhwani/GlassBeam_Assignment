@@ -1,0 +1,10 @@
+snmp inform stats  
+
+
+Inform queue size is 250
+
+SNMP INFORM STATS
+-----------------
+HOST  PORT  INFORMS-INQUEUE  OVERFLOW  TOTAL INFORMS
+----  ----  ---------------  --------  -------------
+

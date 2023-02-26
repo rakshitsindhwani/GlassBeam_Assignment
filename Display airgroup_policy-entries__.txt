@@ -1,0 +1,9 @@
+airgroup policy-entries  
+
+
+AirGroup Device Policy Information
+----------------------------------
+Device  device-owner  shared location-id AP-name  shared location-id AP-FQLN  shared location-id AP-group  shared user-list  shared group-list  shared role-list  CPPM-Req  CPPM-Resp  source  Auto-Associate  Neighborhood
+------  ------------  --------------------------  --------------------------  ---------------------------  ----------------  -----------------  ----------------  --------  ---------  ------  --------------  ------------
+Num Policy Entries:0
+

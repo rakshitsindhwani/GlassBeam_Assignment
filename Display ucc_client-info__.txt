@@ -1,0 +1,11 @@
+ucc client-info  
+
+
+Client Status:
+--------------
+Client IP  Client MAC  Client Name  ALG  Server(IP)  Registration State  Call Status  AP Name  Flags  Device Type
+---------  ----------  -----------  ---  ----------  ------------------  -----------  -------  -----  -----------
+
+
+Flags: V - Visitor, A - Away, W - Wired, R - Remote, B - Blocked, E - External
+

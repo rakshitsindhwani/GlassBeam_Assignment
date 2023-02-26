@@ -1,0 +1,25 @@
+vlan  
+
+
+VLAN CONFIGURATION
+------------------
+VLAN   Description               Ports                           AAA Profile
+----   -----------               -----                           -----------
+1      Default                   GE0/0/0-0/1 GE0/0/4-0/5 Pc0-7   N/A 
+84     Wireless-Client-VLAN      Pc0                             N/A 
+104    Wireless-Managment-VLAN   Pc0                             N/A 
+220    Client-WLAN-RAP           Pc0                             N/A 
+3228   Video-WLAN-3228           Pc0                             N/A 
+4004   Client-WLAN-1004          Pc0                             N/A 
+4008   Client-WLAN-1008          Pc0                             N/A 
+4012   Client-WLAN-1012          Pc0                             N/A 
+4016   Client-WLAN-1016          Pc0                             N/A 
+4020   Client-WLAN-1020          Pc0                             N/A 
+4024   Client-WLAN-1024          Pc0                             N/A 
+4028   Client-WLAN-1028          Pc0                             N/A 
+4032   Client-WLAN-1032          Pc0                             N/A 
+4036   Client-WLAN-1036          Pc0                             N/A 
+4040   Client-WLAN-1040          Pc0                             N/A 
+4044   Client-WLAN-1044          Pc0                             N/A 
+4048   Client-WLAN-4048          Pc0                             N/A 
+

@@ -1,0 +1,13 @@
+aaa authentication-server all  
+
+
+Auth Server Table
+-----------------
+Name      Type    FQDN  IP addr         AuthPort  AcctPort  Status   Requests
+----      ----    ----  -------         --------  --------  ------   --------
+Internal  Local   n/a   172.186.123.57  n/a       n/a       Enabled  0
+CPPM01    Radius  none  172.186.1.48    1812      1813      Enabled  0
+CPPM02    Radius  none  172.186.1.47    1812      1813      Enabled  0
+newdc01   Radius  none  172.186.1.153   1812      1813      Enabled  0
+newvdc02  Radius  none  172.186.1.154   1812      1813      Enabled  0
+

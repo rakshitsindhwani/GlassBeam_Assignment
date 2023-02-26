@@ -1,0 +1,47 @@
+aaa state messages  
+
+
+PAPI Messages
+-------------
+Msg ID  Name                   Since last Read  Total
+------  ----                   ---------------  -----
+7062    Set switch ip6         0                1
+7064    Set VLAN ipv6 address  0                1
+5004    set master ip          0                2
+7005    Set switch ip          0                1
+5006    lms list from CFGM     0                1
+7007    Set VLAN ip            0                1
+
+RAW socket Messages
+-------------------
+Msg ID  Name                        Since last Read  Total
+------  ----                        ---------------  -----
+33      captive portal config       0                2
+59      TACACS ACCT config for cli  0                1
+60      TACACS ACCT config for web  0                1
+86      Walled Garden config        0                1
+
+Sibyte Messages
+---------------
+Opcode  Name              New Sent  Total Sent  New Recv  Total Recv  New TxRetries  Total TxRetries  New TxFail  Total TxFail
+------  ----              --------  ----------  --------  ----------  -------------  ---------------  ----------  ------------
+13      8021x             0         0           0         20          0              0                0           0
+15      acl               0         20          0         0           0              0                0           0
+16      ace               0         46          0         0           0              0                0           0
+17      user              0         8           0         0           0              0                0           0
+21      mac               0         13          0         0           0              0                0           0
+27      bwm               0         51          0         0           0              0                0           0
+42      nat               0         2           0         0           0              0                0           0
+43      user tmout        0         4           0         0           0              0                0           0
+54      ace stats         1381      4143        0         0           0              0                0           0
+64      auth              0         2           0         0           0              0                0           0
+106     service           0         36          0         0           0              0                0           0
+111     dot1x term        0         5           0         0           0              0                0           0
+114     rand              0         2           0         0           0              0                0           0
+155     via ssl fallback  0         1           0         0           0              0                0           0
+156     fw dns            0         46          0         0           0              0                0           0
+158     wired auth term   0         2           0         0           0              0                0           0
+161     bulk acl          0         16          0         0           0              0                0           0
+162     bulk ace          0         643         0         0           0              0                0           0
+204                       0         2509        0         0           0              0                0           0
+

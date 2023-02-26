@@ -1,0 +1,30 @@
+wms general  
+
+
+General Attributes
+------------------
+Key                           Value
+---                           -----
+poll-interval                 60000
+poll-retries                  3
+ap-ageout-interval            30
+adhoc-ap-ageout-interval      5
+sta-ageout-interval           30
+learn-ap                      disable
+persistent-neighbor           enable
+persistent-valid-sta          disable
+propagate-wired-macs          enable
+learn-system-wired-macs       disable
+stat-update                   disable
+collect-stats                 disable
+classification-server-ip      2.2.2.2
+rtls-port                     8000
+wms-on-master                 enable
+event-correlation             disabled
+event-correlation-quiet-time  900
+use-db                        disable
+calc-poll-interval            60000
+Switch IP                     172.186.123.57
+Is Master                     disable
+Minutes Tick                  30230
+

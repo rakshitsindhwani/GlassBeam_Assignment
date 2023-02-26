@@ -1,0 +1,13 @@
+ap arm client-match history  
+
+
+S: Source, T: Target, A: Actual
+BTM-ACC: 11v BTM Accept, BTM-REJ#: 11v-BTM Reject with reason #, BTM-TO: 11v-BTM Timeout, BTM-FA: 11v-BTM False Accept 
+Unit of Roam Time: second
+Unit of Signal: dBm
+
+ARM Client match History
+-------------------------
+Time of Change  Station  Reason  Status/Roam Time/Mode  Signal(S/T/A)  Band(S/T/A)  Radio Bssid(S/T/A)  AP Name(S/T/A)
+--------------  -------  ------  ---------------------  -------------  -----------  ------------------  --------------
+

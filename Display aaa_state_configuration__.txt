@@ -1,0 +1,50 @@
+aaa state configuration  
+
+
+Authentication State
+--------------------
+Name                            Value
+----                            -----
+Switch IP                       172.186.123.57
+Switch IPv6                     
+Master IP                       172.186.123.62
+Switch Role                     local
+Current/Max/Total IPv4 Users    0/0/0
+Current/Max/Total IPv6 Users    0/0/0
+Current/Max/Total User Entries  0/0/0
+Current/Max/Total Stations      0/0/0
+Pending Station Deletes         0
+Captive Portal Users            0
+802.1x Users                    0
+VPN Users                       0
+MAC Users                       0
+Stateful 802.1x Users           0
+Tunneled users                  0
+Configured user roles           57
+Configured session ACL          113
+Configured destinations         123
+Configured services             145
+Configured Auth servers         5
+Auth server in service          5
+Radius server timeouts          0
+
+Successful authentications
+--------------------------
+Web  MAC  VPN  802.1x  Krb  RadAcct  SecureID  Stateful-802.1x  Management
+---  ---  ---  ------  ---  -------  --------  ---------------  ----------
+0    0    0    0       0    0        0         0                0
+
+Failed authentications
+----------------------
+Web  MAC  VPN  802.1x  Krb  RadAcct  SecureID  Stateful-802.1x  Management
+---  ---  ---  ------  ---  -------  --------  ---------------  ----------
+0    0    0    0       0    0        0         0                0
+
+Idled users              = 0
+fast age                 = Disabled
+per-user log             = Enabled
+Bandwith contracts       = 34/17
+IP takeovers             = 0
+Ping/SYN/Sess/CP attacks = 0/0/0/0
+ARP/GratARP attacks      = 0/0
+

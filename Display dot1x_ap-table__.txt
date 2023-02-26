@@ -1,0 +1,10 @@
+dot1x ap-table  
+
+
+AP Table
+--------
+MAC                IP  Essid  Type   AP name  AP Group  Vlan  Enc  Stations  Forwarding-Mode  Profile  Acl
+---                --  -----  ----   -------  --------  ----  ---  --------  ---------------  -------  ---
+76:07:d9:77:77:70             Wired                           -    0                          default  0
+Num APs: 1
+

@@ -1,0 +1,25 @@
+crypto isakmp key  
+
+
+
+ISAKMP Local Pre-Shared keys configured for ANY FQDN
+-----------------------------------------------------
+Key  Representation
+---  --------------
+
+ISAKMP Local Pre-Shared keys configured by FQDN
+------------------------------------------------
+FQDN of the host  Key  Representation
+----------------  ---  --------------
+
+ISAKMP Local Pre-Shared keys configured by Address
+---------------------------------------------------
+IP address of the host  Subnet Mask Length  Key  Representation
+----------------------  ------------------  ---  --------------
+
+ISAKMP Global Pre-Shared keys configured by Address
+----------------------------------------------------
+IP address of the host  Subnet Mask Length  Key       Representation
+----------------------  ------------------  ---       --------------
+2.2.2.2                 0                   ********  Text-based
+

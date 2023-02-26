@@ -1,0 +1,9 @@
+airgroup cppm entries  
+
+
+ClearPass Guest Device Registration Information
+-----------------------------------------------
+Device  device-owner  shared location-id AP-name  shared location-id AP-FQLN  shared location-id AP-group  shared user-list  shared group-list  shared role-list  CPPM-Req  CPPM-Resp
+------  ------------  --------------------------  --------------------------  ---------------------------  ----------------  -----------------  ----------------  --------  ---------
+Num CPPM Entries:0
+

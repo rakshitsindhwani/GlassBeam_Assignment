@@ -1,0 +1,9 @@
+airgroup blocked-queries  
+
+
+AirGroup dropped Query IDs
+--------------------------
+Service ID  #query-hits
+----------  -----------
+Num dropped Query IDs:0
+

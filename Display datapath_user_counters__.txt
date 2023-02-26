@@ -1,0 +1,22 @@
+datapath user counters  
+
+
++----+------+-----------------------------------------------------+
+|SUM/|      |                                   |                 |
+|CPU | Addr | Description                                   Value |
++----+------+-----------------------------------------------------+
+|    |      |                                                     |
+| G  | [00] | Total Current Entries(L2,L3)                     18 |
+| G  | [01] | Current Entries(L2)                               1 |
+| G  | [02] | Current Entries(L3-v4)                           17 |
+| G  | [04] | Current Local Entries(L3-v4)                     17 |
+| G  | [08] | High UKE Water Mark                              18 |
+| G  | [09] | Maximum UKE Entries                          135183 |
+| G  | [10] | Total UKE Entries                                18 |
+| G  | [12] | Current UAE Entries                               2 |
+| G  | [14] | Total UAE Entries                                 2 |
+| G  | [15] | Maximum UAE Entries                           33795 |
+| G  | [16] | High UAE Water Mark                               2 |
+| G  | [18] | Max Link Length                                   1 |
++----+------+-----------------------------------------------------+
+

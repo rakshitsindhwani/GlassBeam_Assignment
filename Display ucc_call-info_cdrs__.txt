@@ -1,0 +1,8 @@
+ucc call-info cdrs  
+
+
+CDR:
+----
+CDR ID  UCC Call ID  Client IP  Client MAC  Client Name  ALG  Dir  Called to  Dur(sec)  Orig Time  Status  Reason  Call Type  Client Health  UCC Score  UCC-Band  MOS  MOS-Band
+------  -----------  ---------  ----------  -----------  ---  ---  ---------  --------  ---------  ------  ------  ---------  -------------  ---------  --------  ---  --------
+

@@ -1,0 +1,6 @@
+ip ospf  
+
+
+OSPF is currently disabled
+Number of areas configured in this router is 0
+

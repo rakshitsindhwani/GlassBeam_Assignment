@@ -1,0 +1,4 @@
+ipc statistics app-name stm-lopri  
+
+Cannot reach application
+

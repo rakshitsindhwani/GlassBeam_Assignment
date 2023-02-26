@@ -1,0 +1,41 @@
+datapath message-queue counters  
+
+
+Datapath SOS Message Queue Statistics
+---------------------------------
+Cpu-->          8                9                10                11         
+Opcode   HighPrio LowPrio  HighPrio LowPrio  HighPrio LowPrio  HighPrio LowPrio  
+-------------------------------------------------------------------------------
+RAW/FREE                                     00000005          000000a7         
+BRIDGE   00145cf1 00000014                                     00145cf1 00000066
+ROUTE    0000129b          0000119f          0010aaa5          0000f4ed 00000002
+SESSION                    002eb0e3 00000002 0002f477          000d749f         
+FORWARD                    010fb102 001ea20c                   0000000b         
+HELLO             001bb895          001bb895          001bb895          001bb895
+MDNS              00000002          00000002                                    
+DPI               000009cd          000009cd                                    
+AMON_SRV 0000000e          0000000e                                             
+DNS      00007620          00007620                                             
+PAPISEC_ 00000003          00000003                                             
+
+
+Cpu-->          12                13                14                15         
+Opcode   HighPrio LowPrio  HighPrio LowPrio  HighPrio LowPrio  HighPrio LowPrio  
+-------------------------------------------------------------------------------
+RAW/FREE 00000495          0000000a          00000001          0000008d         
+ROUTE    000045df          00004ee5          000067fd          000070f8         
+SESSION  00038f57          0003da77          0007741f          000462e7         
+HELLO             001bb895          001bb895          001bb895          001bb895
+ALLOC             000317de          000317de          000317dd          000317dd
+BWM               00000009          00000009          00000009          00000008
+SRC_BRID 000079cd          0000762c          000075db          00007421         
+
+
+
+
+Datapath DPI Message Queue Statistics
+---------------------------------
+         Cpu->Opcode        8        9       10       11       12       13       14       15 
+
+
+

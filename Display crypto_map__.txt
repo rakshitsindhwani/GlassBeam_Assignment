@@ -1,0 +1,37 @@
+crypto map  
+
+
+Crypto Map "default-local-master-ipsecmap" 9999 ipsec-isakmp
+Crypto Map Template"default-local-master-ipsecmap" 9999
+	 IKE Version: 1
+	 IKEv1 Policy: All
+	 Security association lifetime seconds : [300 -86400]
+	 Security association lifetime kilobytes: N/A
+	 PFS (Y/N): N
+	 Transform sets={ default-ml-transform }
+	 Peer gateway: 172.186.123.62
+	 Interface: VLAN 0
+	 Source network: 172.186.123.57/244.244.244.244
+	 Destination network: 172.186.123.62/244.244.244.244
+	 Pre-Connect (Y/N): Y
+	 Tunnel Trusted (Y/N): Y
+	 Forced NAT-T (Y/N): N
+	 Uplink Failover (Y/N): N
+	 IP Compression (Y/N): Y
+Crypto Map "GLOBAL-IKEV2-MAP" 10000 ipsec-isakmp
+Crypto Map Template"default-rap-ipsecmap" 10001
+	 IKE Version: 2
+	 IKEv2 Policy: DEFAULT
+	 Security association lifetime seconds : [300 -86400]
+	 Security association lifetime kilobytes: N/A
+	 PFS (Y/N): N
+	 Transform sets={ default-gcm256, default-gcm128, default-rap-transform }
+Crypto Map "GLOBAL-MAP" 10000 ipsec-isakmp
+Crypto Map Template"default-dynamicmap" 10000
+	 IKE Version: 1
+	 IKEv1 Policy: All
+	 Security association lifetime seconds : [300 -86400]
+	 Security association lifetime kilobytes: N/A
+	 PFS (Y/N): N
+	 Transform sets={ default-transform, default-aes }
+

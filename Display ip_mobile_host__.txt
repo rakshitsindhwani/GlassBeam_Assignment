@@ -1,0 +1,9 @@
+ip mobile host  
+
+
+
+*** WARNING ***: Mobility service is disabled (router mobile)
+
+Mobile Host List, 0 host(s)
+---------------------------
+

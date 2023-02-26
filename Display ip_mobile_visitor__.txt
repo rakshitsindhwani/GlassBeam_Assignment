@@ -1,0 +1,9 @@
+ip mobile visitor  
+
+
+
+*** WARNING ***: Mobility service is disabled (router mobile)
+
+Foreign Agent Visitor list, 0 host(s)
+-------------------------------------
+

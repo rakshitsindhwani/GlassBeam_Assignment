@@ -1,0 +1,11 @@
+ucc statistics counter call client  
+
+
+Per Client Call Counters:
+-------------------------
+Client IP  Client MAC  Call Originated  Call Terminated  Active  Success  Failed  Blocked  Aborted  Forwarded  WMM AC-VI  WMM AC-VO  WMM-BK  WMM-BE
+---------  ----------  ---------------  ---------------  ------  -------  ------  -------  -------  ---------  ---------  ---------  ------  ------
+
+
+WMM (VI, VO, BK, BE):total calls with received priority
+

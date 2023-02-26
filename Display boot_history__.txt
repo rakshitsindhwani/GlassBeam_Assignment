@@ -1,0 +1,108 @@
+boot history  
+
+
+Reboot History Table
+--------------------
+No  Description                                                    User   Role  IP               Timestamp
+--  -----------                                                    ----   ----  --               ---------
+1   Reboot Cause: User reboot (Intent:cause:register 78:86:50:2)   admin  root  serial-console   Thu Feb  4 07:50:16 2016
+
+2   Reboot Cause: Power Cycle (Intent:cause:register ee:ee:0:1)    admin  root  serial-console   Tue Mar  1 11:34:30 2016
+
+3   Reboot Cause: Power Cycle (Intent:cause:register ee:ee:0:1)    admin  root  serial-console   Tue Mar  8 06:44:24 2016
+
+4   Controller Reboot initiated from Web-UI.                       admin  root  172.186.8.18     Mon Mar 14 08:54:15 2016
+
+5   Reboot Cause: User reboot (Intent:cause:register 78:86:50:2)   admin  root  serial-console   Mon Mar 14 08:56:02 2016
+
+6   Controller Reboot initiated.                                   admin  root  serial-console   Mon Mar 14 10:06:37 2016
+
+7   Reboot Cause: User reboot (Intent:cause:register 78:86:50:2)   admin  root  serial-console   Mon Mar 14 10:08:21 2016
+
+8   Controller Reboot initiated from Web-UI.                       admin  root  172.186.8.18     Mon Mar 14 11:14:58 2016
+
+9   Reboot Cause: User reboot (Intent:cause:register 78:86:50:2)   admin  root  serial-console   Mon Mar 14 11:16:46 2016
+
+10  Controller Reboot initiated from Web-UI.                       admin  root  172.186.8.18     Mon Mar 14 12:40:42 2016
+
+11  Reboot Cause: User reboot (Intent:cause:register 78:86:50:2)   admin  root  serial-console   Mon Mar 14 12:42:33 2016
+
+12  Upgrade through Web-UI to 8.3.2.13 on partition 1 Successful.  admin  root  172.186.1.8      Tue Mar 15 08:41:14 2016
+
+13  Controller Reboot initiated from Web-UI.                       admin  root  172.186.1.8      Tue Mar 15 08:43:33 2016
+
+14  Reboot Cause: User reboot (Intent:cause:register 78:86:50:2)   admin  root  serial-console   Tue Mar 15 08:45:25 2016
+
+15  Controller Reboot initiated from Web-UI.                       admin  root  172.186.8.18     Tue Mar 15 13:14:45 2016
+
+16  Reboot Cause: User reboot (Intent:cause:register 78:86:50:2)   admin  root  serial-console   Tue Mar 15 13:16:33 2016
+
+17  Upgrade through Web-UI to 8.3.2.18 on partition 0 Successful.  admin  root  172.186.1.8      Mon Apr  4 14:15:23 2016
+
+18  Boot partition is changed from 0 to 1                          admin  root  serial-console   Mon Apr  4 14:16:05 2016
+
+19  Upgrade through Web-UI to 8.3.2.18 on partition 0 Successful.  admin  root  172.186.1.8      Wed Apr  6 22:31:06 2016
+
+20  Controller Reboot initiated from Web-UI.                       admin  root  172.186.1.8      Wed Apr  6 23:01:01 2016
+
+21  Reboot Cause: User reboot (Intent:cause:register 78:86:50:2)   admin  root  serial-console   Wed Apr  6 23:03:00 2016
+
+22  Controller Reboot initiated from Web-UI.                       admin  root  172.186.1.8      Fri Apr 22 23:15:36 2016
+
+23  Reboot Cause: User reboot (Intent:cause:register 78:86:50:2)   admin  root  serial-console   Fri Apr 22 23:17:46 2016
+
+24  Upgrade through Web-UI to 8.3.5.9 on partition 1 Successful.   admin  root  172.186.1.8      Sat Apr 23 23:16:55 2016
+
+25  Controller Reboot initiated from Web-UI.                       admin  root  172.186.1.8      Sat Apr 23 23:18:08 2016
+
+26  Reboot Cause: User reboot (Intent:cause:register 78:86:50:2)   admin  root  serial-console   Sat Apr 23 23:20:00 2016
+
+27  Controller Reboot initiated from Web-UI.                       admin  root  172.186.123.241  Sat May 21 12:57:45 2016
+
+28  Reboot Cause: User reboot (Intent:cause:register 78:86:50:2)   admin  root  serial-console   Sat May 21 12:59:33 2016
+
+29  Controller Reboot initiated from Web-UI.                       admin  root  172.186.1.8      Thu May 26 22:24:12 2016
+
+30  Reboot Cause: User reboot (Intent:cause:register 78:86:50:2)   admin  root  serial-console   Thu May 26 22:26:00 2016
+
+31  Upgrade through Web-UI to 8.3.3.8 on partition 0 Successful.   admin  root  172.186.1.8      Sun Jun  5 08:10:24 2016
+
+32  Boot partition is changed from 0 to 1                          admin  root  serial-console   Sun Jun  5 08:12:39 2016
+
+33  Controller Reboot initiated from Web-UI.                       admin  root  172.186.1.8      Thu Jun 16 06:49:54 2016
+
+34  Reboot Cause: User reboot (Intent:cause:register 78:86:50:2)   admin  root  serial-console   Thu Jun 16 06:51:46 2016
+
+35  Boot partition is changed from 1 to 0                          admin  root  serial-console   Sun Jun 19 07:36:56 2016
+
+36  Controller Reboot initiated from Web-UI.                       admin  root  172.186.1.8      Sun Jun 19 07:37:17 2016
+
+37  Reboot Cause: User reboot (Intent:cause:register 78:86:50:2)   admin  root  serial-console   Sun Jun 19 07:39:09 2016
+
+38  Boot partition is changed from 0 to 1                          admin  root  serial-console   Sat Jun 25 06:36:02 2016
+
+39  Controller Reboot initiated from Web-UI.                       admin  root  172.186.1.8      Sat Jun 25 06:36:39 2016
+
+40  Reboot Cause: User reboot (Intent:cause:register 78:86:50:2)   admin  root  serial-console   Sat Jun 25 06:38:27 2016
+
+41  Upgrade through Web-UI to 8.3.3.8 on partition 0 Successful.   admin  root  172.186.1.8      Mon Aug  8 10:12:39 2016
+
+42  Boot partition is changed from 0 to 1                          admin  root  serial-console   Mon Aug  8 10:13:05 2016
+
+43  Boot partition is changed from 1 to 0                          admin  root  serial-console   Tue Aug  9 22:10:51 2016
+
+44  Controller Reboot initiated from Web-UI.                       admin  root  172.186.1.8      Tue Aug  9 22:40:58 2016
+
+45  Reboot Cause: User reboot (Intent:cause:register 78:86:50:2)   admin  root  serial-console   Tue Aug  9 22:42:50 2016
+
+46  Upgrade through Web-UI to 8.3.3.7 on partition 1 Successful.   admin  root  172.186.1.8      Mon Oct 10 10:30:15 2016
+
+47  Boot partition is changed from 1 to 0                          admin  root  serial-console   Mon Oct 10 10:30:52 2016
+
+48  Boot partition is changed from 0 to 1                          admin  root  serial-console   Fri Dec  9 22:17:59 2016
+
+49  Controller Reboot initiated from Web-UI.                       admin  root  172.186.1.8      Fri Dec  9 22:35:22 2016
+
+50  Reboot Cause: User reboot (Intent:cause:register 78:86:50:2)   admin  root  serial-console   Fri Dec  9 22:37:38 2016
+
+

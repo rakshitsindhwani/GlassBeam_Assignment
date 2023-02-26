@@ -1,0 +1,18 @@
+crypto dynamic-map  
+
+
+Crypto Map Template"default-rap-ipsecmap" 10001
+	 IKE Version: 2
+	 IKEv2 Policy: DEFAULT
+	 Security association lifetime seconds : [300 -86400]
+	 Security association lifetime kilobytes: N/A
+	 PFS (Y/N): N
+	 Transform sets={ default-gcm256, default-gcm128, default-rap-transform }
+Crypto Map Template"default-dynamicmap" 10000
+	 IKE Version: 1
+	 IKEv1 Policy: All
+	 Security association lifetime seconds : [300 -86400]
+	 Security association lifetime kilobytes: N/A
+	 PFS (Y/N): N
+	 Transform sets={ default-transform, default-aes }
+

@@ -1,0 +1,8 @@
+lldp interface  
+
+
+LLDP Interfaces Information
+---------------------------
+Interface  LLDP TX  LLDP RX  Prop Disc  LLDP-MED  TX interval  Hold Timer
+---------  -------  -------  ---------  --------  -----------  ----------
+

@@ -1,0 +1,7 @@
+interface loopback  
+
+
+loopback interface is up line protocol is up 
+Hardware is Ethernet, address is 77:6F:6B:79:99:67 
+IPv6 link-local address is fe80::1a:1e0f:ff02:7710/64
+

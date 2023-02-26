@@ -1,0 +1,9 @@
+airgroup aps  
+
+
+AirGroup APs
+------------
+IP  Name  Group  MAC  BSSID- A  BSSID- B/G  FQLN  Neighbor count- A  Neighbor count- B/G  Neighbor base BSSID  BAND
+--  ----  -----  ---  --------  ----------  ----  -----------------  -------------------  -------------------  ----
+Num APs:0
+

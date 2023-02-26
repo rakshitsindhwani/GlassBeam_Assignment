@@ -1,0 +1,5 @@
+crypto isakmp groupname  
+
+
+IKE Aggressive groupname = changeme
+

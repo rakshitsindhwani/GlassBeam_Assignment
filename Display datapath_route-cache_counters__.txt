@@ -1,0 +1,21 @@
+datapath route-cache counters  
+
+
+Datapath Route Cache Statistics
+-------------------------------
+Current Entries(v4/v6)  94/1
+High Water Mark      406
+Maximum Entries      32768
+Total Entries        95
+Allocation Failures  0
+Max link length      2
+Stale Regular/Perm   0/0
+Stale Refreshed (Update/Delete) 0/0
+Current Flows with Session FIB       0
+Total Flows with Session FIB         0
+Session FIB routed packets           0
+Session Stale FIB                    0
+Session FIB Route fallback           0
+Session FIB race                     0
+
+

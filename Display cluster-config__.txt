@@ -1,0 +1,5 @@
+cluster-config  
+
+
+This command is only for Master-Switch
+

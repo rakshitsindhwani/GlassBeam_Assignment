@@ -1,0 +1,11 @@
+ip igmp proxy-stats  
+
+
+IGMP Proxy Statistics(Upstream)
+-------------------------------
+Name     Sent  Received
+----     ----  --------
+Queries  -     0
+Joins    0     0
+Leaves   0     0
+

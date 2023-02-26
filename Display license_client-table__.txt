@@ -1,0 +1,14 @@
+license client-table  
+
+
+Built-in limit: 0
+License Client Table
+--------------------
+Service Type                                        System Limit  Server Lic.  Used Lic.  Contributed Lic.  Remaining Lic.
+------------                                        ------------  -----------  ---------  ----------------  --------------
+Access Points                                       512           486          0          0                 486
+Next Generation Policy Enforcement Firewall Module  512           486          0          0                 486
+RF Protect                                          512           0            0          0                 0
+xSec Module                                         4096          0            0          0                 0
+Advanced Cryptography                               4096          0            0          0                 0
+

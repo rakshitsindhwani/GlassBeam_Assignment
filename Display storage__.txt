@@ -1,0 +1,7 @@
+storage  
+
+Filesystem                Size      Used Available Use% Mounted on
+tmpfs                     2.0G     23.6M      2.0G   1% /tmp
+/dev/usb/flash3           1.5G    138.0M      1.3G   9% /flash
+/dev/usb/flash4           5.6G    139.5M      5.2G   3% /flash1
+

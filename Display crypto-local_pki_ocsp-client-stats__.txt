@@ -1,0 +1,32 @@
+crypto-local pki ocsp-client-stats  
+
+
+OCSP Client Statistics
+----------------------
+
+Total Requests             = 0
+  Requests Sent            = 0
+  Connect/PostReq Timedout = 0
+
+Total Responses            = 0
+  Responses Received       = 0
+  Responses Timedout       = 0
+
+Results:
+  Verified                 = 0
+     Good                  = 0
+     Revoked               = 0
+     Unknown               = 0
+  Unverified               = 0
+  Server unreachable:
+     Revoke-cert           = 0
+     Allow-cert            = 0
+  Failover to next method  = 0
+
+Hash Table
+  Current Entries           = 0
+  Max Entries               = 0
+  Cleanup Counter           = 60483
+  Last Cleanup              = Fri Dec 30 23:23:16 2016
+
+

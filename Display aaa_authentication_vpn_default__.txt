@@ -1,0 +1,15 @@
+aaa authentication vpn default  
+
+
+VPN Authentication Profile "default"
+------------------------------------
+Parameter                                         Value
+---------                                         -----
+Server Group                                      default
+RADIUS Accounting Server Group                    N/A
+Max Authentication failures                       0
+Check certificate common name against AAA server  Enabled
+Export VPN IP address as a route                  Enabled
+User idle timeout                                 N/A
+PAN Firewall Integration                          Disabled
+

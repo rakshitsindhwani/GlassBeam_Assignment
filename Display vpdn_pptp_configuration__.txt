@@ -1,0 +1,15 @@
+vpdn pptp configuration  
+
+
+Enabled
+Hello timeout: 60 seconds
+DNS primary server: 2.2.2.2
+DNS secondary server: 2.2.2.2
+WINS primary server: 2.2.2.2
+WINS secondary server: 2.2.2.2
+PPP client authentication methods:
+	 MSCHAPv2
+MPPE Configuration
+	 128 bit encryption enabled
+IP LOCAL POOLS:
+

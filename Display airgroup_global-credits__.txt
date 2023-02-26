@@ -1,0 +1,18 @@
+airgroup global-credits  
+
+
+Global Credits - Default
+------------------------
+Type              Value
+----              -----
+Query Packets     1350
+Response Packets  944
+ 
+Global Credits - Current
+------------------------
+Type              Value  packets drop - last half an hour  packets drop - last read  packets drop - total throttled
+----              -----  --------------------------------  ------------------------  ------------------------------
+Query Packets     1      0                                 0                         0
+Response Packets  15000  0                                 0                         0
+ 
+

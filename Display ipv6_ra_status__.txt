@@ -1,0 +1,8 @@
+ipv6 ra status  
+
+
+IPv6 RA Status
+--------------
+VlanId  State  Prefix(es)
+------  -----  ----------
+

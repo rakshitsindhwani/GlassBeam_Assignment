@@ -1,0 +1,8 @@
+memory ecc  
+
+Overall ECC Errors:
+Correctable ECC Errors:0	Uncorrectable ECC Errors: 0
+
+ECC Errors since last reboot:
+Correctable ECC Errors:0	Uncorrectable ECC Errors: 0
+

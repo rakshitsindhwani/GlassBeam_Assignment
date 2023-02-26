@@ -1,0 +1,27 @@
+airgroup vlan  
+
+
+VLAN Table
+----------
+Vlan-Id  IP-Address      IPv6-Address  Status
+-------  ----------      ------------  ------
+1        2.2.2.2         ::/0          Allowed
+84       172.186.63.3    ::/0          Allowed
+104      172.186.123.57  ::/0          Allowed
+220      172.186.222.3   ::/0          Allowed
+3228     12.166.226.3    ::/0          Allowed
+4004     12.166.3.3      ::/0          Allowed
+4008     12.166.6.3      ::/0          Allowed
+4012     12.166.12.3     ::/0          Allowed
+4016     12.166.18.3     ::/0          Allowed
+4020     12.166.22.3     ::/0          Allowed
+4024     12.166.23.3     ::/0          Allowed
+4028     12.166.26.3     ::/0          Allowed
+4032     12.166.52.3     ::/0          Allowed
+4036     12.166.58.3     ::/0          Allowed
+4040     12.166.32.3     ::/0          Allowed
+4044     12.166.33.3     ::/0          Allowed
+4048     12.166.36.3     ::/0          Allowed
+default  187.243.45.45   N/A           Allowed
+Num Vlans:18
+

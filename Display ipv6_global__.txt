@@ -1,0 +1,5 @@
+ipv6 global  
+
+
+Global IPv6 Packet Processing is Disabled
+

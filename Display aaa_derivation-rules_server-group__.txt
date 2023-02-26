@@ -1,0 +1,12 @@
+aaa derivation-rules server-group  
+
+
+Server Groups
+-------------
+Name           Servers  Rules  hits  Out-of-service
+----           -------  -----  ----  --------------
+BCC-Radius-SG  2        3      0     
+CPPM           2        0      0     
+default        1        1      0     
+internal       1        1      0     
+

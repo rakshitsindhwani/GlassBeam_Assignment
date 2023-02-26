@@ -1,0 +1,12 @@
+whitelist-db rap-master-switch-list  
+
+
+
+Registered Master Switch Details
+--------------------------------
+Active  MAC-Address        IP-Address      Sequence Number  Remote Sequence Number  NULL Update Count  Local Purge  Remote Purge  Remote Last-Seq  Last Update Sent          Last Update Received
+------  -----------        ----------      ---------------  ----------------------  -----------------  -----------  ------------  ---------------  ----------------          --------------------
+1       77:6f:6b:77:69:b7  172.186.123.62  2622             2621                    5                  0            0             2621             Fri Dec 30 23:13:48 2016  Fri Dec 30 23:22:27 2016
+
+Total Entries: 1
+

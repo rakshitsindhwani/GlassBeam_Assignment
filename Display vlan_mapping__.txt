@@ -1,0 +1,8 @@
+vlan mapping  
+
+
+Vlan Mapping Table
+------------------
+VLAN Name  Assignment Type  VLAN IDs
+---------  ---------------  --------
+

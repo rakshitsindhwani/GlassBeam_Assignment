@@ -1,0 +1,8 @@
+ha heartbeat counters  
+
+
+Heartbeat stats
+---------------
+Controller IP  Active Reference Count  Total Heartbeat Sent  Total Heartbeat Received  Last Missed Heartbeat (Count) Time
+-------------  ----------------------  --------------------  ------------------------  ----------------------------------
+

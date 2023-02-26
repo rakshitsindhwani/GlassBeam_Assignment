@@ -1,0 +1,6 @@
+ntp authentication-keys  
+
+
+Key Id     md5 secret
+------     ----------
+

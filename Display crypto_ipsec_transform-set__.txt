@@ -1,0 +1,11 @@
+crypto ipsec transform-set  
+
+
+Transform set default-transform: { esp-3des esp-sha-hmac }
+	 will negotiate = { Transport, Tunnel }
+	 will negotiate = { Transport, Tunnel }
+Transform set default-rap-transform: { esp-aes256 esp-sha-hmac }
+	 will negotiate = { Transport, Tunnel }
+Transform set default-aes: { esp-aes256 esp-sha-hmac }
+	 will negotiate = { Transport, Tunnel }
+

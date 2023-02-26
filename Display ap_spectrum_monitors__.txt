@@ -1,0 +1,11 @@
+ap spectrum monitors  
+
+
+List of Spectrum Monitors
+-------------------------
+AP name  Group  IP Address  AP Type  Phy  Band  Channel  Mode  Subscriber IP  Subscribe Time
+-------  -----  ----------  -------  ---  ----  -------  ----  -------------  --------------
+
+Num Spectrum Monitors: 0
+Current Time: 2016-12-30 11:23:27 PM
+

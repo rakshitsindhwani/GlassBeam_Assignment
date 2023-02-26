@@ -1,0 +1,8 @@
+ap band-steering-clients   
+
+
+This command has been deprecated, please use show ap association for a summary of band steerable clients
+
+5GHz Capable Clients:0
+
+

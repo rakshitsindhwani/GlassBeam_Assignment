@@ -1,0 +1,15 @@
+image version  
+
+----------------------------------
+Partition       	: 0:0 (/dev/usb/flash1)
+Software Version	: HiwiOS 8.3.3.7 (Digitally Signed - Production Build)
+Build number    	: 55980
+Label           	: 55980
+Built on        	: Thu Aug 4 12:53:23 PDT 2016
+----------------------------------
+Partition       	: 0:1 (/dev/usb/flash2) **Default boot**
+Software Version	: HiwiOS 8.3.3.12 (Digitally Signed - Production Build)
+Build number    	: 56727
+Label           	: 56727
+Built on        	: Mon Oct 3 10:41:35 PDT 2016
+

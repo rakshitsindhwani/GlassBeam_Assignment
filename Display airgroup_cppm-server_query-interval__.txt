@@ -1,0 +1,9 @@
+airgroup cppm-server query-interval  
+
+
+CPPM Server Query Interval
+--------------------------
+Timer Value  Unit
+-----------  ----
+10           hours
+

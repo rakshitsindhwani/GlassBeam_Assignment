@@ -1,0 +1,5 @@
+ucc configuration rtcp-inactivity  
+
+
+Voice rtcp-inactivity:disable
+

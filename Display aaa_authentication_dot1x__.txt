@@ -1,0 +1,17 @@
+aaa authentication dot1x  
+
+
+802.1X Authentication Profile List
+----------------------------------
+Name                         References  Profile Status
+----                         ----------  --------------
+BCCC-Domain-802.1x-Auth      1           
+BCCC-Domain-MAC-Auth         1           
+BCCC-Voice-MAC-Auth          1           
+CPPM-802.1x-Auth-Prof        1           
+CPPM-802.1x-Auth-Prof-Staff  1           
+default                      1           
+default-psk                  2           Predefined (editable)
+
+Total:7
+

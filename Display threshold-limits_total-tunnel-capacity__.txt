@@ -1,0 +1,9 @@
+threshold-limits total-tunnel-capacity  
+
+
+Threshold Values For Total Tunnels 
+-----------------------------------
+Default(%)  Current(%)  MAX Tunnels  No of Tunnels used
+----------  ----------  -----------  ------------------
+80          80          24576        10
+

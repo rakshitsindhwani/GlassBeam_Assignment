@@ -1,0 +1,7 @@
+ipv6 route  
+
+
+Codes: C - connected, O - OSPF, R - RIP, S - static
+       M - mgmt, U - route usable, * - candidate default
+
+

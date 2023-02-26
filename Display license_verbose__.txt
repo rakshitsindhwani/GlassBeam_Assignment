@@ -1,0 +1,12 @@
+license verbose  
+
+
+License Table
+-------------
+Key  Installed  Expires  Flags  Service Type
+---  ---------  -------  -----  ------------
+
+License Entries: 0
+
+Flags: A - auto-generated; E - enabled; R - reboot required to activate
+

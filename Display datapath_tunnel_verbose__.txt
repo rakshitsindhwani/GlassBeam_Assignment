@@ -1,0 +1,24 @@
+datapath tunnel verbose  
+
+
+
+Datapath Tunnel Table Entries
+-----------------------------
+
+Flags: E - Ether encap,  I - Wi-Fi encap,  R - Wired tunnel,  F - IP fragment OK
+       W - WEP,  K - TKIP,  A - AESCCM,  G - AESGCM,  M - no mcast src filtering
+       S - Single encrypt,  U - Untagged,  X - Tunneled node,  1(cert-id) - 802.1X Term-PEAP
+       2(cert-id) - 802.1X Term-TLS,  T - Trusted,  L - No looping, d - Drop Bcast/Unknown Mcast,
+       D - Decrypt tunnel,  a - Reduce ARP packets in the air, e - EAPOL only
+       C - Prohibit new calls, P - Permanent, m - Convert multicast
+       n - Convert RAs to unicast(VLAN Pooling/L3 Mobility enabled), s - Split tunnel
+       V - enforce user vlan(open clients only), x - Striping IP
+       H - Standby (HA-Lite), c - IP Compression, g - PAN GlobalProtect Tunnel
+
+Tunnel's: Session Index, Session route/cache Version Number[TSIDX SRTRCV]
+
+ #          Source       Destination    Prt  Type  MTU   VLAN       Acls                    BSSID          Decaps     Encaps   Heartbeats TSIDX    SRTRCV   StripIP         Flags  
+------  --------------  --------------  ---  ----  ----  ---- -----------------------  ----------------- ---------- ---------- ---------- -------- -------- --------------- -----
+9       SPI9EC94E00out  172.186.123.62  50   IPSE  1500  0    routeDest 0068     0                                0       1240                                              Tc 
+10      SPI8EAB9100 in  172.186.123.57  50   IPSE  1500  0    routeDest 0068     0                              784          0                                              Tc 
+

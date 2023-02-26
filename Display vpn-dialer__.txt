@@ -1,0 +1,29 @@
+vpn-dialer  
+
+
+default-dialer
+--------------
+Attribute           Value
+---------           -----
+PPTP                disabled
+L2TP                enabled
+DNETCLEAR           disabled
+WIREDNOWIFI         disabled
+PAP                 enabled
+CHAP                enabled
+MSCHAP              enabled
+MSCHAPV2            enabled
+CACHE-SECURID       disabled
+IKESECS             28800
+IKEENC              3DES
+IKEGROUP            TWO
+IKEHASH             SHA
+IKEAUTH             PRE-SHARE
+IKEPASSWD           ********
+IPSECSECS           7200
+IPSECGROUP          GROUP2
+IPSECENC            ESP-3DES
+IPSECAUTH           ESP-SHA-HMAC
+SECURID_NEWPINMODE  disabled
+
+

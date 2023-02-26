@@ -1,0 +1,12 @@
+interface counters  
+
+
+
+Port          InOctets     InUcastPkts     InMcastPkts     InBcastPkts
+GE0/0/2      1650218636          987104         8488893         6271491
+GE0/0/3       832068807          705090         2408152         5212214
+
+Port         OutOctets    OutUcastPkts    OutMcastPkts    OutBcastPkts
+GE0/0/2        61760099          819569           14792               0
+GE0/0/3       483326390         1040492             207            4837
+

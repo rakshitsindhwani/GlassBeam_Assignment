@@ -1,0 +1,9 @@
+datapath ipv6-mcast destination  
+
+
+Datapath IP Multicast Entries
+-----------------------------
+Flags: m - Dyn Mcast Optimization Enable
+               Source                                     Group                   VLAN                  Destination    Flags  
+---------------------------------------  ---------------------------------------  --------------------  -------------  -----  
+

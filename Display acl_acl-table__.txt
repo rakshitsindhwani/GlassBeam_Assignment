@@ -1,0 +1,116 @@
+acl acl-table  
+
+
+AclTable
+--------
+ACL  Type        ACE Index  Rule Count  Ace Count  Name                                   Applied
+---  ----        ---------  ----------  ---------  ----                                   -------
+1    session     0          0           1          global-sacl                            0
+2    role        2861       32          33         logon                                  0
+3    session     2150       13          14         validuser                              0
+4    role        3110       11          12         guest                                  28
+5    session     0          0           1          apprf-guest-sacl                       0
+6    role        2317       35          36         ap-role                                0
+7    role        0          0           1          stateful-dot1x                         0
+8    session     0          0           1          apprf-stateful-dot1x-sacl              0
+9    role        2411       27          28         guest-logon                            0
+10   role        3134       2           3          default-iap-user-role                  0
+11   role        3138       20          21         sys-ap-role                            0
+12   session     1779       10          11         sys-control                            0
+13   session     1790       10          11         sys-ap-acl                             0
+14   session     3159       2           3          stateful-dot1x                         0
+15   session     1955       3           4          ap-uplink-acl                          0
+16   route       3137       0           1          master-boc-traffic                     0
+17   ether-type  1803       1           2          validuserethacl                        0
+18   session     0          0           1          apprf-Staff-sacl                       0
+19   session     1805       7           8          rap_policy                             0
+20   session     1813       59          122        bccc-allow-internal-acl                0
+21   session     1935       2           7          allow-CPPM                             0
+22   session     0          0           1          apprf-onguard-redirect-sacl            0
+23   session     1942       2           3          svp-acl                                0
+24   session     0          0           1          apprf-default-vpn-role-sacl            0
+25   session     0          0           1          apprf-voice-sacl                       0
+26   session     0          0           1          apprf-BCCC-RegNB-sacl                  0
+27   session     1945       1           2          drop-and-log-acl                       0
+28   session     1947       7           8          logon-control                          0
+29   session     0          0           1          apprf-BCCC-Device-sacl                 0
+30   session     0          0           1          apprf-BCCC-Device-LibraryUBC-sacl      0
+31   session     0          0           1          apprf-BCCC-Device-LBPSTC-sacl          0
+32   session     1959       7           8          v6-logon-control                       0
+33   session     1967       1           2          http-acl                               0
+34   session     1969       1           2          v6-http-acl                            0
+35   session     1971       1           2          icmp-acl                               0
+36   session     1973       1           2          vocera-acl                             0
+37   session     0          0           1          apprf-BCCC-Device-Faculty-sacl         0
+38   session     0          0           1          apprf-Domain-Computer-sacl             0
+39   session     0          0           1          apprf-Roku-sacl                        0
+40   session     0          0           1          apprf-BCCC-Device-UBCTS-sacl           0
+41   session     1975       1           2          tftp-acl                               0
+42   session     1977       2           3          citrix-acl                             0
+43   session     1980       2           3          sip-acl                                0
+44   session     1983       5           6          vmware-acl                             0
+45   session     0          0           1          apprf-BCCC-construction-sacl           0
+46   session     0          0           1          apprf-BCCC-IOS-Devices-sacl            0
+47   session     0          0           1          apprf-BCCC-Device-LBCTS-sacl           0
+48   session     0          0           1          apprf-BCCC-Device-LBC-sacl             0
+49   session     1989       1           2          srcnat                                 0
+50   session     1991       1           2          ra-guard                               0
+51   session     0          0           1          apprf-BCCC-Device-TutoringCenter-sacl  0
+52   session     1993       1           2          v6-dhcp-acl                            0
+53   session     0          0           1          apprf-BCCC-Device-LibraryLBC-sacl      0
+54   session     1995       28          51         student-allow-internal-acl             0
+55   session     2046       1           2          cplogout                               0
+56   session     2048       4           5          deny-Facetime-acl                      0
+57   session     2053       5           9          auth-guest-acl                         0
+58   session     0          0           1          apprf-cp-auth-guest2-sacl              0
+59   session     0          0           1          apprf-authenticated-sacl               0
+60   session     0          0           1          apprf-BCCC-Device-Library-sacl         0
+61   session     0          0           1          apprf-rap_role-sacl                    0
+62   session     0          0           1          apprf-BCCC-Device-ITS-sacl             0
+63   session     0          0           1          apprf-rap-auth-guest-sacl              0
+100  session     2189       1           2          rtp2-acl                               0
+
+
+AclTable
+--------
+ACL  Type     ACE Index  Rule Count  Ace Count  Name                              Applied
+---  ----     ---------  ----------  ---------  ----                              -------
+101  session  2191       1           2          deny-mDNS-acl                     0
+102  session  0          0           1          apprf-cp-auth-guest-sacl          0
+143  role     2494       14          15         voice                             0
+144  role     2509       3           4          BCCC-construction                 0
+145  role     2513       3           4          BCCC-Device-LibraryUBC            0
+146  role     2517       139         140        Domain-Computer                   0
+147  role     2657       157         158        Staff                             0
+148  role     2824       27          28         onguard-redirect                  0
+149  session  2815       2           9          OnGuard-Redirect_list_operations  0
+150  role     2852       4           5          default-vpn-role                  0
+151  role     2857       3           4          BCCC-Device-Library               0
+152  role     2894       3           4          BCCC-Device-Faculty               0
+153  role     0          0           1          cpbase                            0
+154  role     2898       3           4          BCCC-Device-Security              0
+155  role     2902       3           4          BCCC-Device-LBC                   0
+156  role     2906       3           4          BCCC-Device                       0
+157  role     2910       3           4          BCCC-Device-OAL                   0
+158  role     2914       4           5          authenticated                     0
+159  role     2919       44          45         rap-auth-guest                    0
+160  role     2964       3           4          BCCC-Device-LearnUBC              0
+161  role     2968       3           4          BCCC-Device-Stem                  0
+162  role     2972       3           4          BCCC-Device-LBCTS                 0
+163  role     2976       3           4          BCCC-Device-Culinary              0
+164  role     2980       73          74         Student                           0
+165  role     3054       3           4          WebCAM                            0
+166  role     3058       43          44         cp-auth-guest                     0
+167  role     3102       3           4          DigitalSign                       0
+168  role     0          0           1          denyall                           0
+169  role     3106       3           4          BCCC-Device-TS                    0
+170  role     3122       7           8          BCCC-IOS-Devices                  0
+171  role     3130       3           4          BCCC-Device-Nursing               0
+
+Total ACE entries in use = 1389
+Total free ACE entries = 6291
+Free ACE entries at the bottom = 4518
+Next ACE entry to use = 3162 (table 1)
+Ace entries reused 230 times
+ACL count 172, tunnel acl 0
+

@@ -1,0 +1,5 @@
+crypto-local pki service-ocsp-responder  
+
+
+OCSP Responder Service is disabled
+

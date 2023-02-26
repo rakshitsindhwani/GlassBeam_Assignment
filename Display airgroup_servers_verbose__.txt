@@ -1,0 +1,9 @@
+airgroup servers verbose  
+
+
+AirGroup Servers
+----------------
+MAC  IP  Type  Host Name  Service  VLAN  Wired/Wireless  Role  Group  Username  AP-Name  Rec-dropped  Rec-filtered  Rec-responded  Last-query  Query Throttled  Resp Throttled  CPPM-Req  CPPM-Rsp  CoA  CPPM Dev-Added  CPPM Dev-Deleted  Max PPM  Max PPM at
+---  --  ----  ---------  -------  ----  --------------  ----  -----  --------  -------  -----------  ------------  -------------  ----------  ---------------  --------------  --------  --------  ---  --------------  ----------------  -------  ----------
+Num Servers: 0.
+

@@ -1,0 +1,16 @@
+ap bss-table  
+
+
+fm (forward mode): T-Tunnel, S-Split, D-Decrypt Tunnel, B-Bridge (s-standard, p-persistent, b-backup, a-always), n-anyspot
+
+Hiwi AP BSS Table
+------------------
+bss  ess  port  ip  phy  type  ch/EIRP/max-EIRP  cur-cl  ap name  in-t(s)  tot-t  mtu  acl-state  acl  fm
+---  ---  ----  --  ---  ----  ----------------  ------  -------  -------  -----  ---  ---------  ---  --
+
+Channel followed by "*" indicates channel selected due to unsupported configured channel.
+"Spectrum" followed by "^" indicates Local Spectrum Override in effect.
+
+Num APs:0
+Num Associations:0
+

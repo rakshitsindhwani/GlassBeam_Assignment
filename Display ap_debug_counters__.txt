@@ -1,0 +1,9 @@
+ap debug counters  
+
+
+AP Counters
+-----------
+Name  Group  IP Address  Configs Sent  Configs Acked  AP Boots Sent  AP Boots Acked  Bootstraps (Total)  Reboots  Crash
+----  -----  ----------  ------------  -------------  -------------  --------------  ------------------  -------  -----
+Total APs :0
+

@@ -1,0 +1,15 @@
+port status  
+
+
+Port Status
+-----------
+Slot-Port  PortType  AdminState  OperState  PoE  Trusted  SpanningTree  PortMode  Speed    Duplex
+---------  --------  ----------  ---------  ---  -------  ------------  --------  -----    ------
+0/0/0      GE        Enabled     Down       N/A  Yes      Disabled      Access    Auto     Auto
+0/0/1      GE        Enabled     Down       N/A  Yes      Disabled      Access    Auto     Auto
+0/0/2      GE        Enabled     Up         N/A  N/A      N/A           PC0       10 Gbps  Full
+0/0/3      GE        Enabled     Up         N/A  N/A      N/A           PC0       10 Gbps  Full
+0/0/4      GE        Enabled     Down       N/A  Yes      Disabled      Access    Auto     Auto
+0/0/5      GE        Enabled     Down       N/A  Yes      Disabled      Access    Auto     Auto
+PC0        PC        Enabled     Up         N/A  Yes      Disabled      Trunk     N/A      N/A
+

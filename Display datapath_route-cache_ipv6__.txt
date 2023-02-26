@@ -1,0 +1,14 @@
+datapath route-cache ipv6  
+
+
+Neighbor/Route Cache Entries
+----------------------------
+
+Flags: L - Local, P - Permanent,  T - Tunnel, I - IPsec, M - Mobile, 
+       t - trusted, A - ARP, D - Drop, R - Routed across vlan
+       O - Temporary, N - INactive
+
+                 IP                           MAC             VLAN    Flags
+--------------------------------------- ----------------- ----------- -----
+fe80::1a:1e0f:ff02:7710                 77:6F:6B:79:99:67           0 LP
+

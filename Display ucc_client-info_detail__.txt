@@ -1,0 +1,8 @@
+ucc client-info detail  
+
+
+Client Status Details(Average):
+-------------------------------
+Client IP  Client MAC  Client Name  WLAN Delay(ms)/Jitter(ms)/PktLoss(%)  End-to-End Delay(ms)/Jitter(ms)/PktLoss(%)  Call-Dur(sec)  TxRate(Mbps)  RxRate(Mbps)  BW(kbps)  CAC Denied  ALG
+---------  ----------  -----------  ------------------------------------  ------------------------------------------  -------------  ------------  ------------  --------  ----------  ---
+

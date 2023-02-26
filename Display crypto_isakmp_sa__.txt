@@ -1,0 +1,18 @@
+crypto isakmp sa  
+
+
+ISAKMP SA Active Session Information
+------------------------------------
+Initiator IP     Responder IP   Flags       Start Time      Private IP      
+------------     ------------   -----     ---------------   ----------      
+172.186.123.57   172.186.123.62 i-a-p     Dec 30 18:40:16          -         
+
+Flags: i = Initiator; r = Responder
+       m = Main Mode; a = Agressive Mode; v2 = IKEv2
+       p = Pre-shared key; c = Certificate/RSA Signature; e =  ECDSA Signature
+       x = XAuth Enabled; y = Mode-Config Enabled; E = EAP Enabled
+       3 = 3rd party AP; C = Campus AP; R = RAP;  Ru = Custom Certificate RAP; I = IAP
+       V = VIA; S = VIA over TCP
+
+Total ISAKMP SAs: 1
+

@@ -1,0 +1,31 @@
+ntp status  
+
+
+Authentication:         enabled
+time since restart:     1816892
+time since reset:       1816892
+packets received:       1787
+packets processed:      1779
+current version:        1779
+previous version:       0
+declined:               0
+access denied:          0
+bad length or format:   0
+bad authentication:     0
+rate exceeded:          0
+system peer:          172.186.1.37
+system peer mode:     client
+leap indicator:       01
+stratum:              4
+precision:            -18
+root distance:        0.04111 s
+root dispersion:      0.09781 s
+reference ID:         [172.186.1.37]
+reference time:       dc11afa0.0a424851  Fri, Dec 30 2016 23:16:32.040
+system flags:         auth monitor ntp kernel stats 
+jitter:               0.000000 s
+stability:            0.046 ppm
+broadcastdelay:       0.000000 s
+authdelay:            0.000000 s
+
+

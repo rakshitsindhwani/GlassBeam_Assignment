@@ -1,0 +1,9 @@
+ip mobile tunnel   
+
+
+
+*** WARNING ***: Mobility service is disabled (router mobile)
+
+Mobile Tunnels: 0 tunnel(s)
+---------------------------
+

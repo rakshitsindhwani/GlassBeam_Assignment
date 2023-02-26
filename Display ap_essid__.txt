@@ -1,0 +1,9 @@
+ap essid  
+
+
+ESSID Summary
+-------------
+ESSID  APs  Clients  VLAN(s)  Encryption
+-----  ---  -------  -------  ----------
+Num ESSID:0
+

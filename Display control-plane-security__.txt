@@ -1,0 +1,12 @@
+control-plane-security  
+
+
+Control Plane Security Profile
+------------------------------
+Parameter                    Value
+---------                    -----
+Control Plane Security       Disabled
+Auto Cert Provisioning       Disabled
+Auto Cert Allow All          Enabled
+Auto Cert Allowed Addresses  N/A
+

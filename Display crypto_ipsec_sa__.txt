@@ -1,0 +1,14 @@
+crypto ipsec sa  
+
+
+IPSEC SA Active Session Information
+-----------------------------------
+Initiator IP     Responder IP     InitiatorID         ResponderID         Flags    Start Time      Inner IP      
+------------     ------------     -----------         -----------         -----  ---------------   --------
+172.186.123.57   172.186.123.62   172.186.123.57/32   172.186.123.62/32   T      Dec 30 22:08:21     -              
+
+Flags: T = Tunnel Mode; E = Transport Mode; U = UDP Encap
+       L = L2TP Tunnel; N = Nortel Client; C = Client; 2 = IKEv2
+
+Total IPSEC SAs: 1
+

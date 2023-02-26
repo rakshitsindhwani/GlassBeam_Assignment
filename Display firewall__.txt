@@ -1,0 +1,26 @@
+firewall  
+
+
+Global firewall policies
+------------------------
+Policy                                       Action                                            Rate       Port
+------                                       ------                                            ----       ----
+Enforce TCP handshake before allowing data   Disabled                                                      
+Prohibit RST replay attack                   Disabled                                                      
+Deny all IP fragments                        Disabled                                                      
+Prohibit IP Spoofing                         Enabled                                                       
+Monitor ping attack                          Disabled                                                      
+Monitor TCP SYN attack                       Disabled                                                      
+Monitor IP sessions attack                   Disabled                                                      
+Deny inter user bridging                     Disabled                                                      
+Log all received ICMP errors                 Disabled                                                      
+Per-packet logging                           Disabled                                                      
+Blacklist Grat ARP attack client             Disabled                                                      
+Stateful SIP Processing                      Enabled                                                       
+Web Content Classification                   Disabled                                                      
+Web Content Cache Miss Drop                  Disabled                                                      
+Stateful ICMP Processing                     Disabled                                                      
+Optimize Duplicate Address Detection frames  Enabled                                                       
+Mcast RED                                    Disabled                                                      
+IPSec Mark Management Frames                 Disabled                                                      
+

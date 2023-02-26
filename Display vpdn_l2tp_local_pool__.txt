@@ -1,0 +1,10 @@
+vpdn l2tp local pool  
+
+
+IP addresses used in pool RAP_pool
+	none
+
+ Total:- 
+0 IPs used - 241 IPs free - 241 IPs configured
+IP pool allocations / de-allocations - L2TP: 0/0  IKE: 0/0
+

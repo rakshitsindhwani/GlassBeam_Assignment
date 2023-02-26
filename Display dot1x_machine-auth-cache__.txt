@@ -1,0 +1,9 @@
+dot1x machine-auth-cache  
+
+
+Machine Auth Cache Table
+------------------------
+MAC  Expiry
+---  ------
+Machine Auth Cached Entries: 0
+

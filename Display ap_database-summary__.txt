@@ -1,0 +1,19 @@
+ap database-summary  
+
+
+AP Database Summary
+-------------------
+AP Mode              Total Up  Total Down  Total Upgrading*  Total Rebooting*  RAP Up  RAP Down  RAP Upgrading*  RAP Rebooting*  Active Up  Standby Up
+-------              --------  ----------  ----------------  ----------------  ------  --------  --------------  --------------  ---------  ----------
+Access Points        0         0           0                 0                 0       0         0               0               0          0
+Air Monitors         0         0           0                 0                 0       0         0               0               0          0
+Wired Access Points  0         0           0                 0                 0       0         0               0               0          0
+Mesh Portals         0         0           0                 0                 0       0         0               0               0          0
+Mesh Points          0         0           0                 0                 0       0         0               0               0          0
+Spectrum Monitors    0         0           0                 0                 0       0         0               0               0          0
+
+*Upgrading, Rebooting, Active and Standby counts only reflect APs registered on this controller.
+
+Unprovisioned Access Points:0
+Duplicated AP Name:0
+

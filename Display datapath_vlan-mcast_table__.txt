@@ -1,0 +1,25 @@
+datapath vlan-mcast table  
+
+
+Datapath VLAN Multicast Entries
+--------------------------------
+VLAN  Destinations
+----  ------------
+1     pc0
+84    pc0
+104   pc0
+220   pc0
+3228  pc0
+4004  pc0
+4008  pc0
+4012  pc0
+4016  pc0
+4020  pc0
+4024  pc0
+4028  pc0
+4032  pc0
+4036  pc0
+4040  pc0
+4044  pc0
+4048  pc0
+

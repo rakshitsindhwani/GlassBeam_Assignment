@@ -1,0 +1,8 @@
+ipv6 neighbors  
+
+
+IPv6 Neighbors
+--------------
+IPv6 Address  Age  Link-layer Addr  State  Interface
+------------  ---  ---------------  -----  ---------
+

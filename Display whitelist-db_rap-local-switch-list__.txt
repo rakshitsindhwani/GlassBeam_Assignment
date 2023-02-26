@@ -1,0 +1,11 @@
+whitelist-db rap-local-switch-list  
+
+
+
+Registered Local Switch Details
+-------------------------------
+Active  MAC-Address  IP-Address  Sequence Number  Remote Sequence Number  NULL Update Count  Local Purge  Remote Purge  Remote Last-Seq  Last Update Sent  Last Update Received
+------  -----------  ----------  ---------------  ----------------------  -----------------  -----------  ------------  ---------------  ----------------  --------------------
+
+Total Entries: 0
+

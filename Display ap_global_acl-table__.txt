@@ -1,0 +1,64 @@
+ap global acl-table  
+
+
+STM ACL Table
+-------------
+ACL  Type     ACE Index  Ace Count  Name
+---  ----     ---------  ---------  ----
+1    session  7680       1          global-sacl
+2    role     10541      33         logon
+3    session  9830       14         validuser
+4    role     10790      12         guest
+5    session  7680       1          apprf-guest-sacl
+6    role     9997       36         ap-role
+7    role     7680       1          stateful-dot1x
+8    session  7680       1          apprf-stateful-dot1x-sacl
+9    role     10091      28         guest-logon
+10   role     10814      3          default-iap-user-role
+11   role     10818      21         sys-ap-role
+12   session  9459       11         sys-control
+13   session  9470       11         sys-ap-acl
+14   session  10839      3          stateful-dot1x
+15   session  9635       4          ap-uplink-acl
+16   session  10817      1          master-boc-traffic
+17   session  9483       2          validuserethacl
+18   session  7680       1          apprf-Staff-sacl
+19   session  9485       8          rap_policy
+20   session  9493       122        bccc-allow-internal-acl
+21   session  9615       7          allow-CPPM
+22   session  7680       1          apprf-onguard-redirect-sacl
+23   session  9622       3          svp-acl
+24   session  7680       1          apprf-default-vpn-role-sacl
+25   session  7680       1          apprf-voice-sacl
+26   session  7680       1          apprf-BCCC-RegNB-sacl
+91   session  7680       1          apprf-cpbase-sacl
+92   session  9855       3          h323-acl
+93   session  9858       2          dhcp-acl
+94   session  9860       3          allowall
+95   session  9863       2          v6-https-acl
+96   session  7680       1          apprf-BCCC-Device-Nursing-sacl
+97   session  7680       1          apprf-Student-sacl
+98   session  7680       1          apprf-BCCC-Device-LearnUBC-sacl
+99   session  9865       4          allow-printservices
+100  session  9869       2          rtp2-acl
+
+
+STM ACL Table
+-------------
+ACL  Type     ACE Index  Ace Count  Name
+---  ----     ---------  ---------  ----
+101  session  9871       2          deny-mDNS-acl
+102  session  7680       1          apprf-cp-auth-guest-sacl
+103  session  7680       1          apprf-BCCC-Device-AMTC-sacl
+164  role     10660      74         Student
+165  role     10734      4          WebCAM
+166  role     10738      44         cp-auth-guest
+167  role     10782      4          DigitalSign
+168  role     7680       1          denyall
+169  role     10786      4          BCCC-Device-TS
+170  role     10802      8          BCCC-IOS-Devices
+171  role     10810      4          BCCC-Device-Nursing
+174  session  9405       9          OnGuard-Redirect_list_operations
+
+Total ACE entries in use = 1389
+

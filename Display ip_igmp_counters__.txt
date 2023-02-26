@@ -1,0 +1,21 @@
+ip igmp counters  
+
+
+IGMP Statistics
+---------------
+Name                    Value
+----                    -----
+received-total          0
+received-queries        0
+received-v1-reports     0
+received-v2-reports     0
+received-v3-reports     0
+received-leaves         0
+received-unknown-types  0
+len-errors              0
+checksum-errors         0
+not-vlan-dr             0
+transmitted-queries     0
+forwarded               0
+non-conforming-igmp     0
+

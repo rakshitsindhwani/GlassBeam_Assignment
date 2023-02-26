@@ -1,0 +1,8 @@
+ucc statistics dialplan-hits  
+
+
+Dialplan Hits
+-------------
+Dialplan-Prof  Seq  Pattern  Action  New Hits  Total Hits
+-------------  ---  -------  ------  --------  ----------
+

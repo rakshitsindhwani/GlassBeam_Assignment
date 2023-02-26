@@ -1,0 +1,22 @@
+ap debug client-mgmt-counters  
+
+
+Counters
+--------
+Name                                                                Value
+----                                                                -----
+No Station                                                          10
+Tunnel DACL                                                         31
+AP Radio and Client Stats Update                                    177
+STM Restart Notification to Auth                                    1
+VOIP Firewall Status                                                2
+Associations Dropped Due to Auth Throttling                         0
+Stale entry error - Deauth bad length                               0
+Stale entry error - special handling                                0
+Sta down: total flag_unmatch not_assoc papi_send papi_ok papi_fail  0 0 0 0 0 0
+Sta up: total flag_unmatch not_assoc papi_send papi_ok papi_fail    0 0 0 0 0 0
+AMSDU Updates sent to SOS from STM                                  0
+Invalid tunnel-id (0)                                               0
+HBT tunnel not found on timeout                                     0
+AID-MAC mismatch                                                    0
+

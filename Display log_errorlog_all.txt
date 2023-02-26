@@ -1,0 +1,19 @@
+log errorlog all
+
+Dec 9 22:38:38 <fpapps 315382>  <CRIT> |fpapps|  Reboot Cause: User reboot (Intent:cause:register 78:86:50:2) 
+Dec 9 22:39:07 <cfgm 399803>  <ERRS> |cfgm|  An internal system error has occurred at file ncfg_profmgr.c function ncfg_profmgr_setup_prof_socket line 532 error Unable to bind socket(/var/profmgr/cfgm): No such file or directory.
+Dec 9 22:39:08 <fpapps 313078>  <ERRS> |fpapps|  XSec Vlan Interface 104 not found line 917
+Dec 9 22:39:08 <nanny 399816>  <ERRS> |nanny|  Received the PAPI_APP_SPAWN_PROC Message 
+Dec 9 22:39:09 <cfgm 399803>  <ERRS> |cfgm|  An internal system error has occurred at file ncfg_profmgr.c function ncfg_profmgr_setup_prof_socket line 532 error Unable to bind socket(/var/profmgr/cfgm): No such file or directory.
+Dec 9 22:39:12 <cfgm 399803>  <ERRS> |cfgm|  An internal system error has occurred at file ncfg_profmgr.c function ncfg_profmgr_setup_prof_socket line 532 error Unable to bind socket(/var/profmgr/cfgm): No such file or directory.
+Dec 9 22:41:26 <stm 304001>  <ERRS> |stm|  Unexpected stm (Station management) runtime error at data_path_handler, 1079, data_path_handler: recv - Network is down
+Dec  9 22:42:30  KERNEL(AP-ScienceCtr-outdoor2@172.186.69.223): [    5.908221] ad7418 1-0048: cannot read configuration register
+Dec  9 22:42:30  KERNEL(AP-ScienceCtr-outdoor2@172.186.69.223): [    5.977369] ad7418 1-0049: cannot read configuration register
+Dec  9 22:42:41  KERNEL(AP-ScienceCtr-outdoor1@172.186.69.228): [    5.748980] ad7418 1-0048: cannot read configuration register
+Dec  9 22:42:41  KERNEL(AP-ScienceCtr-outdoor1@172.186.69.228): [    5.818139] ad7418 1-0049: cannot read configuration register
+Dec 11 05:56:15  KERNEL(AP-Rollins-OutdoorB@172.186.64.39): [    5.814171] ad7418 1-0048: cannot read configuration register
+Dec 11 05:56:15  KERNEL(AP-Rollins-OutdoorB@172.186.64.39): [    5.883335] ad7418 1-0049: cannot read configuration register
+Dec 25 05:56:09  KERNEL(AP-Rollins-OutdoorB@172.186.64.39): [    5.748248] ad7418 1-0048: cannot read configuration register
+Dec 25 05:56:09  KERNEL(AP-Rollins-OutdoorB@172.186.64.39): [    5.817409] ad7418 1-0049: cannot read configuration register
+Dec 30 05:56:05  KERNEL(AP-Rollins-OutdoorB@172.186.64.39): [    5.741614] ad7418 1-0048: cannot read configuration register
+Dec 30 05:56:05  KERNEL(AP-Rollins-OutdoorB@172.186.64.39): [    5.810784] ad7418 1-0049: cannot read configuration register

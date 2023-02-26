@@ -1,0 +1,11 @@
+switches  
+
+
+All Switches
+------------
+IP Address      Name                  Location                    Type   Model      Version         Status  Configuration State  Config Sync Time (sec)  Config ID
+----------      ----                  --------                    ----   -----      -------         ------  -------------------  ----------------------  ---------
+172.186.123.57  Hiwi7210-BCCC-local  Pemberton Hall, DataCenter  local  Hiwi7210  8.3.3.12_56727  up      UPDATE SUCCESSFUL    0                       531
+
+Total Switches:1
+

@@ -1,0 +1,15 @@
+datapath acl id 2702  
+
+
+Datapath ACL 2702 Entries
+-----------------------
+
+Flags: P - permit, L - log, E - established, M/e - MAC/etype filter
+       S - SNAT, D - DNAT, R - redirect, r - reverse redirect m - Mirror
+       I - Invert SA, i - Invert DA, H - high prio, O - set prio
+       A - DPI PEF, T - set TOS, 4 - IPv4, 6 - IPv6
+       C - Classify Media, a - Disable Scanning J - Route Nexthop
+Index Source                          Destination                     Service/Application                           Flags      Pool  AP-group   Hits       Prio  Vernum  Contract
+----- ------------------------------- ------------------------------- --------------------------------------------- ---------- ----- ---------- ---------- ----- ------ -----------
+ 1:   any                             any                             any                                           46                                     0         0     0/0    
+

@@ -1,0 +1,20 @@
+datapath port  
+
+
+Datapath Port Table Entries
+---------------------------
+
+Flags: Q - trunk,  T - trusted, B - blocked,  L - LAG
+       M - tunneled node, X - xSec, J - Jumbo enabled
+
+Port      PVID  Ingress ACL  Egress ACL  Session ACL   MTU       Flags
+--------  ----  -----------  ----------  -----------   ------    ------
+0/0/0     1     0            0           0            1500      TB
+0/0/1     1     0            0           0            1500      TB
+0/0/2     1     0            0           0            1500      QTL
+0/0/3     1     0            0           0            1500      QTL
+0/0/4     1     0            0           0            1500      TB
+0/0/5     1     0            0           0            1500      TB
+
+Port Entries: 6
+

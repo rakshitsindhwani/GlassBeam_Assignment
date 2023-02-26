@@ -1,0 +1,7 @@
+license server-table  
+
+
+This command is applicable only on the license server
+
+
+

@@ -1,0 +1,31 @@
+aaa bandwidth-contracts  
+
+
+Bandwidth Contracts
+-------------------
+Contract           Id  Rate (bits/second)
+--------           --  ------------------
+Guest-BW-100M      16  100000000
+Guest-BW-20M       8   20000000
+Guest-BW-30M       5   30000000
+Guest-BW-50M       6   50000000
+Guest-Bw-Contract  17  5000000
+Guest-bw-10000     14  10000000
+Guest-bw-10M       7   10000000
+Guest-bw-15M       11  15000000
+Guest-bw-20000     4   20000000
+Guest-bw-5000      12  5000000
+Guest-bw-low       10  1000000
+Smartphone-bw      13  10000000
+Staff-50M          1   50000000
+Student-bw         15  5000000
+Student-bw-10K     2   10000000
+Student-bw-10M     3   10000000
+Student-bw-50M     9   50000000
+
+Total contracts = 17
+Per-user contract total = 15782
+Total configurable contracts = 1024
+Per-user contract usage = 0
+Per-policy contract usage = 0
+

@@ -1,0 +1,14 @@
+airgroup status  
+
+
+AirGroup Feature
+----------------
+Status
+------
+Disabled
+
+AirGroup- MDNS Feature
+----------------------
+Status
+------
+None

@@ -1,0 +1,14 @@
+vpdn l2tp configuration  
+
+
+Enabled
+Hello timeout: 60 seconds
+DNS primary server: 6.6.6.6
+DNS secondary server: 6.6.3.3
+WINS primary server: 2.2.2.2
+WINS secondary server: 2.2.2.2
+PPP client authentication methods:
+	 PAP
+IP LOCAL POOLS:
+	 RAP_pool: 172.186.222.12 - 172.186.222.242
+

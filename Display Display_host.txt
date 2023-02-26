@@ -1,0 +1,8 @@
+Display host
+
+Hostname is Hiwi7210-BCCC-local
+
+System Time:Sat Dec 30 23:23:19 EST 2017
+No crash information available.
+No kernel crash information available.
+Reboot Cause: User reboot (Intent:cause:register 78:86:50:2)

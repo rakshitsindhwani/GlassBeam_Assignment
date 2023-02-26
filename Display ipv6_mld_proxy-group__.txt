@@ -1,0 +1,11 @@
+ipv6 mld proxy-group  
+
+
+MLD Proxy Group Table
+---------------------
+VLAN  Addr  Group  Num Members
+----  ----  -----  -----------
+
+Total displayed proxy groups: 0
+
+

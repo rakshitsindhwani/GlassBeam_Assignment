@@ -1,0 +1,11 @@
+whitelist-db cpsec  
+
+
+
+Control-Plane Security Whitelist-entry Details
+----------------------------------------------
+MAC-Address  AP-Group  AP-Name  Enable  State  Cert-Type  Description  Revoke Text  Last Updated
+-----------  --------  -------  ------  -----  ---------  -----------  -----------  ------------
+
+Total Entries: 0
+

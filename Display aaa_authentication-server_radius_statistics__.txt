@@ -1,0 +1,19 @@
+aaa authentication-server radius statistics  
+
+
+RADIUS Server Statistics
+------------------------
+Server    Acct Rq  Raw Rq  PAP Rq  CHAP Rq  MSCHAP Rq  MSCHAPv2 Rq  Mismatch Rsp  Bad Auth  Acc  Rej  Acct Rsp  Chal  Ukn Rsp  Tmout  AvgRspTm  Tot Rq  Tot Rsp  Rd Err  Outstanding Auths  Outstanding Requests  ExpAuthTm  Uptime   SEQ
+------    -------  ------  ------  -------  ---------  -----------  ------------  --------  ---  ---  --------  ----  -------  -----  --------  ------  -------  ------  -----------------  --------------------  ---------  ------   ---
+CPPM01    0        0       0       0        0          0            0             0         0    0    0         0     0        0      0         0       0        0       0                  0                     0          21:0:42  0/0
+CPPM02    0        0       0       0        0          0            0             0         0    0    0         0     0        0      0         0       0        0       0                  0                     0          21:0:42  0/0
+newdc01   0        0       0       0        0          0            0             0         0    0    0         0     0        0      0         0       0        0       0                  0                     0          21:0:42  0/0
+newvdc02  0        0       0       0        0          0            0             0         0    0    0         0     0        0      0         0       0        0       0                  0                     0          21:0:42  0/0
+
+*AvgRspTm is in msec, Uptime is in d:h:m, SEQ is in Total/Free
+
+Orphaned requests = 0
+
+*ExpAuthTm is in msec and is different from AvgRspTm. ExpAuthTm is a moving average of auth server response time and is used in load balancing if enabled in server group in which this auth server is a part of
+
+

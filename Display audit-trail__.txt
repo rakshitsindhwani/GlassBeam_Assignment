@@ -1,0 +1,4 @@
+audit-trail  
+
+Dec  9 22:40:23  webui[3766]: USER: Error Executing the Command 
+

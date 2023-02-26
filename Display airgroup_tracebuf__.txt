@@ -1,0 +1,13 @@
+airgroup tracebuf  
+
+
+Airgroup Client(s) Message Trace
+--------------------------------
+Client(MAC)  Client(IP)  Time  Event
+-----------  ----------  ----  -----
+ 
+Airgroup Packet Arrival Message Trace
+-------------------------------------
+Time  Event
+----  -----
+Num Trace Entries:0

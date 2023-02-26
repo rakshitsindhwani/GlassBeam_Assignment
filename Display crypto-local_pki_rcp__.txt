@@ -1,0 +1,11 @@
+crypto-local pki rcp  
+
+
+RCPs List
+---------
+Name  Trusted  Revocation Check  CRL Filename  OCSP URL  OCSP Responder  OCSP Signer Cert  OCSP Responder Cert  Server Unreachable
+----  -------  ----------------  ------------  --------  --------------  ----------------  -------------------  ------------------
+ 
+Global OCSP Signer Certificate: none
+OCSP Responder Service: disabled
+

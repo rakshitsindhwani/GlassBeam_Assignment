@@ -1,0 +1,79 @@
+ip mobile traffic  
+
+
+
+*** WARNING ***: Mobility service is disabled (router mobile)
+
+IP Mobility traffic:
+--------------------
+Proxy Mobile IP: Received 0 packets
+   Handled 0(DHCP 0/others 0), Forwarded 0(DHCP 0/others 0), Dropped 0
+   APIPA subnet 0, Excluded OUI 0, Trusted port 0
+   No src IP 0, Broadcast ignored 0, Unexpected packets 0
+   Mobility events ignored busy 0, Sibyte Callback error 0
+   MSG TMO Proxy 0 HA 0 FA 0 FA Data ready 0
+   New stations with no mobility provided 0
+   Moves to foreign switch 0, Home returns 0
+   Inter VLAN moves 0, Intra VLAN moves 0
+   Proxy Sessions 0, New user from FA 0, Local moves 0
+   Events exceeded 0, IP changes 0, No association 0
+   HA not found for station IP 0, No home VLAN found 0 
+   Sta Del Auth 0, ESSID change 0, Stale expired 0 Admin 0 BSSID mismatch 0
+   No Mobility ESS deletes 0 , Trail Expired 0 Threshold Expired 0 
+   Sibyte Failure: Bridge add/del 0/0 Route add/del 0/0 CB Race 0
+   Data-Ready: Entries 0, Msgs Rcv 0, Ack 0, Drop 0, Requested 0
+   AUTH: APIPA Update 0 L2 Miss 0
+   Auth IPC: Create 0 Success 0 Failed 0
+             Update 0 Success 0 Failed 0
+             Delete 0 Success 0 Failed 0, IPC Send Fail 0
+             Done 0, Bad Len 0, IP mismatch 0, Unknown IP 0
+            Validate Visitor 0, Invalid Visitor 0
+            Del: Proxy 0, HA 0, FA 0, ForceDel: 0 Success 0 Fail 0
+            Move: INTRA 0, INTER 0
+            Update: HA 0, FA 0
+            MIP Internal state mismatch HA 0, FA 0
+            MIP-Auth Status Mismatch Proxy 0, HA 0, FA 0
+            MIP-Auth Status Unknown Proxy 0, HA 0, FA 0
+            MIP-Auth Status MAC Unknown Proxy 0, HA 0, FA 0
+            MIP-Auth Status AAA Profile Unknown Proxy 0, HA 0, FA 0
+   STM: Mux Tunnel(s) 0 De-auth 0(staleIP) 0(Roamed Away)
+        BackHome 0 Rem Blacklist Client 0 IPC Fail 0
+   Pim Notification 0, MCG Query 0 Response 0 Discard 0 IPC Fail 0
+   VRRP State Init:0, Backup:1 Master:0 Unknown:0 
+   VRRP failover Binding purge:0, VRRP Delete:0 
+   HAT add failed due to max limit:0, Active Domain add failed due to max limit:0 
+VRRP Tunnel Messages:
+   Hat to Vrrp messages Sent 0, Send Failed 0, Received 0, Reply Sent 0, Reply Send Fail 0, Reply Received 0
+   Hat to Vrrp messages Reply HA Not Present 0, Tunnel Ref Zero 0, Max Tunnel 0
+   Hat to Vrrp messages Vrrp Local 0, Vrrp Non-local 0
+   Tunnel Create 0, Update Success 0, Update Fail 0, Ref Zero 0
+Home Agent Registrations:
+   Register Requests 0, Replied 0
+   Accepted 0, Denied 0, Ignored 0
+   Unspecified 0, Unknown HA address 0
+   Administrative prohibited 0, No resource 0
+   Authentication failed MN-HA 0, FA-HA 0
+   Bad identification 0, Malformed 0
+   Too many bindings 0, Bindings expired 0
+   Discovery Requests 0, Sibyte Callback/Tunnel Error 0/0
+   Discovery Replies with session 0, BlackList 0, No Session 0
+   Sibyte Failure: Bridge add 0 Route add/del 0/0 CB Race 0
+Foreign Agent Registrations:
+   Register Requests 0, Replies 0, Register retransmits 0
+   Accepted 0, Denied 0, Ignored 0 Duplicate 0
+   Unspecified 0, Unknown HA address 0
+   Administrative prohibited 0, No resource 0
+   Authentication failed MN-HA 0, FA-HA 0
+   Bad identification 0, Malformed 0
+   Too many bindings 0, Sibyte Callback/Tunnel error 0/0
+   Discovery started 0, Requests 0, Replies 0
+   Discovery Replies with session 0, With no session 0
+   Discovery no HA had a session 0, HA BlackList session 0
+   Discovery assign Local HA 0, Remote HA 0, can't assign 0, internal failure 0
+   Sibyte Failure: Bridge add/del 0/0 Route add/del 0/0 CB Race 0 CB Ha Disc Race 0
+   AAA Add 0/0 Upd 0/0 Done 0/0 Del 0/0 Mismatch 0
+Registration Revocations:
+   Sent Revocation requests 0, Recv replies 0
+   Recv Revocation requests 0, Sent replies 0
+   Ignored requests 0, ACKs 0
+

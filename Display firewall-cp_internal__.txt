@@ -1,0 +1,46 @@
+firewall-cp internal  
+
+
+CP firewall policies
+--------------------
+IP Version  Source IP  Source Mask  Protocol  Start Port  End Port  Action          hits    contract
+----------  ---------  -----------  --------  ----------  --------  --------------  ----    --------
+ipv4        any                     6         1723        1723      Permit          0       
+ipv4        any                     17        1701        1701      Permit          0       
+ipv4        any                     6         23          23        Deny            0       cpbwc-ipv4-telnet
+ipv4        any                     6         8084        8084      Deny            0       
+ipv4        any                     6         3306        3306      Deny            0       
+ipv4        any                     17        8209        8209      DenyNotSecure   0       
+ipv4        any                     6         8211        8211      DenyNotMaster   1       
+ipv6        any                     50        0           65535     Permit          0       
+ipv6        any                     17        8200        8200      Permit          0       cpbwc-ipv6-others
+ipv6        any                     112       0           65535     Permit          0       
+ipv6        any                     89        0           65535     Permit          0       
+ipv6        any                     17        1702        1702      Permit          0       
+ipv6        any                     17        500         500       Permit          0       cpbwc-ipv6-ike
+ipv6        any                     17        4500        4500      Permit          0       
+ipv6        any                     47        0           65535     Permit          0       
+ipv6        any                     6         80          80        Permit          0       cpbwc-ipv6-http
+ipv6        any                     6         443         443       Permit          0       cpbwc-ipv6-http
+ipv6        any                     6         4343        4343      Permit          0       cpbwc-ipv6-http
+ipv6        any                     6         8080        8083      Permit          0       cpbwc-ipv6-http
+ipv6        any                     6         8088        8088      Permit          0       cpbwc-ipv6-http
+ipv6        any                     6         8888        8888      Permit          0       cpbwc-ipv6-http
+ipv6        any                     6         636         636       Permit          0       cpbwc-ipv6-radius-ldap
+ipv6        any                     6         389         389       Permit          0       cpbwc-ipv6-radius-ldap
+ipv6        any                     6         5080        5080      Permit          0       cpbwc-ipv6-others
+ipv6        any                     17        1645        1645      Permit          0       cpbwc-ipv6-radius-ldap
+ipv6        any                     17        1812        1813      Permit          0       cpbwc-ipv6-radius-ldap
+ipv6        any                     17        8211        8211      Permit          0       
+ipv6        any                     17        53          53        Permit          0       cpbwc-ipv6-dns
+ipv6        any                     17        546         547       Permit          0       cpbwc-ipv6-dhcp
+ipv6        any                     17        69          69        Permit          0       cpbwc-ipv6-file-transfer
+ipv6        any                     17        123         123       Permit          0       cpbwc-ipv6-ntp
+ipv6        any                     17        3799        3799      Permit          0       cpbwc-ipv6-radius-ldap
+ipv6        any                     17        161         161       Permit          0       cpbwc-ipv6-snmp
+ipv6        any                     17        5060        5060      Permit          0       
+ipv6        any                     17        8209        8209      Permit          0       
+ipv6        any                     17        434         434       Permit          0       cpbwc-ipv6-mobility
+ipv6        any                     58        256         65535     Permit          319436  cpbwc-ipv6-icmpv6
+ipv6        any                     0         0           65535     Deny            12      
+

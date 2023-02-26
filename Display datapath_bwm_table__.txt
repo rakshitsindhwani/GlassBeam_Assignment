@@ -1,0 +1,46 @@
+datapath bwm table  
+
+
+Datapath Bandwidth Management Table Entries
+-------------------------------------------
+Contract Types : 
+   0 - CP Dos 1 - Configured contracts 2 - Internal contracts
+------------------------------------------------
+Flags: Q - No drop, P - No shape(Only Policed), 
+       T - Auto tuned 
+--------------------------------------------------------------------
+Rate: pps - Packets-per-second (256 byte packets), bps - Bits-per-second
+--------------------------------------------------------------------
+      Cont                          Avail     Queued/Pkts 
+Type   Id    Rate      Policed      Credits    Bytes      Flags   CPU     Status
+----  ----  ---------  ----------  -------  -----------   ------- -------  ------
+0     1     9792 pps             0      306        0/0            9        ALLOCATED
+0     2     3936 pps             0      123        0/0            9        ALLOCATED
+0     3     65536 pps            0     2048        0/0            9        ALLOCATED
+0     4     3936 pps            80      123        0/0            9        ALLOCATED
+0     5     992 pps              0       31        0/0            9        ALLOCATED
+0     6     992 pps              0       31        0/0            9        ALLOCATED
+0     7     992 pps              0       31        0/0            9        ALLOCATED
+0     8     512 pps         139546       16        0/0            9        ALLOCATED
+0     9     3936 pps             0      123        0/0            9        ALLOCATED
+0     10    1984 pps       1263534       62        0/0            9        ALLOCATED
+1     1     50 Mbps              0   195313        0/0            10       ALLOCATED
+1     2     10 Mbps              0    39063        0/0            11       ALLOCATED
+1     3     10 Mbps              0    39063        0/0            12       ALLOCATED
+1     4     20 Mbps              0    78125        0/0            13       ALLOCATED
+1     5     30 Mbps              0   117188        0/0            14       ALLOCATED
+1     6     50 Mbps              0   195313        0/0            15       ALLOCATED
+1     7     10 Mbps              0    39063        0/0            10       ALLOCATED
+1     8     20 Mbps              0    78125        0/0            11       ALLOCATED
+1     9     50 Mbps              0   195313        0/0            12       ALLOCATED
+1     10    1 Mbps               0     3907        0/0            13       ALLOCATED
+1     11    15 Mbps              0    58594        0/0            14       ALLOCATED
+
+
+1     12    5 Mbps               0    19532        0/0            15       ALLOCATED
+1     13    10 Mbps              0    39063        0/0            10       ALLOCATED
+1     14    10 Mbps              0    39063        0/0            11       ALLOCATED
+1     15    5 Mbps               0    19532        0/0            12       ALLOCATED
+1     16    100 Mbps             0   390625        0/0            13       ALLOCATED
+1     17    5 Mbps               0    19532        0/0            14       ALLOCATED
+

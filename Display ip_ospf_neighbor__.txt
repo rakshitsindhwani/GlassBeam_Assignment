@@ -1,0 +1,8 @@
+ip ospf neighbor  
+
+
+OSPF is disabled
+
+
+
+

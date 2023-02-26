@@ -1,0 +1,95 @@
+crypto isakmp policy  
+
+
+ISAKMP ENABLED
+Protection suite priority 20
+	 Version 1
+	 encryption algorithm: AES - Advanced Encryption Standard (256 bit keys)
+	 hash algorithm: Secure Hash Algorithm 160
+	 authentication method: Pre-Shared Key
+	 Diffie-Hellman Group: #2 (1024 bit)
+	 lifetime: [300 - 86400] seconds, no volume limit
+Default protection suite 10001
+	 Version 1
+	 encryption algorithm: 3DES - Triple Data Encryption Standard (168 bit keys)
+	 hash algorithm: Secure Hash Algorithm 160
+	 authentication method: Pre-Shared Key
+	 Diffie-Hellman Group: #2 (1024 bit)
+	 lifetime: [300 - 86400] seconds, no volume limit
+Default RAP Certificate protection suite 10002
+	 Version 1
+	 encryption algorithm: AES - Advanced Encryption Standard (256 bit keys)
+	 hash algorithm: Secure Hash Algorithm 160
+	 authentication method: Rivest-Shamir-Adelman Signature
+	 Diffie-Hellman Group: #2 (1024 bit)
+	 lifetime: [300 - 86400] seconds, no volume limit
+Default RAP PSK protection suite 10003
+	 Version 1
+	 encryption algorithm: AES - Advanced Encryption Standard (256 bit keys)
+	 hash algorithm: Secure Hash Algorithm 160
+	 authentication method: Pre-Shared Key
+	 Diffie-Hellman Group: #2 (1024 bit)
+	 lifetime: [300 - 86400] seconds, no volume limit
+Default RAP IKEv2 RSA protection suite 10004
+	 Version 2
+	 encryption algorithm: AES - Advanced Encryption Standard (256 bit keys)
+	 hash algorithm: Secure Hash Algorithm 96
+	 authentication method: Rivest-Shamir-Adelman Signature
+	 PRF method: hmac-sha1
+	 Diffie-Hellman Group: #2 (1024 bit)
+	 lifetime: [300 - 86400] seconds, no volume limit
+Default Cluster PSK protection suite 10005
+	 Version 1
+	 encryption algorithm: AES - Advanced Encryption Standard (256 bit keys)
+	 hash algorithm: Secure Hash Algorithm 160
+	 authentication method: Pre-Shared Key
+	 Diffie-Hellman Group: #2 (1024 bit)
+	 lifetime: [300 - 86400] seconds, no volume limit
+Default IKEv2 RSA protection suite 10006
+	 Version 2
+	 encryption algorithm: AES - Advanced Encryption Standard (128 bit keys)
+	 hash algorithm: Secure Hash Algorithm 96
+	 authentication method: Rivest-Shamir-Adelman Signature
+	 PRF method: hmac-sha1
+	 Diffie-Hellman Group: #2 (1024 bit)
+	 lifetime: [300 - 86400] seconds, no volume limit
+Default IKEv2 PSK protection suite 10007
+	 Version 2
+	 encryption algorithm: AES - Advanced Encryption Standard (128 bit keys)
+	 hash algorithm: Secure Hash Algorithm 96
+	 authentication method: Pre-Shared Key
+	 PRF method: hmac-sha1
+	 Diffie-Hellman Group: #2 (1024 bit)
+	 lifetime: [300 - 86400] seconds, no volume limit
+Default Suite-B 128bit ECDSA protection suite 10008
+	 Version 2
+	 encryption algorithm: AES - Advanced Encryption Standard (128 bit keys)
+	 hash algorithm: Secure Hash Algorithm 256-128
+	 authentication method: ECDSA-256 Signature
+	 PRF method: hmac-sha2-256
+	 Diffie-Hellman Group: Random ECP Group (256 bit)
+	 lifetime: [300 - 86400] seconds, no volume limit
+Default Suite-B 256 bit ECDSA protection suite 10009
+	 Version 2
+	 encryption algorithm: AES - Advanced Encryption Standard (256 bit keys)
+	 hash algorithm: Secure Hash Algorithm 384-192
+	 authentication method: ECDSA-384 Signature
+	 PRF method: hmac-sha2-384
+	 Diffie-Hellman Group: Random ECP Group (384 bit)
+	 lifetime: [300 - 86400] seconds, no volume limit
+Default RAP IKEv2 RSA protection suite for image upgrade/downgrade 10012
+	 Version 2
+	 encryption algorithm: AES - Advanced Encryption Standard (256 bit keys)
+	 hash algorithm: Secure Hash Algorithm 96
+	 authentication method: Rivest-Shamir-Adelman Signature
+	 PRF method: hmac-sha1
+	 Diffie-Hellman Group: #14 (2048 bit)
+	 lifetime: [300 - 86400] seconds, no volume limit
+Default RAP PSK protection suite for image upgrade/downgrade 10013
+	 Version 1
+	 encryption algorithm: AES - Advanced Encryption Standard (256 bit keys)
+	 hash algorithm: Secure Hash Algorithm 160
+	 authentication method: Pre-Shared Key
+	 Diffie-Hellman Group: #14 (2048 bit)
+	 lifetime: [300 - 86400] seconds, no volume limit
+

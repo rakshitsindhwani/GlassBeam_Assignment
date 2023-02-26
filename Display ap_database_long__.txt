@@ -1,0 +1,21 @@
+ap database long  
+
+
+AP Database
+-----------
+Name  Group  AP Type  IP Address  Status  Flags  Switch IP  Standby IP  Wired MAC Address  Serial #  Port  FQLN  Outer IP  User
+----  -----  -------  ----------  ------  -----  ---------  ----------  -----------------  --------  ----  ----  --------  ----
+
+Flags: U = Unprovisioned; N = Duplicate name; G = No such group; L = Unlicensed
+       I = Inactive; D = Dirty or no config; E = Regulatory Domain Mismatch
+       X = Maintenance Mode; P = PPPoE AP; B = Built-in AP; s = LACP striping
+       R = Remote AP; R- = Remote AP requires Auth; C = Cellular RAP;
+       c = CERT-based RAP; 1 = 802.1x authenticated AP; 2 = Using IKE version 2
+       u = Custom-Cert RAP; S = Standby-mode AP; J = USB cert at AP
+       i = Indoor; o = Outdoor
+       M = Mesh node; Y = Mesh Recovery
+
+Port information is available only on 6xx.
+
+Total APs:0
+

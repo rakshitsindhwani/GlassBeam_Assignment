@@ -1,0 +1,29 @@
+ap license-usage  
+
+
+AP Licenses
+-----------
+Type                      Number
+----                      ------
+AP Licenses               486
+PEF Licenses              486
+Overall AP License Limit  486
+
+AP Usage
+--------
+Type             Count
+----             -----
+Active CAPs      0
+Standby CAPs     0
+RAPs             0
+Remote-node APs  0
+Tunneled nodes   0
+Total APs        0
+
+Remaining AP Capacity
+---------------------
+Type  Number
+----  ------
+CAPs  486
+RAPs  486
+

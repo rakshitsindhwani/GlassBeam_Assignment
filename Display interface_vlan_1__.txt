@@ -1,0 +1,16 @@
+interface vlan 1  
+
+
+VLAN1 is up line protocol is up
+Hardware is CPU Interface, Interface address is 77:6F:6B:79:99:67 (bia 77:6F:6B:79:99:67)
+Description: 802.1Q VLAN
+
+IPv6 Router Advertisements are disabled
+Routing interface is enable, Forwarding mode is enable 
+Directed broadcast is disabled, BCMC Optimization disabled ProxyARP disabled Suppress ARP enable
+Encapsulation 802, loopback not set
+MTU 1500 bytes
+Last clearing of "show interface" counters 21 day 0 hr 46 min 55 sec 
+link status last changed 21 day 0 hr 44 min 2 sec 
+Proxy Arp is disabled for the Interface
+

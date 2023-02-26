@@ -1,0 +1,12 @@
+airgroup cppm-server aaa  
+
+
+Airgroup AAA profile
+--------------------
+Parameter                                                Value
+---------                                                -----
+Server Group                                             N/A
+RFC 3576 server                                          N/A
+Configure dead time for a down Server                    10
+Configure UDP port to receive RFC 3576 server requests.  5999
+

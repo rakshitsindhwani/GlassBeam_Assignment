@@ -1,0 +1,9 @@
+datapath mobility mcast-table  
+
+
+Datapath Mobility Multicast Table
+---------------------------------
+
+MobTunnel  HomeVlan  McastGroup  RefCount  Members(tunnels)
+---------  --------  ----------  --------  -----------------
+

@@ -1,0 +1,7 @@
+country  
+
+
+Country:US
+Model:Hiwi7210-US
+Hardware:Restricted US
+

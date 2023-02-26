@@ -1,0 +1,18 @@
+acl hits  
+
+
+User Role ACL Hits
+------------------
+Role  Policy  Src  Dst  Service/Application  Action  Dest/Opcode  New Hits  Total Hits  Index  Ipv4/Ipv6
+----  ------  ---  ---  -------------------  ------  -----------  --------  ----------  -----  ---------
+
+Port Based Session ACL
+----------------------
+Policy  Src  Dst  Service/Application  Action  Dest/Opcode  New Hits  Total Hits  Index  Ipv4/Ipv6
+------  ---  ---  -------------------  ------  -----------  --------  ----------  -----  ---------
+
+Port ACL Hits
+-------------
+ACL  ACE  New Hits  Total Hits  Index  Ipv4/Ipv6
+---  ---  --------  ----------  -----  ---------
+

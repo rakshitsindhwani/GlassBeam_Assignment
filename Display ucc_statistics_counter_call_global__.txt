@@ -1,0 +1,19 @@
+ucc statistics counter call global  
+
+
+System-wide Call Counters:
+--------------------------
+Call Originated  Call Terminated  Active  Success  Failed  Blocked  Aborted  Forwarded  WMM AC-VI  WMM AC-VO  WMM-BK  WMM-BE
+---------------  ---------------  ------  -------  ------  -------  -------  ---------  ---------  ---------  ------  ------
+0                0                0       0        0       0        0        0          0          0          0       0
+
+
+Device Type Allocations:
+------------------------
+Device Type  WMM AC-VI  WMM AC-VO  WMM-BK  WMM-BE
+-----------  ---------  ---------  ------  ------
+NA           NA         NA         NA      NA
+
+
+WMM (VI, VO, BK, BE):total calls with received priority
+

@@ -1,0 +1,12 @@
+ip mobile domain  
+
+
+
+*** WARNING ***: Mobility service is disabled (router mobile)
+
+Mobility Domains: 1 domain(s)
+-----------------------------
+
+Domain name default
+   Home Agent Table
+

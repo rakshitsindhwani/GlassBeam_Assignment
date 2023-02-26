@@ -1,0 +1,30 @@
+wms system  
+
+
+System Configuration
+--------------------
+Key                        Value
+---                        -----
+max-ap-threshold           0
+max-sta-threshold          0
+max-rbtree-entries         0
+max-system-wm              1000
+system-wm-update-interval  8
+
+System State
+-------------
+Key                    Value
+---                    -----
+Max AP Threshold       50000
+Max STA Threshold      150000
+Total AP Count         0
+Total STA Count        0
+Max RB-tree Threshold  600000
+Current RB-Tree Count  0
+Poll Count(Max)        0(0)
+
+Learned OUIs for Deployed APs
+------------------------------
+OUI
+---
+

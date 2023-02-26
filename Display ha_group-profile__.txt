@@ -1,0 +1,10 @@
+ha group-profile  
+
+
+HA group information List
+-------------------------
+Name  Profile Status
+----  --------------
+
+Total:0
+

@@ -1,0 +1,11 @@
+ipv6 mld proxy-stats  
+
+
+MLD Proxy Statistics(Upstream)
+------------------------------
+Name     Sent  Received
+----     ----  --------
+Queries  -     0
+Joins    0     0
+Leaves   0     0
+

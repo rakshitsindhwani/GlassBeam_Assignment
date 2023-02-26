@@ -1,0 +1,15 @@
+ip dhcp statistics  
+
+
+DHCPv4 disabled; DHCPv6 disabled
+
+DHCP Pools
+----------
+Network Name  Type  Active  Configured leases  Active leases  Free leases  Expired leases  Abandoned leases
+------------  ----  ------  -----------------  -------------  -----------  --------------  ----------------
+ 
+Current leases          0
+Total leases            5120
+ 
+NOTE: To make a DHCPv6 pool active, ensure that the pool name is added in vlan interface
+

@@ -1,0 +1,6 @@
+boot  
+
+Config File: default.cfg
+
+Boot Partition: PARTITION 1
+

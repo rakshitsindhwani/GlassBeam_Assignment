@@ -1,0 +1,20 @@
+ipv6 firewall  
+
+
+Global IPv6 firewall policies
+-----------------------------
+Policy                                      Action    Rate       Port
+------                                      ------    ----       ----
+Monitor ping attack                         Disabled              
+Monitor TCP SYN attack                      Disabled              
+Monitor IPv6 sessions attack                Disabled              
+Deny inter user bridging                    Disabled              
+Drop all IPv6 fragments                     Disabled              
+Per-packet logging                          Disabled              
+Enforce TCP handshake before allowing data  Disabled              
+Prohibit RST replay attack                  Disabled              
+Session Idle Timeout                        Disabled              
+Prohibit IPv6 Spoofing                      Disabled              
+Extension header parse length               Enabled   100 bytes   
+Stateful ICMP Processing                    Disabled              
+

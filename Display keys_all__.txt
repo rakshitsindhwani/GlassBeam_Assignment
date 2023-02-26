@@ -1,0 +1,41 @@
+keys all  
+
+
+Licensed Features
+-----------------
+Feature                                             Status
+-------                                             ------
+Access Points                                       486
+MUXes                                               Unlimited
+External Servers                                    Unlimited
+xSec Users                                          Unlimited
+CIM Users                                           Unlimited
+Contexts                                            Unlimited
+3rd-party Remote APs                                Unlimited
+RF Protect                                          0
+VPN Server Module                                   16384
+xSec Module                                         0
+Application-Acceleration Remote APs                 Unlimited
+Next Generation Policy Enforcement Firewall Module  486
+Advanced Cryptography                               0
+WLAN Switch                                         ENABLED
+RF Protect                                          DISABLED
+RF Director                                         ENABLED
+Policy Enforcement Firewall                         ENABLED
+Auto Radio Resource Alloc                           ENABLED
+Adaptive Radio Management                           ENABLED
+VPN Server                                          ENABLED
+Wired 802.1X                                        ENABLED
+Secure Access                                       ENABLED
+Wired Grid Points                                   ENABLED
+xSec Module                                         DISABLED
+Remote AP VPN Termination                           ENABLED
+Location API                                        DISABLED
+Mesh Visualization                                  DISABLED
+Power Over Ethernet                                 DISABLED
+Application Acceleration                            DISABLED
+Centralized Encryption                              DISABLED
+Policy Enforcement Firewall for VPN users           DISABLED
+Advanced Cryptography                               DISABLED
+Maritime Regulatory Domain                          DISABLED
+

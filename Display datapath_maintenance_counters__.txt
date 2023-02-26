@@ -1,0 +1,14 @@
+datapath maintenance counters  
+
+
+Datapath Maintenance Statistics
+-------------------------------
+Buffer Underruns       0
+BWM Buffer Exhaustion  1388628
+Tunnel Route Failures  0
+ECC Errors             0
+PCI Errors             0
+Length Errors          0
+Memory Size            0 MB
+Memory Speed           0 MHz
+

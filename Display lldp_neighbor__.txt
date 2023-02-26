@@ -1,0 +1,12 @@
+lldp neighbor  
+
+
+Capability codes: (R)Router, (B)Bridge, (A)Access Point, (P)Phone, (S)Station
+                  (r)Repeater, (O)Other
+LLDP Neighbor Information
+-------------------------
+Local Intf  Chassis ID  Capability  Remote Intf  Expiry (Secs)  System Name
+----------  ----------  ----------  -----------  -------------  -----------
+
+Number of neighbors: 0
+

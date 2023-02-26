@@ -1,0 +1,5 @@
+vpdn pptp local pool  
+
+
+No Pool configured
+

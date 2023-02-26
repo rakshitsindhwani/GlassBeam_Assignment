@@ -1,0 +1,21 @@
+datapath mobility stats  
+
+
+Datapath Mobility Stats
+
+Mcast group entry alloc errors          : 0
+Frames flooded over MMG (@HA)           : 0
+Frames subjected to MMG (@FA)           : 0
+Frames sent to roamed clients           : 0
+HA Discovery failure to notify NACK     : 0
+HA Discovery invalid DCT                : 0
+HA Discovery DCT allocation failed      : 0
+HA Discovery Probes sent                : 0
+HA Discovery NULL bridge entry in DCT   : 0
+HA Discovery failed to start            : 0
+HA Discovery successfully started       : 0
+HAT insert failure                      : 0
+HAT insert success                      : 0
+HAT delete failure                      : 0
+HAT delete success                      : 0
+

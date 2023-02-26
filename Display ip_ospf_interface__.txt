@@ -1,0 +1,8 @@
+ip ospf interface  
+
+
+OSPF is disabled
+
+
+
+

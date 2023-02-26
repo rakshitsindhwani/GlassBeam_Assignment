@@ -1,0 +1,11 @@
+ucc configuration sip  
+
+
+SIP settings
+------------
+Parameter         Value
+---------         -----
+Session Timer     Disabled
+Session Expiry    300 sec
+Dialplan Profile  N/A
+

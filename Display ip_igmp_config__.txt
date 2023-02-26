@@ -1,0 +1,20 @@
+ip igmp config  
+
+
+IGMP Config
+-----------
+Name                              Value
+----                              -----
+robustness-variable               2
+query-interval                    125
+query-response-interval           100
+startup-query-interval            31
+startup-query-count               2
+last-member-query-interval        10
+last-member-query-count           2
+version-1-router-present-timeout  400
+version-2-router-present-timeout  400
+max-members-per-group             300
+quick-client-convergence          enabled
+ssm-range                         IANA standard range. 252.2.2.2/8
+

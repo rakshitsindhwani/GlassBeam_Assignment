@@ -1,0 +1,9 @@
+threshold-limits user-capacity  
+
+
+Threshold Values For No of Users 
+---------------------------------
+Default(%)  Current(%)  MAX Users  Current Users
+----------  ----------  ---------  -------------
+80          80          16384      0
+

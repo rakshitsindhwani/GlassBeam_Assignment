@@ -1,0 +1,6 @@
+tpm errorlog  
+
+
+12092016:22:38:14>>ERROR>>Opened file /tmp/fieldPrivKeys/private.key.30
+12092016:22:38:14>>ERROR>>Closing file
+
